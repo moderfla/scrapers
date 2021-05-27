@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1727
+    "totalRegisters": 1729
   },
   "payload": [
     {
@@ -18,6 +18,34 @@
       "valorTotalOferta": 55.65,
       "dataEmissao": "26/03/2021",
       "descrIdentificacaoCRI": 1485
+    },
+    {
+      "codOferta": 1474,
+      "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21C0599740",
+      "numSerie": 298,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 25.46,
+      "valorTotalOferta": 26.49,
+      "dataEmissao": "25/03/2021",
+      "descrIdentificacaoCRI": 1474
+    },
+    {
+      "codOferta": 1474,
+      "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21C0599747",
+      "numSerie": 320,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 1.03,
+      "valorTotalOferta": 26.49,
+      "dataEmissao": "25/03/2021",
+      "descrIdentificacaoCRI": 1474
     },
     {
       "codOferta": 1483,
