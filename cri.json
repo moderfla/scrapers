@@ -2,9 +2,51 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1729
+    "totalRegisters": 1736
   },
   "payload": [
+    {
+      "codOferta": 1488,
+      "fantasiaEmissor": "VERT COMPANHIA SECURITIZADORA",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+      "numEmissao": 38,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21D0695718",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 48,
+      "valorTotalOferta": 90,
+      "dataEmissao": "20/04/2021",
+      "descrIdentificacaoCRI": 1488
+    },
+    {
+      "codOferta": 1488,
+      "fantasiaEmissor": "VERT COMPANHIA SECURITIZADORA",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+      "numEmissao": 38,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21D0696194",
+      "numSerie": 2,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 42,
+      "valorTotalOferta": 90,
+      "dataEmissao": "20/04/2021",
+      "descrIdentificacaoCRI": 1488
+    },
+    {
+      "codOferta": 1479,
+      "fantasiaEmissor": "BARIGUI SECURITIZADORA SA",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21C0641790",
+      "numSerie": 88,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 83.74,
+      "valorTotalOferta": 83.74,
+      "dataEmissao": "31/03/2021",
+      "descrIdentificacaoCRI": 1479
+    },
     {
       "codOferta": 1485,
       "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
@@ -242,6 +284,20 @@
       "valorTotalOferta": 51.82,
       "dataEmissao": "20/01/2021",
       "descrIdentificacaoCRI": 1448
+    },
+    {
+      "codOferta": 1472,
+      "fantasiaEmissor": "OURINVEST SECURITIZADORA",
+      "nomeAgenteFiduciario": "H. COMMCOR DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21A0742342",
+      "numSerie": 33,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 20,
+      "valorTotalOferta": 20,
+      "dataEmissao": "20/01/2021",
+      "descrIdentificacaoCRI": 1472
     },
     {
       "codOferta": 1446,
@@ -816,6 +872,48 @@
       "valorTotalOferta": 91.34,
       "dataEmissao": "22/10/2020",
       "descrIdentificacaoCRI": 1466
+    },
+    {
+      "codOferta": 1456,
+      "fantasiaEmissor": "HABITASEC SECURITIZADORA SA",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20J0837296",
+      "numSerie": 214,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 76,
+      "valorTotalOferta": 114,
+      "dataEmissao": "19/10/2020",
+      "descrIdentificacaoCRI": 1456
+    },
+    {
+      "codOferta": 1456,
+      "fantasiaEmissor": "HABITASEC SECURITIZADORA SA",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20J0846991",
+      "numSerie": 215,
+      "indTipoCRI": "Mezanino",
+      "valorGlobalSerie": 23,
+      "valorTotalOferta": 114,
+      "dataEmissao": "19/10/2020",
+      "descrIdentificacaoCRI": 1456
+    },
+    {
+      "codOferta": 1456,
+      "fantasiaEmissor": "HABITASEC SECURITIZADORA SA",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20J0847216",
+      "numSerie": 216,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 15,
+      "valorTotalOferta": 114,
+      "dataEmissao": "19/10/2020",
+      "descrIdentificacaoCRI": 1456
     },
     {
       "codOferta": 1416,
