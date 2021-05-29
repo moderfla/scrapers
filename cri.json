@@ -2,9 +2,23 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1736
+    "totalRegisters": 1738
   },
   "payload": [
+    {
+      "codOferta": 1497,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX",
+      "numEmissao": 1,
+      "indTipoOferta": "Dispensada de Registro na CVM",
+      "codCETIP": "21E0407330",
+      "numSerie": 355,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 75,
+      "valorTotalOferta": 75,
+      "dataEmissao": "07/05/2021",
+      "descrIdentificacaoCRI": 1497
+    },
     {
       "codOferta": 1488,
       "fantasiaEmissor": "VERT COMPANHIA SECURITIZADORA",
@@ -1082,6 +1096,20 @@
       "valorTotalOferta": 0.7,
       "dataEmissao": "09/09/2020",
       "descrIdentificacaoCRI": 1370
+    },
+    {
+      "codOferta": 1504,
+      "fantasiaEmissor": "COMPANHIA PROVINCIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 3,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20H0164476",
+      "numSerie": 17,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 8.4,
+      "valorTotalOferta": 8.4,
+      "dataEmissao": "04/09/2020",
+      "descrIdentificacaoCRI": 1504
     },
     {
       "codOferta": 1377,
