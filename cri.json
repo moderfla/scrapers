@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1738
+    "totalRegisters": 1741
   },
   "payload": [
     {
@@ -46,6 +46,48 @@
       "valorTotalOferta": 90,
       "dataEmissao": "20/04/2021",
       "descrIdentificacaoCRI": 1488
+    },
+    {
+      "codOferta": 1489,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 379,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21D0001232",
+      "numSerie": 379,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 400,
+      "valorTotalOferta": 400,
+      "dataEmissao": "15/04/2021",
+      "descrIdentificacaoCRI": 1489
+    },
+    {
+      "codOferta": 1498,
+      "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "PENTÁGONO S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS,",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública",
+      "codCETIP": "21D0862572",
+      "numSerie": 324,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 1500,
+      "valorTotalOferta": 1500,
+      "dataEmissao": "15/04/2021",
+      "descrIdentificacaoCRI": 1498
+    },
+    {
+      "codOferta": 1478,
+      "fantasiaEmissor": "ISEC SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VORTX",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 240,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 110,
+      "valorTotalOferta": 110,
+      "dataEmissao": "06/04/2021",
+      "descrIdentificacaoCRI": 1478
     },
     {
       "codOferta": 1479,
