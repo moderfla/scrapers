@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1741
+    "totalRegisters": 1743
   },
   "payload": [
     {
@@ -18,6 +18,34 @@
       "valorTotalOferta": 75,
       "dataEmissao": "07/05/2021",
       "descrIdentificacaoCRI": 1497
+    },
+    {
+      "codOferta": 1502,
+      "fantasiaEmissor": "ISEC SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DTVM",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21D0782031",
+      "numSerie": 208,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 112.45,
+      "valorTotalOferta": 144.7,
+      "dataEmissao": "28/04/2021",
+      "descrIdentificacaoCRI": 1502
+    },
+    {
+      "codOferta": 1502,
+      "fantasiaEmissor": "ISEC SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DTVM",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21D0827257",
+      "numSerie": 257,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 32.24,
+      "valorTotalOferta": 144.7,
+      "dataEmissao": "28/04/2021",
+      "descrIdentificacaoCRI": 1502
     },
     {
       "codOferta": 1488,
