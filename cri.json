@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1743
+    "totalRegisters": 1744
   },
   "payload": [
     {
@@ -5254,6 +5254,20 @@
       "valorTotalOferta": 102,
       "dataEmissao": "26/12/2018",
       "descrIdentificacaoCRI": 1412
+    },
+    {
+      "codOferta": 1436,
+      "fantasiaEmissor": "LEADS CIA. SECURITIZADORA",
+      "nomeAgenteFiduciario": "PLANEER TRUSTEE DTVM LTDA",
+      "numEmissao": 2,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "18L1367003",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 20,
+      "valorTotalOferta": 20,
+      "dataEmissao": "26/12/2018",
+      "descrIdentificacaoCRI": 1436
     },
     {
       "codOferta": 1033,
