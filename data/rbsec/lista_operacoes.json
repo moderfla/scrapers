@@ -3052,48 +3052,6 @@
     "agenciaRating": null
   },
   {
-    "id": 107,
-    "idOperacao": 107,
-    "codigoRb": "CRI.1.CIA.186",
-    "nomeDevedor": "Kroton | Campus Anhanguera Brasília",
-    "indexador": "IGPM + 6.6929% a.a.",
-    "precoUnitario": null,
-    "dataVencimento": "2021-08-12T00:00:00",
-    "status": null,
-    "statusPassivoOperacao": {
-      "key": 1,
-      "value": "Ativa",
-      "raw": "Ativa"
-    },
-    "garantiaReal": null,
-    "fundos": null,
-    "rating": null,
-    "servicer": [],
-    "masterService": "RB Capital Serviços de Crédito LTDA",
-    "concentracao": "Concentrado",
-    "oferta": "ICVM476",
-    "descricaoSegmento": null,
-    "codigoIf": "18H0864201",
-    "tipoIndexador": "IGPM",
-    "naturezaOperacao": "Corporativo",
-    "isin": "BRRBRACRI1Q7",
-    "serie": 186,
-    "emissao": 1,
-    "tipoPagamento": {
-      "key": 3,
-      "value": "Correção Monetária",
-      "raw": "CorrecaoMonetaria"
-    },
-    "taxaPosFixada": {
-      "key": 0,
-      "value": null,
-      "raw": "0"
-    },
-    "percentualFlutuante": null,
-    "taxaJuros": 6.6929,
-    "agenciaRating": null
-  },
-  {
     "id": 81,
     "idOperacao": 81,
     "codigoRb": "CRI.1.CIA.154",
@@ -11949,6 +11907,48 @@
     },
     "percentualFlutuante": null,
     "taxaJuros": 7.7603,
+    "agenciaRating": null
+  },
+  {
+    "id": 107,
+    "idOperacao": 107,
+    "codigoRb": "CRI.1.CIA.186",
+    "nomeDevedor": "Kroton | Campus Anhanguera Brasília",
+    "indexador": "IGPM + 6.6929% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2021-08-12T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 3,
+      "value": "Resgatada",
+      "raw": "Resgatada"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "18H0864201",
+    "tipoIndexador": "IGPM",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRI1Q7",
+    "serie": 186,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": {
+      "key": 0,
+      "value": null,
+      "raw": "0"
+    },
+    "percentualFlutuante": null,
+    "taxaJuros": 6.6929,
     "agenciaRating": null
   },
   {
