@@ -7008,6 +7008,48 @@
     "agenciaRating": null
   },
   {
+    "id": 295,
+    "idOperacao": 311,
+    "codigoRb": "CRI.1.CIA.317",
+    "nomeDevedor": "Share",
+    "indexador": "CDI + 3.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2031-05-22T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "21D0524815",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Residencial",
+    "isin": "BRRBRACRI879",
+    "serie": 317,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 3.5,
+    "agenciaRating": null
+  },
+  {
     "id": 293,
     "idOperacao": 309,
     "codigoRb": "CRI.1.CIA.335",
