@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1749
+    "totalRegisters": 1750
   },
   "payload": [
     {
@@ -130,6 +130,20 @@
       "valorTotalOferta": 1500,
       "dataEmissao": "15/04/2021",
       "descrIdentificacaoCRI": 1498
+    },
+    {
+      "codOferta": 1494,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DTVM S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21D0737500",
+      "numSerie": 371,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 200,
+      "valorTotalOferta": 200,
+      "dataEmissao": "14/04/2021",
+      "descrIdentificacaoCRI": 1494
     },
     {
       "codOferta": 1478,
