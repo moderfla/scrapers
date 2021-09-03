@@ -2,9 +2,23 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1750
+    "totalRegisters": 1751
   },
   "payload": [
+    {
+      "codOferta": 1547,
+      "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21G0637148",
+      "numSerie": 370,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 41,
+      "valorTotalOferta": 41,
+      "dataEmissao": "15/07/2021",
+      "descrIdentificacaoCRI": 1547
+    },
     {
       "codOferta": 1546,
       "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
