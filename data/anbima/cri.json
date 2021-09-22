@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1753
+    "totalRegisters": 1754
   },
   "payload": [
     {
@@ -690,6 +690,20 @@
       "valorTotalOferta": 50,
       "dataEmissao": "17/12/2020",
       "descrIdentificacaoCRI": 1432
+    },
+    {
+      "codOferta": 1575,
+      "fantasiaEmissor": "COMPANHIA PROVINCIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 3,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20J0566786",
+      "numSerie": 26,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 10.3,
+      "valorTotalOferta": 10.3,
+      "dataEmissao": "17/12/2020",
+      "descrIdentificacaoCRI": 1575
     },
     {
       "codOferta": 1427,
