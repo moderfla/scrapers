@@ -2,9 +2,37 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1755
+    "totalRegisters": 1761
   },
   "payload": [
+    {
+      "codOferta": 1576,
+      "fantasiaEmissor": "BARIGUI SECURITIZADORA SA",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S/A",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21H0770120",
+      "numSerie": 94,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 38.63,
+      "valorTotalOferta": 38.63,
+      "dataEmissao": "26/08/2021",
+      "descrIdentificacaoCRI": 1576
+    },
+    {
+      "codOferta": 1577,
+      "fantasiaEmissor": "BARIGUI SECURITIZADORA SA",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S/A",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21H0770156",
+      "numSerie": 95,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 36.5,
+      "valorTotalOferta": 36.5,
+      "dataEmissao": "26/08/2021",
+      "descrIdentificacaoCRI": 1577
+    },
     {
       "codOferta": 1547,
       "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
@@ -32,6 +60,34 @@
       "valorTotalOferta": 45.51,
       "dataEmissao": "02/07/2021",
       "descrIdentificacaoCRI": 1546
+    },
+    {
+      "codOferta": 1534,
+      "fantasiaEmissor": "BARIGUI SECURITIZADORA SA",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S/A",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0929727",
+      "numSerie": 91,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 24.73,
+      "valorTotalOferta": 29.09,
+      "dataEmissao": "30/06/2021",
+      "descrIdentificacaoCRI": 1534
+    },
+    {
+      "codOferta": 1534,
+      "fantasiaEmissor": "BARIGUI SECURITIZADORA SA",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S/A",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0930158",
+      "numSerie": 92,
+      "indTipoCRI": "Júnior",
+      "valorGlobalSerie": 4.36,
+      "valorTotalOferta": 29.09,
+      "dataEmissao": "30/06/2021",
+      "descrIdentificacaoCRI": 1534
     },
     {
       "codOferta": 1505,
@@ -1978,6 +2034,34 @@
       "valorTotalOferta": 131.75,
       "dataEmissao": "05/05/2020",
       "descrIdentificacaoCRI": 1303
+    },
+    {
+      "codOferta": 1469,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "SIMPLIFIC PAVARINI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20D0995632",
+      "numSerie": 387,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 3.95,
+      "valorTotalOferta": 5.65,
+      "dataEmissao": "29/04/2020",
+      "descrIdentificacaoCRI": 1469
+    },
+    {
+      "codOferta": 1469,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "SIMPLIFIC PAVARINI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 388,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 1.69,
+      "valorTotalOferta": 5.65,
+      "dataEmissao": "29/04/2020",
+      "descrIdentificacaoCRI": 1469
     },
     {
       "codOferta": 1312,
