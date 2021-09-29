@@ -8702,7 +8702,7 @@
     "codigoIf": "21I0277499",
     "tipoIndexador": "IPCA",
     "naturezaOperacao": "Corporativo",
-    "isin": "21I0277499",
+    "isin": "BRRBRACRI9I7",
     "serie": 383,
     "emissao": 1,
     "tipoPagamento": {
@@ -10040,7 +10040,7 @@
     "codigoIf": "SFCL11",
     "tipoIndexador": "IPCA",
     "naturezaOperacao": "Híbrido",
-    "isin": "SFCL11",
+    "isin": "BRRBRACRI9J5",
     "serie": 1,
     "emissao": 1,
     "tipoPagamento": {
@@ -10078,7 +10078,7 @@
     "codigoIf": "SFCL21",
     "tipoIndexador": "IPCA",
     "naturezaOperacao": "Híbrido",
-    "isin": "SFCL21",
+    "isin": "BRRBRACRI9K3",
     "serie": 2,
     "emissao": 1,
     "tipoPagamento": {
@@ -10116,7 +10116,7 @@
     "codigoIf": "SFCL31",
     "tipoIndexador": "IPCA",
     "naturezaOperacao": "Híbrido",
-    "isin": "SFCL31",
+    "isin": "BRRBRACRI9L1",
     "serie": 3,
     "emissao": 1,
     "tipoPagamento": {
@@ -10154,7 +10154,7 @@
     "codigoIf": "SFCL41",
     "tipoIndexador": "IPCA",
     "naturezaOperacao": "Híbrido",
-    "isin": "SFCL41",
+    "isin": "BRRBRACRI9M9",
     "serie": 4,
     "emissao": 1,
     "tipoPagamento": {
