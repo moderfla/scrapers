@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1774
+    "totalRegisters": 1777
   },
   "payload": [
     {
@@ -104,6 +104,20 @@
       "descrIdentificacaoCRI": 1550
     },
     {
+      "codOferta": 1516,
+      "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "PENTÁGONO S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0001459",
+      "numSerie": 363,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 20,
+      "valorTotalOferta": 20,
+      "dataEmissao": "02/06/2021",
+      "descrIdentificacaoCRI": 1516
+    },
+    {
       "codOferta": 1505,
       "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
       "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -116,6 +130,34 @@
       "valorTotalOferta": 75,
       "dataEmissao": "20/05/2021",
       "descrIdentificacaoCRI": 1505
+    },
+    {
+      "codOferta": 1512,
+      "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21E0630613",
+      "numSerie": 342,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 10,
+      "valorTotalOferta": 11.6,
+      "dataEmissao": "19/05/2021",
+      "descrIdentificacaoCRI": 1512
+    },
+    {
+      "codOferta": 1512,
+      "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21E0631138",
+      "numSerie": 343,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 1.6,
+      "valorTotalOferta": 11.6,
+      "dataEmissao": "19/05/2021",
+      "descrIdentificacaoCRI": 1512
     },
     {
       "codOferta": 1518,
