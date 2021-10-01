@@ -8792,6 +8792,128 @@
     "agenciaRating": null
   },
   {
+    "id": 342,
+    "idOperacao": 358,
+    "codigoRb": "CRI.1.CIA.380",
+    "nomeDevedor": "Almeida Jr.",
+    "indexador": "CDI + 2.9000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2033-09-19T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "21I0801132",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRI9R8",
+    "serie": 380,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 2.9,
+    "agenciaRating": null
+  },
+  {
+    "id": 365,
+    "idOperacao": 381,
+    "codigoRb": "CRI.1.CIA.375",
+    "nomeDevedor": "Recel",
+    "indexador": "IPCA + 9.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2031-09-24T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "21I0802801",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Residencial",
+    "isin": "BRRBRACRI9P2",
+    "serie": 375,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 9.5,
+    "agenciaRating": null
+  },
+  {
+    "id": 368,
+    "idOperacao": 384,
+    "codigoRb": "CRI.1.CIA.377",
+    "nomeDevedor": "Jardine",
+    "indexador": "CDI + 6.1800% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2026-09-24T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "21I0802807",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Residencial",
+    "isin": "BRRBRACRI9N7",
+    "serie": 377,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 6.18,
+    "agenciaRating": null
+  },
+  {
     "id": 3,
     "idOperacao": 3,
     "codigoRb": "CRA.1.CIA.3",
@@ -9891,6 +10013,44 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 4.6,
+    "agenciaRating": null
+  },
+  {
+    "id": 367,
+    "idOperacao": 383,
+    "codigoRb": "CRA.14.CIA.1",
+    "nomeDevedor": "Eldorado",
+    "indexador": "IPCA + 7.1945% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2027-09-15T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA021002YB",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRA0Z8",
+    "serie": 1,
+    "emissao": 14,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 7.1945,
     "agenciaRating": null
   },
   {
