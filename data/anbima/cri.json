@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1777
+    "totalRegisters": 1780
   },
   "payload": [
     {
@@ -32,6 +32,48 @@
       "valorTotalOferta": 36.5,
       "dataEmissao": "26/08/2021",
       "descrIdentificacaoCRI": 1577
+    },
+    {
+      "codOferta": 1581,
+      "fantasiaEmissor": "OURINVEST SECURITIZADORA",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21H0891311",
+      "numSerie": 43,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 42.04,
+      "valorTotalOferta": 168.17,
+      "dataEmissao": "23/08/2021",
+      "descrIdentificacaoCRI": 1581
+    },
+    {
+      "codOferta": 1581,
+      "fantasiaEmissor": "OURINVEST SECURITIZADORA",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21H0891390",
+      "numSerie": 44,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 126.13,
+      "valorTotalOferta": 168.17,
+      "dataEmissao": "23/08/2021",
+      "descrIdentificacaoCRI": 1581
+    },
+    {
+      "codOferta": 1562,
+      "fantasiaEmissor": "ISEC SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21G0785091",
+      "numSerie": 314,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 160,
+      "valorTotalOferta": 160,
+      "dataEmissao": "26/07/2021",
+      "descrIdentificacaoCRI": 1562
     },
     {
       "codOferta": 1547,
