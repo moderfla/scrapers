@@ -6084,44 +6084,6 @@
     "agenciaRating": null
   },
   {
-    "id": 254,
-    "idOperacao": 270,
-    "codigoRb": "CRI.1.CIA.290",
-    "nomeDevedor": "SG Laguna",
-    "indexador": "IPCA + 10.5000% a.a.",
-    "precoUnitario": null,
-    "dataVencimento": "2030-11-27T00:00:00",
-    "status": null,
-    "statusPassivoOperacao": {
-      "key": 1,
-      "value": "Ativa",
-      "raw": "Ativa"
-    },
-    "garantiaReal": null,
-    "fundos": null,
-    "rating": null,
-    "servicer": [],
-    "masterService": "RB Capital Serviços de Crédito LTDA",
-    "concentracao": "Pulverizada",
-    "oferta": "ICVM476",
-    "descricaoSegmento": null,
-    "codigoIf": "20K0611594",
-    "tipoIndexador": "IPCA",
-    "naturezaOperacao": "Residencial",
-    "isin": "BRRBRACRI7G5",
-    "serie": 290,
-    "emissao": 1,
-    "tipoPagamento": {
-      "key": 3,
-      "value": "Correção Monetária",
-      "raw": "CorrecaoMonetaria"
-    },
-    "taxaPosFixada": null,
-    "percentualFlutuante": null,
-    "taxaJuros": 10.5,
-    "agenciaRating": null
-  },
-  {
     "id": 268,
     "idOperacao": 284,
     "codigoRb": "CRI.1.CIA.300",
@@ -8911,6 +8873,44 @@
     },
     "percentualFlutuante": 100,
     "taxaJuros": 6.18,
+    "agenciaRating": null
+  },
+  {
+    "id": 370,
+    "idOperacao": 386,
+    "codigoRb": "CRI.1.CIA.414",
+    "nomeDevedor": "SG Laguna 2",
+    "indexador": "IPCA + 9.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2031-09-29T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "21I0823365",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Residencial",
+    "isin": "BRRBRACRI9U2",
+    "serie": 414,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 9.5,
     "agenciaRating": null
   },
   {
@@ -12923,6 +12923,44 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 5,
+    "agenciaRating": null
+  },
+  {
+    "id": 254,
+    "idOperacao": 270,
+    "codigoRb": "CRI.1.CIA.290",
+    "nomeDevedor": "SG Laguna",
+    "indexador": "IPCA + 10.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2021-09-30T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 3,
+      "value": "Resgatada",
+      "raw": "Resgatada"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Pulverizada",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "20K0611594",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Residencial",
+    "isin": "BRRBRACRI7G5",
+    "serie": 290,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 10.5,
     "agenciaRating": null
   },
   {
