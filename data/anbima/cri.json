@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1780
+    "totalRegisters": 1785
   },
   "payload": [
     {
@@ -132,6 +132,34 @@
       "descrIdentificacaoCRI": 1534
     },
     {
+      "codOferta": 1545,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F1082822",
+      "numSerie": 420,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 54.84,
+      "valorTotalOferta": 64.52,
+      "dataEmissao": "25/06/2021",
+      "descrIdentificacaoCRI": 1545
+    },
+    {
+      "codOferta": 1545,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F1083014",
+      "numSerie": 421,
+      "indTipoCRI": "Júnior",
+      "valorGlobalSerie": 9.67,
+      "valorTotalOferta": 64.52,
+      "dataEmissao": "25/06/2021",
+      "descrIdentificacaoCRI": 1545
+    },
+    {
       "codOferta": 1550,
       "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
       "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
@@ -144,6 +172,48 @@
       "valorTotalOferta": 100,
       "dataEmissao": "21/06/2021",
       "descrIdentificacaoCRI": 1550
+    },
+    {
+      "codOferta": 1574,
+      "fantasiaEmissor": "OURINVEST SECURITIZADORA",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0568989",
+      "numSerie": 39,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 25.31,
+      "valorTotalOferta": 31.64,
+      "dataEmissao": "10/06/2021",
+      "descrIdentificacaoCRI": 1574
+    },
+    {
+      "codOferta": 1574,
+      "fantasiaEmissor": "OURINVEST SECURITIZADORA",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0569207",
+      "numSerie": 40,
+      "indTipoCRI": "Mezanino",
+      "valorGlobalSerie": 3.16,
+      "valorTotalOferta": 31.64,
+      "dataEmissao": "10/06/2021",
+      "descrIdentificacaoCRI": 1574
+    },
+    {
+      "codOferta": 1574,
+      "fantasiaEmissor": "OURINVEST SECURITIZADORA",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0569252",
+      "numSerie": 41,
+      "indTipoCRI": "Júnior",
+      "valorGlobalSerie": 3.16,
+      "valorTotalOferta": 31.64,
+      "dataEmissao": "10/06/2021",
+      "descrIdentificacaoCRI": 1574
     },
     {
       "codOferta": 1516,
