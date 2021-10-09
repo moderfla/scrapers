@@ -1000,7 +1000,7 @@
     "idOperacao": 44,
     "codigoRb": "CRI.1.CIA.101",
     "nomeDevedor": "BR Malls | Compartilhada",
-    "indexador": "TR + 6.3000% a.a.",
+    "indexador": "TR + 7.5000% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2025-03-19T00:00:00",
     "status": null,
@@ -1030,7 +1030,7 @@
     },
     "taxaPosFixada": null,
     "percentualFlutuante": null,
-    "taxaJuros": 6.3,
+    "taxaJuros": 7.5,
     "agenciaRating": null
   },
   {
