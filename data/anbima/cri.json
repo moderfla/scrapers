@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1786
+    "totalRegisters": 1790
   },
   "payload": [
     {
@@ -62,6 +62,20 @@
       "descrIdentificacaoCRI": 1581
     },
     {
+      "codOferta": 1549,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21G0759046",
+      "numSerie": 393,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 240.75,
+      "valorTotalOferta": 240.75,
+      "dataEmissao": "30/07/2021",
+      "descrIdentificacaoCRI": 1549
+    },
+    {
       "codOferta": 1562,
       "fantasiaEmissor": "ISEC SECURITIZADORA S.A.",
       "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
@@ -88,6 +102,20 @@
       "valorTotalOferta": 41,
       "dataEmissao": "15/07/2021",
       "descrIdentificacaoCRI": 1547
+    },
+    {
+      "codOferta": 1542,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21G0186913",
+      "numSerie": 388,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 100,
+      "valorTotalOferta": 100,
+      "dataEmissao": "12/07/2021",
+      "descrIdentificacaoCRI": 1542
     },
     {
       "codOferta": 1546,
@@ -410,6 +438,34 @@
       "valorTotalOferta": 30,
       "dataEmissao": "26/04/2021",
       "descrIdentificacaoCRI": 1530
+    },
+    {
+      "codOferta": 1509,
+      "fantasiaEmissor": "GAIA SECURITIZADORA SA",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21D0733766",
+      "numSerie": 180,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 45,
+      "valorTotalOferta": 105.31,
+      "dataEmissao": "23/04/2021",
+      "descrIdentificacaoCRI": 1509
+    },
+    {
+      "codOferta": 1509,
+      "fantasiaEmissor": "GAIA SECURITIZADORA SA",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21D0733780",
+      "numSerie": 181,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 60.31,
+      "valorTotalOferta": 105.31,
+      "dataEmissao": "23/04/2021",
+      "descrIdentificacaoCRI": 1509
     },
     {
       "codOferta": 1488,
