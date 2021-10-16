@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1801
+    "totalRegisters": 1802
   },
   "payload": [
     {
@@ -74,6 +74,20 @@
       "valorTotalOferta": 42,
       "dataEmissao": "16/08/2021",
       "descrIdentificacaoCRI": 1572
+    },
+    {
+      "codOferta": 1560,
+      "fantasiaEmissor": "ISEC SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 4,
+      "indTipoOferta": "Dispensada de Registro na CVM",
+      "codCETIP": "21H0012919",
+      "numSerie": 283,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 120,
+      "valorTotalOferta": 120,
+      "dataEmissao": "12/08/2021",
+      "descrIdentificacaoCRI": 1560
     },
     {
       "codOferta": 1549,
