@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1802
+    "totalRegisters": 1803
   },
   "payload": [
     {
@@ -802,6 +802,20 @@
       "valorTotalOferta": 260,
       "dataEmissao": "16/03/2021",
       "descrIdentificacaoCRI": 1473
+    },
+    {
+      "codOferta": 1538,
+      "fantasiaEmissor": "OURINVEST SECURITIZADORA",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21C0792115",
+      "numSerie": 36,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 13.04,
+      "valorTotalOferta": 13.04,
+      "dataEmissao": "15/03/2021",
+      "descrIdentificacaoCRI": 1538
     },
     {
       "codOferta": 1476,
