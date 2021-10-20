@@ -8962,7 +8962,7 @@
     "nomeDevedor": "SG Laguna 2",
     "indexador": "IPCA + 9.5000% a.a.",
     "precoUnitario": null,
-    "dataVencimento": "2031-09-29T00:00:00",
+    "dataVencimento": "2031-09-28T00:00:00",
     "status": null,
     "statusPassivoOperacao": {
       "key": 1,
