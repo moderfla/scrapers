@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1803
+    "totalRegisters": 1804
   },
   "payload": [
     {
@@ -564,6 +564,20 @@
       "valorTotalOferta": 90,
       "dataEmissao": "20/04/2021",
       "descrIdentificacaoCRI": 1488
+    },
+    {
+      "codOferta": 1487,
+      "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "VORTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21D0457416",
+      "numSerie": 316,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 60,
+      "valorTotalOferta": 60,
+      "dataEmissao": "15/04/2021",
+      "descrIdentificacaoCRI": 1487
     },
     {
       "codOferta": 1489,
