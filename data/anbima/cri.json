@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1822
+    "totalRegisters": 1832
   },
   "payload": [
     {
@@ -60,6 +60,20 @@
       "valorTotalOferta": 168.17,
       "dataEmissao": "23/08/2021",
       "descrIdentificacaoCRI": 1581
+    },
+    {
+      "codOferta": 1589,
+      "fantasiaEmissor": "OURINVEST SECURITIZADORA",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21H1031711",
+      "numSerie": 42,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 31.4,
+      "valorTotalOferta": 31.4,
+      "dataEmissao": "23/08/2021",
+      "descrIdentificacaoCRI": 1589
     },
     {
       "codOferta": 1572,
@@ -286,6 +300,34 @@
       "descrIdentificacaoCRI": 1528
     },
     {
+      "codOferta": 1533,
+      "fantasiaEmissor": "ISEC SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0568504",
+      "numSerie": 301,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 133.22,
+      "valorTotalOferta": 247.56,
+      "dataEmissao": "21/06/2021",
+      "descrIdentificacaoCRI": 1533
+    },
+    {
+      "codOferta": 1533,
+      "fantasiaEmissor": "ISEC SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0569265",
+      "numSerie": 302,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 114.77,
+      "valorTotalOferta": 247.56,
+      "dataEmissao": "21/06/2021",
+      "descrIdentificacaoCRI": 1533
+    },
+    {
       "codOferta": 1550,
       "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
       "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
@@ -494,6 +536,20 @@
       "valorTotalOferta": 75,
       "dataEmissao": "07/05/2021",
       "descrIdentificacaoCRI": 1497
+    },
+    {
+      "codOferta": 1510,
+      "fantasiaEmissor": "VERT COMPANHIA SECURITIZADORA",
+      "nomeAgenteFiduciario": "VORTX DTVM LTDA.",
+      "numEmissao": 45,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21E0466562",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 18.77,
+      "valorTotalOferta": 18.77,
+      "dataEmissao": "07/05/2021",
+      "descrIdentificacaoCRI": 1510
     },
     {
       "codOferta": 1511,
@@ -1600,6 +1656,20 @@
       "valorTotalOferta": 35,
       "dataEmissao": "05/11/2020",
       "descrIdentificacaoCRI": 1434
+    },
+    {
+      "codOferta": 1461,
+      "fantasiaEmissor": "VERT COMPANHIA SECURITIZADORA",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 26,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20J0908286",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 17.83,
+      "valorTotalOferta": 17.83,
+      "dataEmissao": "30/10/2020",
+      "descrIdentificacaoCRI": 1461
     },
     {
       "codOferta": 1403,
@@ -3378,6 +3448,20 @@
       "valorTotalOferta": 128.02,
       "dataEmissao": "31/12/2019",
       "descrIdentificacaoCRI": 1231
+    },
+    {
+      "codOferta": 1449,
+      "fantasiaEmissor": "TRAVESSIA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 26,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 13.19,
+      "valorTotalOferta": 12.28,
+      "dataEmissao": "30/12/2019",
+      "descrIdentificacaoCRI": 1449
     },
     {
       "codOferta": 1541,
@@ -5984,6 +6068,48 @@
       "descrIdentificacaoCRI": 1376
     },
     {
+      "codOferta": 1439,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 215,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 8.9,
+      "valorTotalOferta": 14.4,
+      "dataEmissao": "26/02/2019",
+      "descrIdentificacaoCRI": 1439
+    },
+    {
+      "codOferta": 1439,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 216,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 1.3,
+      "valorTotalOferta": 14.4,
+      "dataEmissao": "26/02/2019",
+      "descrIdentificacaoCRI": 1439
+    },
+    {
+      "codOferta": 1439,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 217,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 4.2,
+      "valorTotalOferta": 14.4,
+      "dataEmissao": "26/02/2019",
+      "descrIdentificacaoCRI": 1439
+    },
+    {
       "codOferta": 1074,
       "fantasiaEmissor": "BARIGUI SECURITIZADORA SA",
       "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -6248,6 +6374,20 @@
       "valorTotalOferta": 15.71,
       "dataEmissao": "15/01/2019",
       "descrIdentificacaoCRI": 1075
+    },
+    {
+      "codOferta": 1438,
+      "fantasiaEmissor": "HABITASEC SECURITIZADORA SA",
+      "nomeAgenteFiduciario": "PENTÁGONO S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "numEmissao": 1,
+      "indTipoOferta": "Dispensada de Registro na CVM",
+      "codCETIP": null,
+      "numSerie": 131,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 38,
+      "valorTotalOferta": 31.2,
+      "dataEmissao": "10/01/2019",
+      "descrIdentificacaoCRI": 1438
     },
     {
       "codOferta": 1043,
