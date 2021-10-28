@@ -2,9 +2,23 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1848
+    "totalRegisters": 1849
   },
   "payload": [
+    {
+      "codOferta": 1608,
+      "fantasiaEmissor": "ISEC SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21I0931497",
+      "numSerie": 329,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 270.1,
+      "valorTotalOferta": 270.1,
+      "dataEmissao": "30/09/2021",
+      "descrIdentificacaoCRI": 1608
+    },
     {
       "codOferta": 1601,
       "fantasiaEmissor": "ISEC SECURITIZADORA S.A.",
