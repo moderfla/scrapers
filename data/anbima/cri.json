@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1849
+    "totalRegisters": 1850
   },
   "payload": [
     {
@@ -284,6 +284,20 @@
       "valorTotalOferta": 85,
       "dataEmissao": "15/07/2021",
       "descrIdentificacaoCRI": 1563
+    },
+    {
+      "codOferta": 1568,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21G0864337",
+      "numSerie": 305,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 35.5,
+      "valorTotalOferta": 35.5,
+      "dataEmissao": "15/07/2021",
+      "descrIdentificacaoCRI": 1568
     },
     {
       "codOferta": 1570,
