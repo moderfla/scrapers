@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1876
+    "totalRegisters": 1877
   },
   "payload": [
     {
@@ -18,6 +18,20 @@
       "valorTotalOferta": 270.1,
       "dataEmissao": "30/09/2021",
       "descrIdentificacaoCRI": 1608
+    },
+    {
+      "codOferta": 1616,
+      "fantasiaEmissor": "OURINVEST SECURITIZADORA",
+      "nomeAgenteFiduciario": "FRAM CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21I0912120",
+      "numSerie": 46,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 85.7,
+      "valorTotalOferta": 85.7,
+      "dataEmissao": "24/09/2021",
+      "descrIdentificacaoCRI": 1616
     },
     {
       "codOferta": 1601,
