@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1877
+    "totalRegisters": 1885
   },
   "payload": [
     {
@@ -102,6 +102,34 @@
       "valorTotalOferta": 141.54,
       "dataEmissao": "15/09/2021",
       "descrIdentificacaoCRI": 1596
+    },
+    {
+      "codOferta": 1604,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21I0855537",
+      "numSerie": 443,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 90,
+      "valorTotalOferta": 180,
+      "dataEmissao": "15/09/2021",
+      "descrIdentificacaoCRI": 1604
+    },
+    {
+      "codOferta": 1604,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21I0855623",
+      "numSerie": 444,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 90,
+      "valorTotalOferta": 180,
+      "dataEmissao": "15/09/2021",
+      "descrIdentificacaoCRI": 1604
     },
     {
       "codOferta": 1600,
@@ -214,6 +242,34 @@
       "valorTotalOferta": 31.4,
       "dataEmissao": "23/08/2021",
       "descrIdentificacaoCRI": 1589
+    },
+    {
+      "codOferta": 1591,
+      "fantasiaEmissor": "VERT COMPANHIA SECURITIZADORA",
+      "nomeAgenteFiduciario": "VORTX DTVM LTDA.",
+      "numEmissao": 57,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 1,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 20,
+      "valorTotalOferta": 20,
+      "dataEmissao": "23/08/2021",
+      "descrIdentificacaoCRI": 1591
+    },
+    {
+      "codOferta": 1578,
+      "fantasiaEmissor": "ISEC SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21H0852617",
+      "numSerie": 289,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 103.79,
+      "valorTotalOferta": 103.79,
+      "dataEmissao": "18/08/2021",
+      "descrIdentificacaoCRI": 1578
     },
     {
       "codOferta": 1572,
@@ -4778,6 +4834,62 @@
       "valorTotalOferta": 11.8,
       "dataEmissao": "01/11/2019",
       "descrIdentificacaoCRI": 1201
+    },
+    {
+      "codOferta": 1621,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VORTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 301,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 14,
+      "valorTotalOferta": 49,
+      "dataEmissao": "31/10/2019",
+      "descrIdentificacaoCRI": 1621
+    },
+    {
+      "codOferta": 1621,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VORTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 302,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 20,
+      "valorTotalOferta": 49,
+      "dataEmissao": "31/10/2019",
+      "descrIdentificacaoCRI": 1621
+    },
+    {
+      "codOferta": 1621,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VORTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 303,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 6.17,
+      "valorTotalOferta": 49,
+      "dataEmissao": "31/10/2019",
+      "descrIdentificacaoCRI": 1621
+    },
+    {
+      "codOferta": 1621,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VORTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 304,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 8.82,
+      "valorTotalOferta": 49,
+      "dataEmissao": "31/10/2019",
+      "descrIdentificacaoCRI": 1621
     },
     {
       "codOferta": 1224,
