@@ -6372,48 +6372,6 @@
     "agenciaRating": null
   },
   {
-    "id": 279,
-    "idOperacao": 295,
-    "codigoRb": "CRI.1.CIA.318",
-    "nomeDevedor": "Senado IV",
-    "indexador": "CDI + 2.9000% a.a.",
-    "precoUnitario": null,
-    "dataVencimento": "2021-12-16T00:00:00",
-    "status": null,
-    "statusPassivoOperacao": {
-      "key": 1,
-      "value": "Ativa",
-      "raw": "Ativa"
-    },
-    "garantiaReal": null,
-    "fundos": null,
-    "rating": null,
-    "servicer": [],
-    "masterService": "RB Capital Serviços de Crédito LTDA",
-    "concentracao": "Concentrado",
-    "oferta": "ICVM476",
-    "descricaoSegmento": null,
-    "codigoIf": "21A0677485",
-    "tipoIndexador": "CDI",
-    "naturezaOperacao": "Corporativo",
-    "isin": "BRRBRACRI7T8",
-    "serie": 318,
-    "emissao": 1,
-    "tipoPagamento": {
-      "key": 2,
-      "value": "Flutuante",
-      "raw": "Flutuante"
-    },
-    "taxaPosFixada": {
-      "key": 1,
-      "value": "CDI",
-      "raw": "CDI"
-    },
-    "percentualFlutuante": 100,
-    "taxaJuros": 2.9,
-    "agenciaRating": null
-  },
-  {
     "id": 280,
     "idOperacao": 296,
     "codigoRb": "CRI.1.CIA.321",
@@ -9362,6 +9320,212 @@
     "agenciaRating": null
   },
   {
+    "id": 391,
+    "idOperacao": 407,
+    "codigoRb": "CRI.1.CIA.430",
+    "nomeDevedor": "Cosmopolitano",
+    "indexador": "IPCA + 5.2000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2036-12-16T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "21L0354325",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIAD4",
+    "serie": 430,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 5.2,
+    "agenciaRating": null
+  },
+  {
+    "id": 386,
+    "idOperacao": 402,
+    "codigoRb": "CRI.1.CIA.400",
+    "nomeDevedor": "Trophy",
+    "indexador": "CDI + 0.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2027-12-17T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "21L0666609",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIAH5",
+    "serie": 400,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 0.5,
+    "agenciaRating": null
+  },
+  {
+    "id": 387,
+    "idOperacao": 403,
+    "codigoRb": "CRI.1.CIA.453",
+    "nomeDevedor": "Trophy",
+    "indexador": "CDI + 0.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2027-12-17T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "21L0668295",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIAI3",
+    "serie": 453,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 0.5,
+    "agenciaRating": null
+  },
+  {
+    "id": 388,
+    "idOperacao": 404,
+    "codigoRb": "CRI.1.CIA.454",
+    "nomeDevedor": "Trophy",
+    "indexador": "CDI + 0.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2027-12-17T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "21L0668716",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIAJ1",
+    "serie": 454,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 0.5,
+    "agenciaRating": null
+  },
+  {
+    "id": 389,
+    "idOperacao": 405,
+    "codigoRb": "CRI.1.CIA.455",
+    "nomeDevedor": "Trophy",
+    "indexador": "CDI + 0.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2027-12-17T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "21L0694148",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIAK9",
+    "serie": 455,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 0.5,
+    "agenciaRating": null
+  },
+  {
     "id": 3,
     "idOperacao": 3,
     "codigoRb": "CRA.1.CIA.3",
@@ -12039,6 +12203,48 @@
     },
     "percentualFlutuante": 100,
     "taxaJuros": 1.5,
+    "agenciaRating": null
+  },
+  {
+    "id": 279,
+    "idOperacao": 295,
+    "codigoRb": "CRI.1.CIA.318",
+    "nomeDevedor": "Senado IV",
+    "indexador": "CDI + 2.9000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2021-12-16T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 2,
+      "value": "Quitada",
+      "raw": "Quitada"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "21A0677485",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRI7T8",
+    "serie": 318,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 2.9,
     "agenciaRating": null
   },
   {
