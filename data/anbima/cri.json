@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1892
+    "totalRegisters": 1893
   },
   "payload": [
     {
@@ -214,6 +214,20 @@
       "valorTotalOferta": 180,
       "dataEmissao": "15/09/2021",
       "descrIdentificacaoCRI": 1604
+    },
+    {
+      "codOferta": 1626,
+      "fantasiaEmissor": "VERT COMPANHIA SECURITIZADORA",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 58,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21I0605705",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 200,
+      "valorTotalOferta": 200,
+      "dataEmissao": "14/09/2021",
+      "descrIdentificacaoCRI": 1626
     },
     {
       "codOferta": 1600,
