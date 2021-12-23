@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1893
+    "totalRegisters": 1894
   },
   "payload": [
     {
@@ -5044,6 +5044,20 @@
       "valorTotalOferta": 160,
       "dataEmissao": "23/10/2019",
       "descrIdentificacaoCRI": 1251
+    },
+    {
+      "codOferta": 1622,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "19J0713628",
+      "numSerie": 191,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 230,
+      "valorTotalOferta": 200,
+      "dataEmissao": "23/10/2019",
+      "descrIdentificacaoCRI": 1622
     },
     {
       "codOferta": 1183,
