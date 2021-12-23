@@ -9438,6 +9438,44 @@
     "agenciaRating": null
   },
   {
+    "id": 392,
+    "idOperacao": 408,
+    "codigoRb": "CRI.1.CIA.466",
+    "nomeDevedor": "BTG Log Mauá",
+    "indexador": "IPCA + 5.9000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2028-12-16T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "21L0640489",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIAG7",
+    "serie": 466,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 5.9,
+    "agenciaRating": null
+  },
+  {
     "id": 390,
     "idOperacao": 406,
     "codigoRb": "CRI.1.CIA.422",
