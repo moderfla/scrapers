@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1894
+    "totalRegisters": 1896
   },
   "payload": [
     {
@@ -74,6 +74,34 @@
       "valorTotalOferta": 1500,
       "dataEmissao": "15/10/2021",
       "descrIdentificacaoCRI": 1629
+    },
+    {
+      "codOferta": 1631,
+      "fantasiaEmissor": "ISEC SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "PENTÁGONO S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública",
+      "codCETIP": "21J0001207",
+      "numSerie": 306,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 148.97,
+      "valorTotalOferta": 329.39,
+      "dataEmissao": "15/10/2021",
+      "descrIdentificacaoCRI": 1631
+    },
+    {
+      "codOferta": 1631,
+      "fantasiaEmissor": "ISEC SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "PENTÁGONO S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública",
+      "codCETIP": "21J0001208",
+      "numSerie": 307,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 180.42,
+      "valorTotalOferta": 329.39,
+      "dataEmissao": "15/10/2021",
+      "descrIdentificacaoCRI": 1631
     },
     {
       "codOferta": 1628,
