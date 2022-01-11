@@ -4732,7 +4732,7 @@
     "idOperacao": 219,
     "codigoRb": "CRI.1.CIA.224",
     "nomeDevedor": "MZ Log",
-    "indexador": "IGPM + 6.1000% a.a.",
+    "indexador": "IPCA + 10.9800% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2031-11-27T00:00:00",
     "status": null,
@@ -4750,7 +4750,7 @@
     "oferta": "ICVM476",
     "descricaoSegmento": null,
     "codigoIf": "19L0938593",
-    "tipoIndexador": "IGPM",
+    "tipoIndexador": "IPCA",
     "naturezaOperacao": "Corporativo",
     "isin": "BRRBRACRI671",
     "serie": 224,
@@ -4762,7 +4762,7 @@
     },
     "taxaPosFixada": null,
     "percentualFlutuante": null,
-    "taxaJuros": 6.1,
+    "taxaJuros": 10.98,
     "agenciaRating": null
   },
   {
