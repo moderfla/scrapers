@@ -2,9 +2,23 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1898
+    "totalRegisters": 1899
   },
   "payload": [
+    {
+      "codOferta": 1635,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21K0518507",
+      "numSerie": 453,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 33.28,
+      "valorTotalOferta": 33.28,
+      "dataEmissao": "17/11/2021",
+      "descrIdentificacaoCRI": 1635
+    },
     {
       "codOferta": 1625,
       "fantasiaEmissor": "ISEC SECURITIZADORA S.A.",
