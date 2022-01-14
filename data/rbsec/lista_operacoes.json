@@ -9172,7 +9172,7 @@
     "idOperacao": 395,
     "codigoRb": "CRI.1.CIA.416",
     "nomeDevedor": "Maiojama",
-    "indexador": "IPCA + 9.0000% a.a.",
+    "indexador": "IPCA + 9.7800% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2026-11-20T00:00:00",
     "status": null,
@@ -9202,7 +9202,7 @@
     },
     "taxaPosFixada": null,
     "percentualFlutuante": null,
-    "taxaJuros": 9,
+    "taxaJuros": 9.78,
     "agenciaRating": null
   },
   {
