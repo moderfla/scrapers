@@ -2,9 +2,23 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1899
+    "totalRegisters": 1900
   },
   "payload": [
+    {
+      "codOferta": 1639,
+      "fantasiaEmissor": "ISEC SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21K0965854",
+      "numSerie": 346,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 100,
+      "valorTotalOferta": 100,
+      "dataEmissao": "25/11/2021",
+      "descrIdentificacaoCRI": 1639
+    },
     {
       "codOferta": 1635,
       "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
