@@ -9286,7 +9286,7 @@
     "idOperacao": 400,
     "codigoRb": "CRI.1.CIA.403",
     "nomeDevedor": "Yuca",
-    "indexador": "IPCA + 7.5000% a.a.",
+    "indexador": "IPCA + 6.5000% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2026-12-17T00:00:00",
     "status": null,
@@ -9316,7 +9316,7 @@
     },
     "taxaPosFixada": null,
     "percentualFlutuante": null,
-    "taxaJuros": 7.5,
+    "taxaJuros": 6.5,
     "agenciaRating": null
   },
   {
