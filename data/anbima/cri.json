@@ -2,9 +2,23 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1901
+    "totalRegisters": 1906
   },
   "payload": [
+    {
+      "codOferta": 1648,
+      "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21L0354325",
+      "numSerie": 430,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 175.75,
+      "valorTotalOferta": 175.75,
+      "dataEmissao": "16/12/2021",
+      "descrIdentificacaoCRI": 1648
+    },
     {
       "codOferta": 1639,
       "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
@@ -46,6 +60,34 @@
       "valorTotalOferta": 43,
       "dataEmissao": "10/11/2021",
       "descrIdentificacaoCRI": 1643
+    },
+    {
+      "codOferta": 1646,
+      "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21K0057473",
+      "numSerie": 377,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 49.27,
+      "valorTotalOferta": 135.04,
+      "dataEmissao": "03/11/2021",
+      "descrIdentificacaoCRI": 1646
+    },
+    {
+      "codOferta": 1646,
+      "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21K0058017",
+      "numSerie": 401,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 85.76,
+      "valorTotalOferta": 135.04,
+      "dataEmissao": "03/11/2021",
+      "descrIdentificacaoCRI": 1646
     },
     {
       "codOferta": 1625,
@@ -552,6 +594,20 @@
       "descrIdentificacaoCRI": 1549
     },
     {
+      "codOferta": 1657,
+      "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21G0856704",
+      "numSerie": 371,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 100.67,
+      "valorTotalOferta": 100.67,
+      "dataEmissao": "27/07/2021",
+      "descrIdentificacaoCRI": 1657
+    },
+    {
       "codOferta": 1562,
       "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
       "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
@@ -802,6 +858,20 @@
       "valorTotalOferta": 64.52,
       "dataEmissao": "25/06/2021",
       "descrIdentificacaoCRI": 1545
+    },
+    {
+      "codOferta": 1656,
+      "fantasiaEmissor": "COMPANHIA PROVINCIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 3,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0950767",
+      "numSerie": 36,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 65,
+      "valorTotalOferta": 65,
+      "dataEmissao": "24/06/2021",
+      "descrIdentificacaoCRI": 1656
     },
     {
       "codOferta": 1528,
