@@ -11306,6 +11306,48 @@
     "agenciaRating": null
   },
   {
+    "id": 407,
+    "idOperacao": 423,
+    "codigoRb": "CRA.20.CIA.1",
+    "nomeDevedor": "Fiagril",
+    "indexador": "CDI + 4.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2025-12-24T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA021005LZ",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRA1A9",
+    "serie": 1,
+    "emissao": 20,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 4.5,
+    "agenciaRating": null
+  },
+  {
     "id": 406,
     "idOperacao": 422,
     "codigoRb": "CRA.20.CIA.2",
