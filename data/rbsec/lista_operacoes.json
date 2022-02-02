@@ -4386,7 +4386,7 @@
     "idOperacao": 226,
     "codigoRb": "CRI.1.CIA.243",
     "nomeDevedor": "GJP",
-    "indexador": "CDI + 1.6750% a.a.",
+    "indexador": "CDI + 4.2000% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2031-12-24T00:00:00",
     "status": null,
@@ -4420,7 +4420,7 @@
       "raw": "CDI"
     },
     "percentualFlutuante": 100,
-    "taxaJuros": 1.675,
+    "taxaJuros": 4.2,
     "agenciaRating": null
   },
   {
