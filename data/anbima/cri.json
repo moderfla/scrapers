@@ -2,9 +2,23 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1906
+    "totalRegisters": 1907
   },
   "payload": [
+    {
+      "codOferta": 1661,
+      "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "VORTX DTVM LTDA",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21L0668560",
+      "numSerie": 419,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 100,
+      "valorTotalOferta": 100,
+      "dataEmissao": "17/12/2021",
+      "descrIdentificacaoCRI": 1661
+    },
     {
       "codOferta": 1648,
       "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
