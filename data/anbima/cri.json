@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1907
+    "totalRegisters": 1909
   },
   "payload": [
     {
@@ -32,6 +32,20 @@
       "valorTotalOferta": 175.75,
       "dataEmissao": "16/12/2021",
       "descrIdentificacaoCRI": 1648
+    },
+    {
+      "codOferta": 1654,
+      "fantasiaEmissor": "COMPANHIA PROVINCIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 3,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21L0666218",
+      "numSerie": 53,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 28,
+      "valorTotalOferta": 28,
+      "dataEmissao": "10/12/2021",
+      "descrIdentificacaoCRI": 1654
     },
     {
       "codOferta": 1639,
@@ -1656,6 +1670,20 @@
       "valorTotalOferta": 27.91,
       "dataEmissao": "19/02/2021",
       "descrIdentificacaoCRI": 1459
+    },
+    {
+      "codOferta": 1655,
+      "fantasiaEmissor": "COMPANHIA PROVINCIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 3,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21B0132138",
+      "numSerie": 31,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 15,
+      "valorTotalOferta": 15,
+      "dataEmissao": "18/02/2021",
+      "descrIdentificacaoCRI": 1655
     },
     {
       "codOferta": 1460,
