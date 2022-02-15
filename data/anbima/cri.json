@@ -2,9 +2,23 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1909
+    "totalRegisters": 1912
   },
   "payload": [
+    {
+      "codOferta": 1676,
+      "fantasiaEmissor": "OPEA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21L1281680",
+      "numSerie": 452,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 50,
+      "valorTotalOferta": 50,
+      "dataEmissao": "23/12/2021",
+      "descrIdentificacaoCRI": 1676
+    },
     {
       "codOferta": 1661,
       "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
@@ -32,6 +46,34 @@
       "valorTotalOferta": 175.75,
       "dataEmissao": "16/12/2021",
       "descrIdentificacaoCRI": 1648
+    },
+    {
+      "codOferta": 1667,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21L0846634",
+      "numSerie": 469,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 175,
+      "valorTotalOferta": 265,
+      "dataEmissao": "14/12/2021",
+      "descrIdentificacaoCRI": 1667
+    },
+    {
+      "codOferta": 1667,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21L0848239",
+      "numSerie": 470,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 90,
+      "valorTotalOferta": 265,
+      "dataEmissao": "14/12/2021",
+      "descrIdentificacaoCRI": 1667
     },
     {
       "codOferta": 1654,
