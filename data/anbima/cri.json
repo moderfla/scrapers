@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1912
+    "totalRegisters": 1913
   },
   "payload": [
     {
@@ -46,6 +46,20 @@
       "valorTotalOferta": 175.75,
       "dataEmissao": "16/12/2021",
       "descrIdentificacaoCRI": 1648
+    },
+    {
+      "codOferta": 1668,
+      "fantasiaEmissor": "TRAVESSIA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21L0695831",
+      "numSerie": 91,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 19.04,
+      "valorTotalOferta": 19.09,
+      "dataEmissao": "15/12/2021",
+      "descrIdentificacaoCRI": 1668
     },
     {
       "codOferta": 1667,
