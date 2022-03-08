@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1926
+    "totalRegisters": 1927
   },
   "payload": [
     {
@@ -88,6 +88,20 @@
       "valorTotalOferta": 175.75,
       "dataEmissao": "16/12/2021",
       "descrIdentificacaoCRI": 1648
+    },
+    {
+      "codOferta": 1664,
+      "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DTVM S/A",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública",
+      "codCETIP": "21K0001812",
+      "numSerie": 378,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 1001.7,
+      "valorTotalOferta": 1001.7,
+      "dataEmissao": "15/12/2021",
+      "descrIdentificacaoCRI": 1664
     },
     {
       "codOferta": 1668,
