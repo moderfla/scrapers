@@ -6144,7 +6144,7 @@
     "idOperacao": 271,
     "codigoRb": "CRI.1.CIA.291",
     "nomeDevedor": "Montserrat",
-    "indexador": "IPCA + 13.0000% a.a.",
+    "indexador": "IPCA + 10.0000% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2036-01-25T00:00:00",
     "status": null,
@@ -6174,7 +6174,7 @@
     },
     "taxaPosFixada": null,
     "percentualFlutuante": null,
-    "taxaJuros": 13,
+    "taxaJuros": 10,
     "agenciaRating": null
   },
   {
@@ -6182,7 +6182,7 @@
     "idOperacao": 272,
     "codigoRb": "CRI.1.CIA.292",
     "nomeDevedor": "Montserrat",
-    "indexador": "IPCA + 13.0000% a.a.",
+    "indexador": "IPCA + 10.0000% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2036-01-25T00:00:00",
     "status": null,
@@ -6212,7 +6212,7 @@
     },
     "taxaPosFixada": null,
     "percentualFlutuante": null,
-    "taxaJuros": 13,
+    "taxaJuros": 10,
     "agenciaRating": null
   },
   {
@@ -6220,7 +6220,7 @@
     "idOperacao": 273,
     "codigoRb": "CRI.1.CIA.293",
     "nomeDevedor": "Montserrat",
-    "indexador": "IPCA + 13.0000% a.a.",
+    "indexador": "IPCA + 10.0000% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2036-01-25T00:00:00",
     "status": null,
@@ -6250,7 +6250,7 @@
     },
     "taxaPosFixada": null,
     "percentualFlutuante": null,
-    "taxaJuros": 13,
+    "taxaJuros": 10,
     "agenciaRating": null
   },
   {
@@ -6258,7 +6258,7 @@
     "idOperacao": 293,
     "codigoRb": "CRI.1.CIA.314",
     "nomeDevedor": "Montserrat ",
-    "indexador": "IPCA + 13.0000% a.a.",
+    "indexador": "IPCA + 10.0000% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2036-01-25T00:00:00",
     "status": null,
@@ -6288,7 +6288,7 @@
     },
     "taxaPosFixada": null,
     "percentualFlutuante": null,
-    "taxaJuros": 13,
+    "taxaJuros": 10,
     "agenciaRating": null
   },
   {
@@ -6296,7 +6296,7 @@
     "idOperacao": 294,
     "codigoRb": "CRI.1.CIA.315",
     "nomeDevedor": "Montserrat",
-    "indexador": "IPCA + 13.0000% a.a.",
+    "indexador": "IPCA + 10.0000% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2036-01-25T00:00:00",
     "status": null,
@@ -6326,7 +6326,7 @@
     },
     "taxaPosFixada": null,
     "percentualFlutuante": null,
-    "taxaJuros": 13,
+    "taxaJuros": 10,
     "agenciaRating": null
   },
   {
