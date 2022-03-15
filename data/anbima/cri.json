@@ -2,9 +2,23 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1927
+    "totalRegisters": 1929
   },
   "payload": [
+    {
+      "codOferta": 1673,
+      "fantasiaEmissor": "OPEA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VORTX DTVM LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22A0695877",
+      "numSerie": 471,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 340,
+      "valorTotalOferta": 340,
+      "dataEmissao": "19/01/2022",
+      "descrIdentificacaoCRI": 1673
+    },
     {
       "codOferta": 1674,
       "fantasiaEmissor": "OPEA SECURITIZADORA S.A.",
@@ -354,6 +368,20 @@
       "valorTotalOferta": 329.39,
       "dataEmissao": "15/10/2021",
       "descrIdentificacaoCRI": 1631
+    },
+    {
+      "codOferta": 1669,
+      "fantasiaEmissor": "TRAVESSIA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21J0843528",
+      "numSerie": 51,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 28.64,
+      "valorTotalOferta": 28.64,
+      "dataEmissao": "15/10/2021",
+      "descrIdentificacaoCRI": 1669
     },
     {
       "codOferta": 1628,
