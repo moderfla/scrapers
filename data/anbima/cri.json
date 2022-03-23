@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1929
+    "totalRegisters": 1930
   },
   "payload": [
     {
@@ -1208,6 +1208,20 @@
       "valorTotalOferta": 20,
       "dataEmissao": "02/06/2021",
       "descrIdentificacaoCRI": 1516
+    },
+    {
+      "codOferta": 1686,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0243328",
+      "numSerie": 386,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 55,
+      "valorTotalOferta": 55,
+      "dataEmissao": "02/06/2021",
+      "descrIdentificacaoCRI": 1686
     },
     {
       "codOferta": 1540,
