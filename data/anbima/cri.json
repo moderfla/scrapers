@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1930
+    "totalRegisters": 1932
   },
   "payload": [
     {
@@ -424,6 +424,34 @@
       "valorTotalOferta": 85.7,
       "dataEmissao": "24/09/2021",
       "descrIdentificacaoCRI": 1616
+    },
+    {
+      "codOferta": 1597,
+      "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "PENTÁGONO S.A. DTVM",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21I0639671",
+      "numSerie": 390,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 145,
+      "valorTotalOferta": 145,
+      "dataEmissao": "23/09/2021",
+      "descrIdentificacaoCRI": 1597
+    },
+    {
+      "codOferta": 1598,
+      "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "PENTÁGONO S.A. DTVM",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21I0639672",
+      "numSerie": 391,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 180,
+      "valorTotalOferta": 180,
+      "dataEmissao": "23/09/2021",
+      "descrIdentificacaoCRI": 1598
     },
     {
       "codOferta": 1601,
