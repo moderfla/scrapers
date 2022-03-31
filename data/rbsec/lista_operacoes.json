@@ -11698,6 +11698,132 @@
     "agenciaRating": null
   },
   {
+    "id": 431,
+    "idOperacao": 447,
+    "codigoRb": "CRA.21.CIA.1",
+    "nomeDevedor": "Ruiz I",
+    "indexador": "CDI + 4.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2031-12-16T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA0220025T",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRA1D3 ",
+    "serie": 1,
+    "emissao": 21,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 4.5,
+    "agenciaRating": null
+  },
+  {
+    "id": 432,
+    "idOperacao": 448,
+    "codigoRb": "CRA.22.CIA.1",
+    "nomeDevedor": "Ruiz II",
+    "indexador": "CDI + 4.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2031-12-16T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA022002BD",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRA1F8",
+    "serie": 1,
+    "emissao": 22,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 4.5,
+    "agenciaRating": null
+  },
+  {
+    "id": 433,
+    "idOperacao": 449,
+    "codigoRb": "CRA.32.CIA.1",
+    "nomeDevedor": "Ruiz III",
+    "indexador": "CDI + 4.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2031-12-16T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA022002BE",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRA1E1",
+    "serie": 1,
+    "emissao": 32,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 4.5,
+    "agenciaRating": null
+  },
+  {
     "id": 436,
     "idOperacao": 452,
     "codigoRb": "CRA.25.CIA.1",
@@ -11737,6 +11863,48 @@
     },
     "percentualFlutuante": 100,
     "taxaJuros": 7,
+    "agenciaRating": null
+  },
+  {
+    "id": 438,
+    "idOperacao": 454,
+    "codigoRb": "CRA.24.CIA.2",
+    "nomeDevedor": "RodOil",
+    "indexador": "CDI + 4.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2028-03-09T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA022002XR",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRA1J0",
+    "serie": 2,
+    "emissao": 24,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 4,
     "agenciaRating": null
   },
   {
