@@ -10180,6 +10180,90 @@
     "agenciaRating": null
   },
   {
+    "id": 443,
+    "idOperacao": 459,
+    "codigoRb": "CRI.1.CIA.499",
+    "nomeDevedor": "Haras La Estancia",
+    "indexador": "CDI + 3.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2024-03-27T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22C0978882",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Residencial",
+    "isin": "BRRBRACRIBE0",
+    "serie": 499,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 3,
+    "agenciaRating": null
+  },
+  {
+    "id": 444,
+    "idOperacao": 460,
+    "codigoRb": "CRI.1.CIA.501",
+    "nomeDevedor": "Haras La Estancia",
+    "indexador": "CDI + 3.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2024-03-27T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22C0978890",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIBF7 ",
+    "serie": 501,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 3,
+    "agenciaRating": null
+  },
+  {
     "id": 447,
     "idOperacao": 463,
     "codigoRb": "CRI.1.CIA.479",
@@ -10219,6 +10303,44 @@
     },
     "percentualFlutuante": 100,
     "taxaJuros": 3,
+    "agenciaRating": null
+  },
+  {
+    "id": 456,
+    "idOperacao": 472,
+    "codigoRb": "CRI.1.CIA.484",
+    "nomeDevedor": "AXS Energia",
+    "indexador": "IPCA + 9.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2032-03-03T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22C0987445",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIBG5",
+    "serie": 484,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 9,
     "agenciaRating": null
   },
   {
