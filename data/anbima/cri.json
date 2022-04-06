@@ -2,9 +2,37 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1964
+    "totalRegisters": 1966
   },
   "payload": [
+    {
+      "codOferta": 1715,
+      "fantasiaEmissor": "BARIGUI SECURITIZADORA SA",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S/A",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22B0581013",
+      "numSerie": 101,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 13.4,
+      "valorTotalOferta": 16.75,
+      "dataEmissao": "25/02/2022",
+      "descrIdentificacaoCRI": 1715
+    },
+    {
+      "codOferta": 1715,
+      "fantasiaEmissor": "BARIGUI SECURITIZADORA SA",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S/A",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22B0581187",
+      "numSerie": 102,
+      "indTipoCRI": "Júnior",
+      "valorGlobalSerie": 3.35,
+      "valorTotalOferta": 16.75,
+      "dataEmissao": "25/02/2022",
+      "descrIdentificacaoCRI": 1715
+    },
     {
       "codOferta": 1710,
       "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
