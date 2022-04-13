@@ -4062,48 +4062,6 @@
     "agenciaRating": null
   },
   {
-    "id": 195,
-    "idOperacao": 211,
-    "codigoRb": "CRI.1.CIA.225",
-    "nomeDevedor": "AMY HL Faria Lima",
-    "indexador": "CDI + 1.8500% a.a.",
-    "precoUnitario": null,
-    "dataVencimento": "2025-09-25T00:00:00",
-    "status": null,
-    "statusPassivoOperacao": {
-      "key": 1,
-      "value": "Ativa",
-      "raw": "Ativa"
-    },
-    "garantiaReal": null,
-    "fundos": null,
-    "rating": null,
-    "servicer": [],
-    "masterService": "RB Capital Serviços de Crédito LTDA",
-    "concentracao": "Concentrado",
-    "oferta": "ICVM476",
-    "descricaoSegmento": null,
-    "codigoIf": "19I0737513",
-    "tipoIndexador": "CDI",
-    "naturezaOperacao": "Corporativo",
-    "isin": "BRRBRACRI606",
-    "serie": 225,
-    "emissao": 1,
-    "tipoPagamento": {
-      "key": 2,
-      "value": "Flutuante",
-      "raw": "Flutuante"
-    },
-    "taxaPosFixada": {
-      "key": 1,
-      "value": "CDI",
-      "raw": "CDI"
-    },
-    "percentualFlutuante": 100,
-    "taxaJuros": 1.85,
-    "agenciaRating": null
-  },
-  {
     "id": 196,
     "idOperacao": 212,
     "codigoRb": "CRI.1.CIA.219",
@@ -15807,6 +15765,48 @@
     },
     "percentualFlutuante": 100,
     "taxaJuros": 1.4,
+    "agenciaRating": null
+  },
+  {
+    "id": 195,
+    "idOperacao": 211,
+    "codigoRb": "CRI.1.CIA.225",
+    "nomeDevedor": "AMY HL Faria Lima",
+    "indexador": "CDI + 1.8500% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2022-04-06T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 3,
+      "value": "Resgatada",
+      "raw": "Resgatada"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "19I0737513",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRI606",
+    "serie": 225,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 1.85,
     "agenciaRating": null
   },
   {
