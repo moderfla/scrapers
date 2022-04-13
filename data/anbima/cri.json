@@ -2,9 +2,23 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1966
+    "totalRegisters": 1989
   },
   "payload": [
+    {
+      "codOferta": 1714,
+      "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DTVM S/A",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22C0004806",
+      "numSerie": 441,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 154.12,
+      "valorTotalOferta": 154.12,
+      "dataEmissao": "04/03/2022",
+      "descrIdentificacaoCRI": 1714
+    },
     {
       "codOferta": 1715,
       "fantasiaEmissor": "BARIGUI SECURITIZADORA SA",
@@ -34,6 +48,34 @@
       "descrIdentificacaoCRI": 1715
     },
     {
+      "codOferta": 1719,
+      "fantasiaEmissor": "OPEA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22B0939300",
+      "numSerie": 427,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 96.5,
+      "valorTotalOferta": 121,
+      "dataEmissao": "25/02/2022",
+      "descrIdentificacaoCRI": 1719
+    },
+    {
+      "codOferta": 1719,
+      "fantasiaEmissor": "OPEA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22B0939310",
+      "numSerie": 486,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 24.5,
+      "valorTotalOferta": 121,
+      "dataEmissao": "25/02/2022",
+      "descrIdentificacaoCRI": 1719
+    },
+    {
       "codOferta": 1710,
       "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
       "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -46,6 +88,20 @@
       "valorTotalOferta": 150,
       "dataEmissao": "21/02/2022",
       "descrIdentificacaoCRI": 1710
+    },
+    {
+      "codOferta": 1720,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DTVM S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22B0624342",
+      "numSerie": 480,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 50,
+      "valorTotalOferta": 50,
+      "dataEmissao": "21/02/2022",
+      "descrIdentificacaoCRI": 1720
     },
     {
       "codOferta": 1717,
@@ -692,6 +748,20 @@
       "descrIdentificacaoCRI": 1596
     },
     {
+      "codOferta": 1602,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21I0683349",
+      "numSerie": 435,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 110,
+      "valorTotalOferta": 110,
+      "dataEmissao": "15/09/2021",
+      "descrIdentificacaoCRI": 1602
+    },
+    {
       "codOferta": 1604,
       "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
       "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
@@ -1000,6 +1070,62 @@
       "descrIdentificacaoCRI": 1689
     },
     {
+      "codOferta": 1688,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21H0921792",
+      "numSerie": 439,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 15,
+      "valorTotalOferta": 71,
+      "dataEmissao": "15/08/2021",
+      "descrIdentificacaoCRI": 1688
+    },
+    {
+      "codOferta": 1688,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21H0921820",
+      "numSerie": 440,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 56,
+      "valorTotalOferta": 71,
+      "dataEmissao": "15/08/2021",
+      "descrIdentificacaoCRI": 1688
+    },
+    {
+      "codOferta": 1695,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21H0921792",
+      "numSerie": 439,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 15,
+      "valorTotalOferta": 71,
+      "dataEmissao": "15/08/2021",
+      "descrIdentificacaoCRI": 1695
+    },
+    {
+      "codOferta": 1695,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21H0921820",
+      "numSerie": 440,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 56,
+      "valorTotalOferta": 71,
+      "dataEmissao": "15/08/2021",
+      "descrIdentificacaoCRI": 1695
+    },
+    {
       "codOferta": 1560,
       "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
       "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -1138,6 +1264,20 @@
       "valorTotalOferta": 22.85,
       "dataEmissao": "15/07/2021",
       "descrIdentificacaoCRI": 1571
+    },
+    {
+      "codOferta": 1707,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21G0568394",
+      "numSerie": 397,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 100,
+      "valorTotalOferta": 100,
+      "dataEmissao": "15/07/2021",
+      "descrIdentificacaoCRI": 1707
     },
     {
       "codOferta": 1703,
@@ -1434,6 +1574,20 @@
       "descrIdentificacaoCRI": 1550
     },
     {
+      "codOferta": 1685,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0545469",
+      "numSerie": 384,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 20,
+      "valorTotalOferta": 20,
+      "dataEmissao": "15/06/2021",
+      "descrIdentificacaoCRI": 1685
+    },
+    {
       "codOferta": 1683,
       "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
       "nomeAgenteFiduciario": "SIMPLIFIC PAVARINI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
@@ -1628,6 +1782,34 @@
       "valorTotalOferta": 26,
       "dataEmissao": "19/05/2021",
       "descrIdentificacaoCRI": 1518
+    },
+    {
+      "codOferta": 1694,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21E0801545",
+      "numSerie": 389,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 12,
+      "valorTotalOferta": 16,
+      "dataEmissao": "15/05/2021",
+      "descrIdentificacaoCRI": 1694
+    },
+    {
+      "codOferta": 1694,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21E0801562",
+      "numSerie": 390,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 4,
+      "valorTotalOferta": 16,
+      "dataEmissao": "15/05/2021",
+      "descrIdentificacaoCRI": 1694
     },
     {
       "codOferta": 1506,
@@ -2246,6 +2428,34 @@
       "descrIdentificacaoCRI": 1465
     },
     {
+      "codOferta": 1727,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21B0666971",
+      "numSerie": 358,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 26.25,
+      "valorTotalOferta": 63.75,
+      "dataEmissao": "22/02/2021",
+      "descrIdentificacaoCRI": 1727
+    },
+    {
+      "codOferta": 1727,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21B0667100",
+      "numSerie": 359,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 37.5,
+      "valorTotalOferta": 63.75,
+      "dataEmissao": "22/02/2021",
+      "descrIdentificacaoCRI": 1727
+    },
+    {
       "codOferta": 1459,
       "fantasiaEmissor": "PLANETA SECURITIZADORA SA",
       "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
@@ -2510,6 +2720,34 @@
       "valorTotalOferta": 70,
       "dataEmissao": "23/12/2020",
       "descrIdentificacaoCRI": 1440
+    },
+    {
+      "codOferta": 1728,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20L0687041",
+      "numSerie": 345,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 82.58,
+      "valorTotalOferta": 82.58,
+      "dataEmissao": "23/12/2020",
+      "descrIdentificacaoCRI": 1728
+    },
+    {
+      "codOferta": 1729,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20L0687133",
+      "numSerie": 346,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 98.16,
+      "valorTotalOferta": 98.16,
+      "dataEmissao": "23/12/2020",
+      "descrIdentificacaoCRI": 1729
     },
     {
       "codOferta": 1428,
@@ -2874,6 +3112,34 @@
       "valorTotalOferta": 17,
       "dataEmissao": "10/11/2020",
       "descrIdentificacaoCRI": 1402
+    },
+    {
+      "codOferta": 1690,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20K0659367",
+      "numSerie": 327,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 6.5,
+      "valorTotalOferta": 16,
+      "dataEmissao": "10/11/2020",
+      "descrIdentificacaoCRI": 1690
+    },
+    {
+      "codOferta": 1690,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20K0659884",
+      "numSerie": 328,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 9.5,
+      "valorTotalOferta": 16,
+      "dataEmissao": "10/11/2020",
+      "descrIdentificacaoCRI": 1690
     },
     {
       "codOferta": 1405,
@@ -3322,6 +3588,34 @@
       "valorTotalOferta": 113,
       "dataEmissao": "17/09/2020",
       "descrIdentificacaoCRI": 1463
+    },
+    {
+      "codOferta": 1718,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20I0597382",
+      "numSerie": 319,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 30,
+      "valorTotalOferta": 100,
+      "dataEmissao": "15/09/2020",
+      "descrIdentificacaoCRI": 1718
+    },
+    {
+      "codOferta": 1718,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20I0620356",
+      "numSerie": 320,
+      "indTipoCRI": "Júnior",
+      "valorGlobalSerie": 7000,
+      "valorTotalOferta": 100,
+      "dataEmissao": "15/09/2020",
+      "descrIdentificacaoCRI": 1718
     },
     {
       "codOferta": 1370,
@@ -5786,6 +6080,34 @@
       "valorTotalOferta": 100,
       "dataEmissao": "14/11/2019",
       "descrIdentificacaoCRI": 1225
+    },
+    {
+      "codOferta": 1235,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "19K0093569",
+      "numSerie": 254,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 20,
+      "valorTotalOferta": 20,
+      "dataEmissao": "04/11/2019",
+      "descrIdentificacaoCRI": 1235
+    },
+    {
+      "codOferta": 1236,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "19K0093591",
+      "numSerie": 255,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 20,
+      "valorTotalOferta": 20,
+      "dataEmissao": "04/11/2019",
+      "descrIdentificacaoCRI": 1236
     },
     {
       "codOferta": 1238,
