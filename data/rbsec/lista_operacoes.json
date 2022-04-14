@@ -6330,7 +6330,7 @@
     "idOperacao": 298,
     "codigoRb": "CRI.1.CIA.323",
     "nomeDevedor": "Engetecnica",
-    "indexador": "CDI + 5.0000% a.a.",
+    "indexador": "CDI + 3.5000% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2022-09-15T00:00:00",
     "status": null,
@@ -6364,7 +6364,7 @@
       "raw": "CDI"
     },
     "percentualFlutuante": 100,
-    "taxaJuros": 5,
+    "taxaJuros": 3.5,
     "agenciaRating": null
   },
   {
