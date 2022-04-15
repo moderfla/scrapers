@@ -1,47 +1,5 @@
 [
   {
-    "id": 451,
-    "idOperacao": 467,
-    "codigoRb": "CRA.33.CIA.1",
-    "nomeDevedor": "BB Fuels",
-    "indexador": "CDI + 7.9000% a.a.",
-    "precoUnitario": null,
-    "dataVencimento": "2029-03-15T00:00:00",
-    "status": null,
-    "statusPassivoOperacao": {
-      "key": 1,
-      "value": "Ativa",
-      "raw": "Ativa"
-    },
-    "garantiaReal": null,
-    "fundos": null,
-    "rating": null,
-    "servicer": [],
-    "masterService": "RB Capital Serviços de Crédito LTDA",
-    "concentracao": "Concentrado",
-    "oferta": "ICVM476",
-    "descricaoSegmento": null,
-    "codigoIf": "\t CRA02200336",
-    "tipoIndexador": "CDI",
-    "naturezaOperacao": "Corporativo",
-    "isin": "BRRBRACRA1P7",
-    "serie": 1,
-    "emissao": 33,
-    "tipoPagamento": {
-      "key": 2,
-      "value": "Flutuante",
-      "raw": "Flutuante"
-    },
-    "taxaPosFixada": {
-      "key": 1,
-      "value": "CDI",
-      "raw": "CDI"
-    },
-    "percentualFlutuante": 100,
-    "taxaJuros": 7.9,
-    "agenciaRating": null
-  },
-  {
     "id": 16,
     "idOperacao": 16,
     "codigoRb": "CRI.1.CIA.62",
@@ -12312,6 +12270,48 @@
     "agenciaRating": null
   },
   {
+    "id": 451,
+    "idOperacao": 467,
+    "codigoRb": "CRA.33.CIA.1",
+    "nomeDevedor": "BB Fuels",
+    "indexador": "CDI + 7.9000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2029-03-15T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA02200336",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRA1P7",
+    "serie": 1,
+    "emissao": 33,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 7.9,
+    "agenciaRating": null
+  },
+  {
     "id": 452,
     "idOperacao": 468,
     "codigoRb": "CRA.34.CIA.1",
@@ -13651,6 +13651,82 @@
     },
     "percentualFlutuante": null,
     "taxaJuros": 9.8,
+    "agenciaRating": null
+  },
+  {
+    "id": 146,
+    "idOperacao": 146,
+    "codigoRb": "CRI.1.SEC.103",
+    "nomeDevedor": "Hermes",
+    "indexador": null,
+    "precoUnitario": null,
+    "dataVencimento": "2027-06-11T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 2,
+      "value": "Quitada",
+      "raw": "Quitada"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "15H0121267",
+    "tipoIndexador": "Prefixado",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBCSCRI337",
+    "serie": 103,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 0,
+      "value": null,
+      "raw": "0"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": null,
+    "agenciaRating": null
+  },
+  {
+    "id": 147,
+    "idOperacao": 147,
+    "codigoRb": "CRI.1.SEC.105",
+    "nomeDevedor": "Lasa",
+    "indexador": null,
+    "precoUnitario": null,
+    "dataVencimento": "2027-06-11T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 2,
+      "value": "Quitada",
+      "raw": "Quitada"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "15H0121300",
+    "tipoIndexador": "Prefixado",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBCSCRI345",
+    "serie": 105,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 0,
+      "value": null,
+      "raw": "0"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": null,
     "agenciaRating": null
   },
   {
@@ -16401,82 +16477,6 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 7.6,
-    "agenciaRating": null
-  },
-  {
-    "id": 146,
-    "idOperacao": 146,
-    "codigoRb": "CRI.1.SEC.103",
-    "nomeDevedor": "Hermes",
-    "indexador": null,
-    "precoUnitario": null,
-    "dataVencimento": "2027-06-11T00:00:00",
-    "status": null,
-    "statusPassivoOperacao": {
-      "key": 4,
-      "value": "Execução",
-      "raw": "Execucao"
-    },
-    "garantiaReal": null,
-    "fundos": null,
-    "rating": null,
-    "servicer": [],
-    "masterService": "RB Capital Serviços de Crédito LTDA",
-    "concentracao": "Concentrado",
-    "oferta": "ICVM476",
-    "descricaoSegmento": null,
-    "codigoIf": "15H0121267",
-    "tipoIndexador": "Prefixado",
-    "naturezaOperacao": "Corporativo",
-    "isin": "BRRBCSCRI337",
-    "serie": 103,
-    "emissao": 1,
-    "tipoPagamento": {
-      "key": 0,
-      "value": null,
-      "raw": "0"
-    },
-    "taxaPosFixada": null,
-    "percentualFlutuante": null,
-    "taxaJuros": null,
-    "agenciaRating": null
-  },
-  {
-    "id": 147,
-    "idOperacao": 147,
-    "codigoRb": "CRI.1.SEC.105",
-    "nomeDevedor": "Lasa",
-    "indexador": null,
-    "precoUnitario": null,
-    "dataVencimento": "2027-06-11T00:00:00",
-    "status": null,
-    "statusPassivoOperacao": {
-      "key": 4,
-      "value": "Execução",
-      "raw": "Execucao"
-    },
-    "garantiaReal": null,
-    "fundos": null,
-    "rating": null,
-    "servicer": [],
-    "masterService": "RB Capital Serviços de Crédito LTDA",
-    "concentracao": "Concentrado",
-    "oferta": "ICVM476",
-    "descricaoSegmento": null,
-    "codigoIf": "15H0121300",
-    "tipoIndexador": "Prefixado",
-    "naturezaOperacao": "Corporativo",
-    "isin": "BRRBCSCRI345",
-    "serie": 105,
-    "emissao": 1,
-    "tipoPagamento": {
-      "key": 0,
-      "value": null,
-      "raw": "0"
-    },
-    "taxaPosFixada": null,
-    "percentualFlutuante": null,
-    "taxaJuros": null,
     "agenciaRating": null
   },
   {
