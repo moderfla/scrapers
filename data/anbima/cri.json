@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1989
+    "totalRegisters": 1990
   },
   "payload": [
     {
@@ -704,6 +704,20 @@
       "valorTotalOferta": 158.79,
       "dataEmissao": "22/09/2021",
       "descrIdentificacaoCRI": 1595
+    },
+    {
+      "codOferta": 1744,
+      "fantasiaEmissor": "BASE SECURITIZADORA DE CREDITOS IMOB S.A",
+      "nomeAgenteFiduciario": "SIMPLIFIC PAVARINI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 10,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 24,
+      "valorTotalOferta": 24,
+      "dataEmissao": "21/09/2021",
+      "descrIdentificacaoCRI": 1744
     },
     {
       "codOferta": 1599,
