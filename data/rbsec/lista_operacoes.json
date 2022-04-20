@@ -10458,6 +10458,44 @@
     "agenciaRating": null
   },
   {
+    "id": 458,
+    "idOperacao": 474,
+    "codigoRb": "CRI.1.CIA.482",
+    "nomeDevedor": "Futura Energia",
+    "indexador": "IPCA + 7.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2032-09-08T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22C1214804",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIBI1",
+    "serie": 482,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 7.5,
+    "agenciaRating": null
+  },
+  {
     "id": 470,
     "idOperacao": 486,
     "codigoRb": "CRI.1.CIA.447",
