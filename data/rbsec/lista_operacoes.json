@@ -9392,7 +9392,7 @@
     "idOperacao": 402,
     "codigoRb": "CRI.1.CIA.400",
     "nomeDevedor": "Brookfield | Edifício Condomínio Miss Silvia Morizono",
-    "indexador": "CDI + 0.5000% a.a.",
+    "indexador": "CDI + 1.7000% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2027-12-17T00:00:00",
     "status": null,
@@ -9426,7 +9426,7 @@
       "raw": "CDI"
     },
     "percentualFlutuante": 100,
-    "taxaJuros": 0.5,
+    "taxaJuros": 1.7,
     "agenciaRating": null
   },
   {
@@ -9434,7 +9434,7 @@
     "idOperacao": 403,
     "codigoRb": "CRI.1.CIA.453",
     "nomeDevedor": "Brookfield | Edifício Faria Lima Financial Center",
-    "indexador": "CDI + 0.5000% a.a.",
+    "indexador": "CDI + 1.7000% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2027-12-17T00:00:00",
     "status": null,
@@ -9468,7 +9468,7 @@
       "raw": "CDI"
     },
     "percentualFlutuante": 100,
-    "taxaJuros": 0.5,
+    "taxaJuros": 1.7,
     "agenciaRating": null
   },
   {
@@ -9476,7 +9476,7 @@
     "idOperacao": 404,
     "codigoRb": "CRI.1.CIA.454",
     "nomeDevedor": "Brookfield | Edifício Faria Lima Square",
-    "indexador": "CDI + 0.5000% a.a.",
+    "indexador": "CDI + 1.7000% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2027-12-17T00:00:00",
     "status": null,
@@ -9510,7 +9510,7 @@
       "raw": "CDI"
     },
     "percentualFlutuante": 100,
-    "taxaJuros": 0.5,
+    "taxaJuros": 1.7,
     "agenciaRating": null
   },
   {
@@ -9518,7 +9518,7 @@
     "idOperacao": 405,
     "codigoRb": "CRI.1.CIA.455",
     "nomeDevedor": "Brookfield | Edifício JK 1455",
-    "indexador": "CDI + 0.5000% a.a.",
+    "indexador": "CDI + 1.7000% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2027-12-17T00:00:00",
     "status": null,
@@ -9552,7 +9552,7 @@
       "raw": "CDI"
     },
     "percentualFlutuante": 100,
-    "taxaJuros": 0.5,
+    "taxaJuros": 1.7,
     "agenciaRating": null
   },
   {
