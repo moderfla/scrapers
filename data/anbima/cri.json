@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1990
+    "totalRegisters": 1991
   },
   "payload": [
     {
@@ -102,6 +102,20 @@
       "valorTotalOferta": 50,
       "dataEmissao": "21/02/2022",
       "descrIdentificacaoCRI": 1720
+    },
+    {
+      "codOferta": 1722,
+      "fantasiaEmissor": "PLANETA SECURITIZADORA SA",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DTVM",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22B0653652",
+      "numSerie": 170,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 14.75,
+      "valorTotalOferta": 14.75,
+      "dataEmissao": "16/02/2022",
+      "descrIdentificacaoCRI": 1722
     },
     {
       "codOferta": 1717,
