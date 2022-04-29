@@ -10496,6 +10496,82 @@
     "agenciaRating": null
   },
   {
+    "id": 459,
+    "idOperacao": 475,
+    "codigoRb": "CRI.1.CIA.436",
+    "nomeDevedor": "Leal Moreira Evidence",
+    "indexador": "IPCA + 12.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2026-03-27T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22C1240815",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Público",
+    "isin": "BRRBRACRIBM3",
+    "serie": 436,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 12,
+    "agenciaRating": null
+  },
+  {
+    "id": 463,
+    "idOperacao": 479,
+    "codigoRb": "CRI.1.CIA.498",
+    "nomeDevedor": "Leal Moreira Ferrara",
+    "indexador": "IPCA + 12.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2026-03-25T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22C1240846",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIBQ4",
+    "serie": 498,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 12,
+    "agenciaRating": null
+  },
+  {
     "id": 470,
     "idOperacao": 486,
     "codigoRb": "CRI.1.CIA.447",
@@ -12301,6 +12377,48 @@
     },
     "percentualFlutuante": 100,
     "taxaJuros": 7,
+    "agenciaRating": null
+  },
+  {
+    "id": 439,
+    "idOperacao": 455,
+    "codigoRb": "CRA.24.CIA.1",
+    "nomeDevedor": "RodOil",
+    "indexador": "CDI + 3.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2027-03-09T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA022002XP",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRA1I2",
+    "serie": 1,
+    "emissao": 24,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 3,
     "agenciaRating": null
   },
   {
