@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1991
+    "totalRegisters": 1993
   },
   "payload": [
     {
@@ -3730,6 +3730,20 @@
       "descrIdentificacaoCRI": 1365
     },
     {
+      "codOferta": 1738,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20H0747466",
+      "numSerie": 309,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 50,
+      "valorTotalOferta": 50,
+      "dataEmissao": "27/08/2020",
+      "descrIdentificacaoCRI": 1738
+    },
+    {
       "codOferta": 1366,
       "fantasiaEmissor": "PLANETA SECURITIZADORA SA",
       "nomeAgenteFiduciario": "PLANNER TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
@@ -4610,6 +4624,20 @@
       "valorTotalOferta": 75,
       "dataEmissao": "27/04/2020",
       "descrIdentificacaoCRI": 1312
+    },
+    {
+      "codOferta": 1740,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20D0941534",
+      "numSerie": 302,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 34.7,
+      "valorTotalOferta": 37.4,
+      "dataEmissao": "24/04/2020",
+      "descrIdentificacaoCRI": 1740
     },
     {
       "codOferta": 1288,
