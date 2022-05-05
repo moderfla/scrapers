@@ -2,7 +2,7 @@
   {
     "id": 16,
     "idOperacao": 16,
-    "codigoRb": "CRI.1.CIA.62",
+    "codigoOpea": "CRI.1.CIA.62",
     "nomeDevedor": "FCVS",
     "indexador": "TR + 7.4130% a.a.",
     "precoUnitario": null,
@@ -40,7 +40,7 @@
   {
     "id": 122,
     "idOperacao": 122,
-    "codigoRb": "CRI.1.SEC.58",
+    "codigoOpea": "CRI.1.SEC.58",
     "nomeDevedor": "Nestle",
     "indexador": "IGPM + 7.9000% a.a.",
     "precoUnitario": null,
@@ -78,7 +78,7 @@
   {
     "id": 128,
     "idOperacao": 128,
-    "codigoRb": "CRI.1.SEC.73",
+    "codigoOpea": "CRI.1.SEC.73",
     "nomeDevedor": "BR Distribuidora I",
     "indexador": "IPCA + 6.8400% a.a.",
     "precoUnitario": null,
@@ -120,7 +120,7 @@
   {
     "id": 131,
     "idOperacao": 131,
-    "codigoRb": "CRI.1.SEC.79",
+    "codigoOpea": "CRI.1.SEC.79",
     "nomeDevedor": "BRFoods",
     "indexador": "IPCA + 6.5124% a.a.",
     "precoUnitario": null,
@@ -162,7 +162,7 @@
   {
     "id": 134,
     "idOperacao": 134,
-    "codigoRb": "CRI.1.SEC.85",
+    "codigoOpea": "CRI.1.SEC.85",
     "nomeDevedor": "Santos Macae",
     "indexador": "IPCA + 5.1700% a.a.",
     "precoUnitario": null,
@@ -204,7 +204,7 @@
   {
     "id": 135,
     "idOperacao": 135,
-    "codigoRb": "CRI.1.SEC.86",
+    "codigoOpea": "CRI.1.SEC.86",
     "nomeDevedor": "Santos Macae",
     "indexador": "IPCA + 5.3900% a.a.",
     "precoUnitario": null,
@@ -246,7 +246,7 @@
   {
     "id": 136,
     "idOperacao": 136,
-    "codigoRb": "CRI.1.SEC.87",
+    "codigoOpea": "CRI.1.SEC.87",
     "nomeDevedor": "Santos Macae",
     "indexador": "IPCA + 5.3700% a.a.",
     "precoUnitario": null,
@@ -288,7 +288,7 @@
   {
     "id": 143,
     "idOperacao": 143,
-    "codigoRb": "CRI.1.SEC.99",
+    "codigoOpea": "CRI.1.SEC.99",
     "nomeDevedor": "BR Distribuidora II",
     "indexador": "IPCA + 4.0933% a.a.",
     "precoUnitario": null,
@@ -330,7 +330,7 @@
   {
     "id": 144,
     "idOperacao": 144,
-    "codigoRb": "CRI.1.SEC.100",
+    "codigoOpea": "CRI.1.SEC.100",
     "nomeDevedor": "BR Distribuidora III",
     "indexador": "IPCA + 4.9781% a.a.",
     "precoUnitario": null,
@@ -372,7 +372,7 @@
   {
     "id": 148,
     "idOperacao": 148,
-    "codigoRb": "CRI.1.SEC.106",
+    "codigoOpea": "CRI.1.SEC.106",
     "nomeDevedor": "Aliansce | Shopping Leblon",
     "indexador": "TR + 11.2500% a.a.",
     "precoUnitario": null,
@@ -414,7 +414,7 @@
   {
     "id": 141,
     "idOperacao": 141,
-    "codigoRb": "CRI.1.SEC.97",
+    "codigoOpea": "CRI.1.SEC.97",
     "nomeDevedor": "BRFoods II",
     "indexador": "IPCA + 4.5430% a.a.",
     "precoUnitario": null,
@@ -456,7 +456,7 @@
   {
     "id": 139,
     "idOperacao": 139,
-    "codigoRb": "CRI.1.SEC.94",
+    "codigoOpea": "CRI.1.SEC.94",
     "nomeDevedor": "PPG",
     "indexador": "IPCA + 4.2274% a.a.",
     "precoUnitario": null,
@@ -498,7 +498,7 @@
   {
     "id": 21,
     "idOperacao": 21,
-    "codigoRb": "CRI.1.CIA.75",
+    "codigoOpea": "CRI.1.CIA.75",
     "nomeDevedor": "Caixa",
     "indexador": "TR + 6.3800% a.a.",
     "precoUnitario": null,
@@ -540,7 +540,7 @@
   {
     "id": 22,
     "idOperacao": 22,
-    "codigoRb": "CRI.1.CIA.76",
+    "codigoOpea": "CRI.1.CIA.76",
     "nomeDevedor": "Caixa",
     "indexador": "TR + 12.0000% a.a.",
     "precoUnitario": null,
@@ -582,7 +582,7 @@
   {
     "id": 18,
     "idOperacao": 18,
-    "codigoRb": "CRI.1.CIA.69",
+    "codigoOpea": "CRI.1.CIA.69",
     "nomeDevedor": "BR Distribuidora Synthesis",
     "indexador": "IPCA + 5.0769% a.a.",
     "precoUnitario": null,
@@ -624,7 +624,7 @@
   {
     "id": 26,
     "idOperacao": 26,
-    "codigoRb": "CRI.1.CIA.80",
+    "codigoOpea": "CRI.1.CIA.80",
     "nomeDevedor": "Suzano",
     "indexador": "IPCA + 4.3392% a.a.",
     "precoUnitario": null,
@@ -666,7 +666,7 @@
   {
     "id": 27,
     "idOperacao": 27,
-    "codigoRb": "CRI.1.CIA.81",
+    "codigoOpea": "CRI.1.CIA.81",
     "nomeDevedor": "Kroton | Campus Anhanguera ABC",
     "indexador": "IPCA + 4.4807% a.a.",
     "precoUnitario": null,
@@ -708,7 +708,7 @@
   {
     "id": 33,
     "idOperacao": 33,
-    "codigoRb": "CRI.1.CIA.87",
+    "codigoOpea": "CRI.1.CIA.87",
     "nomeDevedor": "VLI TISL",
     "indexador": "IPCA + 4.5915% a.a.",
     "precoUnitario": null,
@@ -750,7 +750,7 @@
   {
     "id": 34,
     "idOperacao": 34,
-    "codigoRb": "CRI.1.CIA.89",
+    "codigoOpea": "CRI.1.CIA.89",
     "nomeDevedor": "Volkswagen",
     "indexador": "IPCA + 6.1700% a.a.",
     "precoUnitario": null,
@@ -792,7 +792,7 @@
   {
     "id": 23,
     "idOperacao": 23,
-    "codigoRb": "CRI.1.CIA.77",
+    "codigoOpea": "CRI.1.CIA.77",
     "nomeDevedor": "Petrobras CBD",
     "indexador": "IPCA + 5.8473% a.a.",
     "precoUnitario": null,
@@ -834,7 +834,7 @@
   {
     "id": 36,
     "idOperacao": 36,
-    "codigoRb": "CRI.1.CIA.93",
+    "codigoOpea": "CRI.1.CIA.93",
     "nomeDevedor": "BR Distribuidora Synthesis II",
     "indexador": "IPCA + 6.1579% a.a.",
     "precoUnitario": null,
@@ -876,7 +876,7 @@
   {
     "id": 37,
     "idOperacao": 37,
-    "codigoRb": "CRI.1.CIA.94",
+    "codigoOpea": "CRI.1.CIA.94",
     "nomeDevedor": "Banco do Brasil",
     "indexador": "IGPDI + 5.9196% a.a.",
     "precoUnitario": null,
@@ -914,7 +914,7 @@
   {
     "id": 44,
     "idOperacao": 44,
-    "codigoRb": "CRI.1.CIA.101",
+    "codigoOpea": "CRI.1.CIA.101",
     "nomeDevedor": "BR Malls | Compartilhada",
     "indexador": "TR + 9.0000% a.a.",
     "precoUnitario": null,
@@ -952,7 +952,7 @@
   {
     "id": 45,
     "idOperacao": 45,
-    "codigoRb": "CRI.1.CIA.103",
+    "codigoOpea": "CRI.1.CIA.103",
     "nomeDevedor": "BR Distribuidora Synthesis III",
     "indexador": "IPCA + 6.3802% a.a.",
     "precoUnitario": null,
@@ -994,7 +994,7 @@
   {
     "id": 138,
     "idOperacao": 138,
-    "codigoRb": "CRI.1.SEC.93",
+    "codigoOpea": "CRI.1.SEC.93",
     "nomeDevedor": "Domus",
     "indexador": "120.0000% CDI",
     "precoUnitario": null,
@@ -1036,7 +1036,7 @@
   {
     "id": 40,
     "idOperacao": 40,
-    "codigoRb": "CRI.1.CIA.97",
+    "codigoOpea": "CRI.1.CIA.97",
     "nomeDevedor": "BR Malls | Shopping Estação",
     "indexador": "IPCA + 6.3400% a.a.",
     "precoUnitario": null,
@@ -1078,7 +1078,7 @@
   {
     "id": 41,
     "idOperacao": 41,
-    "codigoRb": "CRI.1.CIA.98",
+    "codigoOpea": "CRI.1.CIA.98",
     "nomeDevedor": "BR Malls | Shopping Estação",
     "indexador": "IPCA + 6.7100% a.a.",
     "precoUnitario": null,
@@ -1120,7 +1120,7 @@
   {
     "id": 42,
     "idOperacao": 42,
-    "codigoRb": "CRI.1.CIA.99",
+    "codigoOpea": "CRI.1.CIA.99",
     "nomeDevedor": "BR Malls | Shopping Estação",
     "indexador": "IPCA + 7.0400% a.a.",
     "precoUnitario": null,
@@ -1162,7 +1162,7 @@
   {
     "id": 52,
     "idOperacao": 52,
-    "codigoRb": "CRI.1.CIA.113",
+    "codigoOpea": "CRI.1.CIA.113",
     "nomeDevedor": "BR Distribuidora Synthesis IV",
     "indexador": "IPCA + 5.9100% a.a.",
     "precoUnitario": null,
@@ -1204,7 +1204,7 @@
   {
     "id": 50,
     "idOperacao": 50,
-    "codigoRb": "CRI.1.CIA.110",
+    "codigoOpea": "CRI.1.CIA.110",
     "nomeDevedor": "Caixa II",
     "indexador": "TR + 6.3800% a.a.",
     "precoUnitario": null,
@@ -1246,7 +1246,7 @@
   {
     "id": 51,
     "idOperacao": 51,
-    "codigoRb": "CRI.1.CIA.111",
+    "codigoOpea": "CRI.1.CIA.111",
     "nomeDevedor": "Caixa II",
     "indexador": "TR + 12.0000% a.a.",
     "precoUnitario": null,
@@ -1288,7 +1288,7 @@
   {
     "id": 47,
     "idOperacao": 47,
-    "codigoRb": "CRI.1.CIA.105",
+    "codigoOpea": "CRI.1.CIA.105",
     "nomeDevedor": "Volvo",
     "indexador": "TR + 9.0600% a.a.",
     "precoUnitario": null,
@@ -1326,7 +1326,7 @@
   {
     "id": 54,
     "idOperacao": 54,
-    "codigoRb": "CRI.1.CIA.116",
+    "codigoOpea": "CRI.1.CIA.116",
     "nomeDevedor": "VLI Palmeirante Nacional",
     "indexador": "TR + 8.7000% a.a.",
     "precoUnitario": null,
@@ -1364,7 +1364,7 @@
   {
     "id": 35,
     "idOperacao": 35,
-    "codigoRb": "CRI.1.CIA.92",
+    "codigoOpea": "CRI.1.CIA.92",
     "nomeDevedor": "GSP",
     "indexador": "IPCA + 10.0000% a.a.",
     "precoUnitario": null,
@@ -1406,7 +1406,7 @@
   {
     "id": 48,
     "idOperacao": 48,
-    "codigoRb": "CRI.1.CIA.108",
+    "codigoOpea": "CRI.1.CIA.108",
     "nomeDevedor": "Iguatemi | Shopping Galleria",
     "indexador": "CDI + 0.1500% a.a.",
     "precoUnitario": null,
@@ -1448,7 +1448,7 @@
   {
     "id": 59,
     "idOperacao": 59,
-    "codigoRb": "CRI.1.CIA.123",
+    "codigoOpea": "CRI.1.CIA.123",
     "nomeDevedor": "Caixa III",
     "indexador": "TR + 6.3800% a.a.",
     "precoUnitario": null,
@@ -1486,7 +1486,7 @@
   {
     "id": 60,
     "idOperacao": 60,
-    "codigoRb": "CRI.1.CIA.124",
+    "codigoOpea": "CRI.1.CIA.124",
     "nomeDevedor": "Caixa III",
     "indexador": "TR + 12.0000% a.a.",
     "precoUnitario": null,
@@ -1524,7 +1524,7 @@
   {
     "id": 66,
     "idOperacao": 66,
-    "codigoRb": "CRI.1.CIA.132",
+    "codigoOpea": "CRI.1.CIA.132",
     "nomeDevedor": "Santander | Ed. WT Morumbi",
     "indexador": "IPCA + 6.0000% a.a.",
     "precoUnitario": null,
@@ -1566,7 +1566,7 @@
   {
     "id": 65,
     "idOperacao": 65,
-    "codigoRb": "CRI.1.CIA.131",
+    "codigoOpea": "CRI.1.CIA.131",
     "nomeDevedor": "SYN | Ed. JK D",
     "indexador": "CDI + 1.3000% a.a.",
     "precoUnitario": null,
@@ -1608,7 +1608,7 @@
   {
     "id": 63,
     "idOperacao": 63,
-    "codigoRb": "CRI.1.CIA.129",
+    "codigoOpea": "CRI.1.CIA.129",
     "nomeDevedor": "SYN | Ed. JK E",
     "indexador": "CDI + 1.3000% a.a.",
     "precoUnitario": null,
@@ -1650,7 +1650,7 @@
   {
     "id": 68,
     "idOperacao": 68,
-    "codigoRb": "CRI.1.CIA.134",
+    "codigoOpea": "CRI.1.CIA.134",
     "nomeDevedor": "Iguatemi | Shopping JK",
     "indexador": "CDI + 1.3000% a.a.",
     "precoUnitario": null,
@@ -1692,7 +1692,7 @@
   {
     "id": 67,
     "idOperacao": 67,
-    "codigoRb": "CRI.1.CIA.133",
+    "codigoOpea": "CRI.1.CIA.133",
     "nomeDevedor": "BTG | Ed. Cidade Jardim",
     "indexador": "IPCA + 6.5489% a.a.",
     "precoUnitario": null,
@@ -1730,7 +1730,7 @@
   {
     "id": 70,
     "idOperacao": 70,
-    "codigoRb": "CRI.1.CIA.137",
+    "codigoOpea": "CRI.1.CIA.137",
     "nomeDevedor": "Iguatemi | Shopping Ribeirao Preto",
     "indexador": "CDI + 1.3000% a.a.",
     "precoUnitario": null,
@@ -1772,7 +1772,7 @@
   {
     "id": 71,
     "idOperacao": 71,
-    "codigoRb": "CRI.1.CIA.138",
+    "codigoOpea": "CRI.1.CIA.138",
     "nomeDevedor": "BR Malls | Shopping Villa Lobos",
     "indexador": "CDI + 1.7500% a.a.",
     "precoUnitario": null,
@@ -1814,7 +1814,7 @@
   {
     "id": 69,
     "idOperacao": 69,
-    "codigoRb": "CRI.1.CIA.135",
+    "codigoOpea": "CRI.1.CIA.135",
     "nomeDevedor": "Iguatemi | Shopping Alphaville",
     "indexador": "CDI + (0.1000%)",
     "precoUnitario": null,
@@ -1856,7 +1856,7 @@
   {
     "id": 74,
     "idOperacao": 74,
-    "codigoRb": "CRI.1.CIA.142",
+    "codigoOpea": "CRI.1.CIA.142",
     "nomeDevedor": "BR Properties | Ed. JK B",
     "indexador": "CDI + 1.5800% a.a.",
     "precoUnitario": null,
@@ -1898,7 +1898,7 @@
   {
     "id": 75,
     "idOperacao": 75,
-    "codigoRb": "CRI.1.CIA.143",
+    "codigoOpea": "CRI.1.CIA.143",
     "nomeDevedor": "BR Properties | Ed. JK B",
     "indexador": "CDI + 1.5800% a.a.",
     "precoUnitario": null,
@@ -1940,7 +1940,7 @@
   {
     "id": 64,
     "idOperacao": 64,
-    "codigoRb": "CRI.1.CIA.130",
+    "codigoOpea": "CRI.1.CIA.130",
     "nomeDevedor": "Aliansce | Shopping Bangu",
     "indexador": "IPCA + 6.5727% a.a.",
     "precoUnitario": null,
@@ -1982,7 +1982,7 @@
   {
     "id": 79,
     "idOperacao": 79,
-    "codigoRb": "CRI.1.CIA.152",
+    "codigoOpea": "CRI.1.CIA.152",
     "nomeDevedor": "CS | Ed. Vivo",
     "indexador": "CDI + 1.6500% a.a.",
     "precoUnitario": null,
@@ -2024,7 +2024,7 @@
   {
     "id": 76,
     "idOperacao": 76,
-    "codigoRb": "CRI.1.CIA.145",
+    "codigoOpea": "CRI.1.CIA.145",
     "nomeDevedor": "Aliansce | Shopping Bangu",
     "indexador": "99.0000% CDI",
     "precoUnitario": null,
@@ -2066,7 +2066,7 @@
   {
     "id": 80,
     "idOperacao": 80,
-    "codigoRb": "CRI.1.CIA.153",
+    "codigoOpea": "CRI.1.CIA.153",
     "nomeDevedor": "VLI Guara",
     "indexador": "IPCA + 5.8217% a.a.",
     "precoUnitario": null,
@@ -2104,7 +2104,7 @@
   {
     "id": 85,
     "idOperacao": 85,
-    "codigoRb": "CRI.1.CIA.160",
+    "codigoOpea": "CRI.1.CIA.160",
     "nomeDevedor": "Aliansce | Shopping Via Parque",
     "indexador": "CDI + 1.0000% a.a.",
     "precoUnitario": null,
@@ -2146,7 +2146,7 @@
   {
     "id": 88,
     "idOperacao": 88,
-    "codigoRb": "CRI.1.CIA.163",
+    "codigoOpea": "CRI.1.CIA.163",
     "nomeDevedor": "BTG | Ed. Cidade Jardim II",
     "indexador": "IPCA + 6.5489% a.a.",
     "precoUnitario": null,
@@ -2184,7 +2184,7 @@
   {
     "id": 89,
     "idOperacao": 89,
-    "codigoRb": "CRI.1.CIA.165",
+    "codigoOpea": "CRI.1.CIA.165",
     "nomeDevedor": "Rede Dor | Santa Helena",
     "indexador": "IPCA + 6.3491% a.a.",
     "precoUnitario": null,
@@ -2226,7 +2226,7 @@
   {
     "id": 84,
     "idOperacao": 84,
-    "codigoRb": "CRI.1.CIA.159",
+    "codigoOpea": "CRI.1.CIA.159",
     "nomeDevedor": "Iguatemi",
     "indexador": "96.0000% CDI",
     "precoUnitario": null,
@@ -2268,7 +2268,7 @@
   {
     "id": 96,
     "idOperacao": 96,
-    "codigoRb": "CRI.1.CIA.173",
+    "codigoOpea": "CRI.1.CIA.173",
     "nomeDevedor": "BTG | Ed. EZ Tower I",
     "indexador": "CDI + 1.7500% a.a.",
     "precoUnitario": null,
@@ -2310,7 +2310,7 @@
   {
     "id": 97,
     "idOperacao": 97,
-    "codigoRb": "CRI.1.CIA.174",
+    "codigoOpea": "CRI.1.CIA.174",
     "nomeDevedor": "BTG | Ed. EZ Tower I",
     "indexador": "CDI + 1.7500% a.a.",
     "precoUnitario": null,
@@ -2352,7 +2352,7 @@
   {
     "id": 99,
     "idOperacao": 99,
-    "codigoRb": "CRI.1.CIA.176",
+    "codigoOpea": "CRI.1.CIA.176",
     "nomeDevedor": "BTG| Ed. EZ Tower I",
     "indexador": "IPCA + 6.5000% a.a.",
     "precoUnitario": null,
@@ -2390,7 +2390,7 @@
   {
     "id": 98,
     "idOperacao": 98,
-    "codigoRb": "CRI.1.CIA.175",
+    "codigoOpea": "CRI.1.CIA.175",
     "nomeDevedor": "BTG | Ed. EZ Tower I",
     "indexador": "IPCA + 6.5000% a.a.",
     "precoUnitario": null,
@@ -2428,7 +2428,7 @@
   {
     "id": 82,
     "idOperacao": 82,
-    "codigoRb": "CRI.1.CIA.156",
+    "codigoOpea": "CRI.1.CIA.156",
     "nomeDevedor": "Aliansce | Shopping Bangu",
     "indexador": "101.0000% CDI",
     "precoUnitario": null,
@@ -2470,7 +2470,7 @@
   {
     "id": 94,
     "idOperacao": 94,
-    "codigoRb": "CRI.1.CIA.171",
+    "codigoOpea": "CRI.1.CIA.171",
     "nomeDevedor": "Alphaville Urbanismo",
     "indexador": "CDI + 3.9000% a.a.",
     "precoUnitario": null,
@@ -2512,7 +2512,7 @@
   {
     "id": 92,
     "idOperacao": 92,
-    "codigoRb": "CRI.1.CIA.169",
+    "codigoOpea": "CRI.1.CIA.169",
     "nomeDevedor": "Localiza",
     "indexador": "99.0000% CDI",
     "precoUnitario": null,
@@ -2554,7 +2554,7 @@
   {
     "id": 100,
     "idOperacao": 100,
-    "codigoRb": "CRI.1.CIA.178",
+    "codigoOpea": "CRI.1.CIA.178",
     "nomeDevedor": "Mapfre",
     "indexador": "IPCA + 5.1604% a.a.",
     "precoUnitario": null,
@@ -2596,7 +2596,7 @@
   {
     "id": 93,
     "idOperacao": 93,
-    "codigoRb": "CRI.1.CIA.170",
+    "codigoOpea": "CRI.1.CIA.170",
     "nomeDevedor": "Magna",
     "indexador": "IGPM + 5.3033% a.a.",
     "precoUnitario": null,
@@ -2634,7 +2634,7 @@
   {
     "id": 83,
     "idOperacao": 83,
-    "codigoRb": "CRI.1.CIA.157",
+    "codigoOpea": "CRI.1.CIA.157",
     "nomeDevedor": "Rede Dor | Corporativo I",
     "indexador": "99.0000% CDI",
     "precoUnitario": null,
@@ -2676,7 +2676,7 @@
   {
     "id": 105,
     "idOperacao": 105,
-    "codigoRb": "CRI.1.CIA.184",
+    "codigoOpea": "CRI.1.CIA.184",
     "nomeDevedor": "Rede Dor | Corporativo II",
     "indexador": "IPCA + 6.0563% a.a.",
     "precoUnitario": null,
@@ -2718,7 +2718,7 @@
   {
     "id": 103,
     "idOperacao": 103,
-    "codigoRb": "CRI.1.CIA.182",
+    "codigoOpea": "CRI.1.CIA.182",
     "nomeDevedor": "Cencosud",
     "indexador": "IGPM + 7.5846% a.a.",
     "precoUnitario": null,
@@ -2760,7 +2760,7 @@
   {
     "id": 86,
     "idOperacao": 86,
-    "codigoRb": "CRI.1.CIA.161",
+    "codigoOpea": "CRI.1.CIA.161",
     "nomeDevedor": "Cabreuva Harmonia",
     "indexador": "IPCA + 7.2500% a.a.",
     "precoUnitario": null,
@@ -2802,7 +2802,7 @@
   {
     "id": 87,
     "idOperacao": 87,
-    "codigoRb": "CRI.1.CIA.162",
+    "codigoOpea": "CRI.1.CIA.162",
     "nomeDevedor": "Brookfield | CD Guarulhos",
     "indexador": "IPCA + 7.2500% a.a.",
     "precoUnitario": null,
@@ -2844,7 +2844,7 @@
   {
     "id": 81,
     "idOperacao": 81,
-    "codigoRb": "CRI.1.CIA.154",
+    "codigoOpea": "CRI.1.CIA.154",
     "nomeDevedor": "Vale Amec",
     "indexador": "IGPM + 5.6333% a.a.",
     "precoUnitario": null,
@@ -2886,7 +2886,7 @@
   {
     "id": 109,
     "idOperacao": 109,
-    "codigoRb": "CRI.1.CIA.188",
+    "codigoOpea": "CRI.1.CIA.188",
     "nomeDevedor": "Rede Dor | Corporativo III",
     "indexador": "96.5000% CDI",
     "precoUnitario": null,
@@ -2928,7 +2928,7 @@
   {
     "id": 110,
     "idOperacao": 110,
-    "codigoRb": "CRI.1.CIA.189",
+    "codigoOpea": "CRI.1.CIA.189",
     "nomeDevedor": "Rede Dor | Corporativo III",
     "indexador": "IPCA + 4.6572% a.a.",
     "precoUnitario": null,
@@ -2970,7 +2970,7 @@
   {
     "id": 111,
     "idOperacao": 111,
-    "codigoRb": "CRI.1.CIA.200",
+    "codigoOpea": "CRI.1.CIA.200",
     "nomeDevedor": "Cereais Bramil",
     "indexador": "110.0000% CDI",
     "precoUnitario": null,
@@ -3012,7 +3012,7 @@
   {
     "id": 112,
     "idOperacao": 112,
-    "codigoRb": "CRI.1.CIA.201",
+    "codigoOpea": "CRI.1.CIA.201",
     "nomeDevedor": "Cereais Bramil",
     "indexador": "12.0000% a.a.",
     "precoUnitario": null,
@@ -3054,7 +3054,7 @@
   {
     "id": 106,
     "idOperacao": 106,
-    "codigoRb": "CRI.1.CIA.185",
+    "codigoOpea": "CRI.1.CIA.185",
     "nomeDevedor": "Kroton | Campus Unopar Palmas",
     "indexador": "IGPM + 5.9571% a.a.",
     "precoUnitario": null,
@@ -3096,7 +3096,7 @@
   {
     "id": 169,
     "idOperacao": 183,
-    "codigoRb": "CRI.1.CIA.204",
+    "codigoOpea": "CRI.1.CIA.204",
     "nomeDevedor": "Brookfield | Ed. Eldorado II",
     "indexador": "IPCA + 6.4000% a.a.",
     "precoUnitario": null,
@@ -3134,7 +3134,7 @@
   {
     "id": 170,
     "idOperacao": 184,
-    "codigoRb": "CRI.1.CIA.205",
+    "codigoOpea": "CRI.1.CIA.205",
     "nomeDevedor": "Brookfield | Ed. Eldorado II",
     "indexador": "IPCA + 9.0000% a.a.",
     "precoUnitario": null,
@@ -3172,7 +3172,7 @@
   {
     "id": 163,
     "idOperacao": 177,
-    "codigoRb": "CRI.1.CIA.193",
+    "codigoOpea": "CRI.1.CIA.193",
     "nomeDevedor": "Brookfield | Ed. Eldorado",
     "indexador": "CDI + 1.4000% a.a.",
     "precoUnitario": null,
@@ -3214,7 +3214,7 @@
   {
     "id": 164,
     "idOperacao": 178,
-    "codigoRb": "CRI.1.CIA.194",
+    "codigoOpea": "CRI.1.CIA.194",
     "nomeDevedor": "Brookfield | Ed. Eldorado",
     "indexador": "CDI + 4.0000% a.a.",
     "precoUnitario": null,
@@ -3256,7 +3256,7 @@
   {
     "id": 165,
     "idOperacao": 179,
-    "codigoRb": "CRI.1.CIA.195",
+    "codigoOpea": "CRI.1.CIA.195",
     "nomeDevedor": "Core | Ed. Flamengo",
     "indexador": "CDI + 2.2500% a.a.",
     "precoUnitario": null,
@@ -3298,7 +3298,7 @@
   {
     "id": 166,
     "idOperacao": 180,
-    "codigoRb": "CRI.1.CIA.196",
+    "codigoOpea": "CRI.1.CIA.196",
     "nomeDevedor": "Core | Ed. Flamengo",
     "indexador": "CDI + 8.6700% a.a.",
     "precoUnitario": null,
@@ -3340,7 +3340,7 @@
   {
     "id": 171,
     "idOperacao": 185,
-    "codigoRb": "CRI.1.CIA.197",
+    "codigoOpea": "CRI.1.CIA.197",
     "nomeDevedor": "Brookfield | Ed. Brazilian Finance Center",
     "indexador": "CDI + 1.4000% a.a.",
     "precoUnitario": null,
@@ -3382,7 +3382,7 @@
   {
     "id": 172,
     "idOperacao": 186,
-    "codigoRb": "CRI.1.CIA.198",
+    "codigoOpea": "CRI.1.CIA.198",
     "nomeDevedor": "Brookfield | Ed. Brazilian Finance Center",
     "indexador": "CDI + 4.0000% a.a.",
     "precoUnitario": null,
@@ -3424,7 +3424,7 @@
   {
     "id": 173,
     "idOperacao": 187,
-    "codigoRb": "CRI.1.CIA.206",
+    "codigoOpea": "CRI.1.CIA.206",
     "nomeDevedor": "Brookfield | Ed. Brazilian Finance Center II",
     "indexador": "IPCA + 6.4000% a.a.",
     "precoUnitario": null,
@@ -3462,7 +3462,7 @@
   {
     "id": 174,
     "idOperacao": 188,
-    "codigoRb": "CRI.1.CIA.207",
+    "codigoOpea": "CRI.1.CIA.207",
     "nomeDevedor": "Brookfield | Ed. Brazilian Finance Center II",
     "indexador": "IPCA + 9.0000% a.a.",
     "precoUnitario": null,
@@ -3500,7 +3500,7 @@
   {
     "id": 175,
     "idOperacao": 189,
-    "codigoRb": "CRI.1.CIA.208",
+    "codigoOpea": "CRI.1.CIA.208",
     "nomeDevedor": "Rede Dor | Corporativo IV",
     "indexador": "95.7500% CDI",
     "precoUnitario": null,
@@ -3542,7 +3542,7 @@
   {
     "id": 176,
     "idOperacao": 190,
-    "codigoRb": "CRI.1.CIA.209",
+    "codigoOpea": "CRI.1.CIA.209",
     "nomeDevedor": "Rede Dor | Corporativo IV",
     "indexador": "IPCA + 3.9317% a.a.",
     "precoUnitario": null,
@@ -3580,7 +3580,7 @@
   {
     "id": 180,
     "idOperacao": 196,
-    "codigoRb": "CRI.1.CIA.210",
+    "codigoOpea": "CRI.1.CIA.210",
     "nomeDevedor": "Log",
     "indexador": "108.0000% CDI",
     "precoUnitario": null,
@@ -3622,7 +3622,7 @@
   {
     "id": 181,
     "idOperacao": 197,
-    "codigoRb": "CRI.1.CIA.211",
+    "codigoOpea": "CRI.1.CIA.211",
     "nomeDevedor": "Cyrela",
     "indexador": "100.0000% CDI",
     "precoUnitario": null,
@@ -3664,7 +3664,7 @@
   {
     "id": 182,
     "idOperacao": 198,
-    "codigoRb": "CRI.1.CIA.214",
+    "codigoOpea": "CRI.1.CIA.214",
     "nomeDevedor": "Construtora São José",
     "indexador": "CDI + 6.0000% a.a.",
     "precoUnitario": null,
@@ -3706,7 +3706,7 @@
   {
     "id": 185,
     "idOperacao": 201,
-    "codigoRb": "CRI.1.CIA.216",
+    "codigoOpea": "CRI.1.CIA.216",
     "nomeDevedor": "São Carlos",
     "indexador": "CDI + 1.0900% a.a.",
     "precoUnitario": null,
@@ -3748,7 +3748,7 @@
   {
     "id": 186,
     "idOperacao": 202,
-    "codigoRb": "CRI.1.CIA.212",
+    "codigoOpea": "CRI.1.CIA.212",
     "nomeDevedor": "Cyrela",
     "indexador": "100.0000% CDI",
     "precoUnitario": null,
@@ -3790,7 +3790,7 @@
   {
     "id": 183,
     "idOperacao": 199,
-    "codigoRb": "CRI.1.CIA.215",
+    "codigoOpea": "CRI.1.CIA.215",
     "nomeDevedor": "REC | Ed. Barra",
     "indexador": "IPCA + 8.2500% a.a.",
     "precoUnitario": null,
@@ -3828,7 +3828,7 @@
   {
     "id": 184,
     "idOperacao": 200,
-    "codigoRb": "CRI.1.CIA.220",
+    "codigoOpea": "CRI.1.CIA.220",
     "nomeDevedor": "REC | Ed. Barra",
     "indexador": "IPCA + 8.2500% a.a.",
     "precoUnitario": null,
@@ -3866,7 +3866,7 @@
   {
     "id": 187,
     "idOperacao": 203,
-    "codigoRb": "CRI.1.CIA.226",
+    "codigoOpea": "CRI.1.CIA.226",
     "nomeDevedor": "GBT II",
     "indexador": "IGPDI + 4.0000% a.a.",
     "precoUnitario": null,
@@ -3904,7 +3904,7 @@
   {
     "id": 188,
     "idOperacao": 204,
-    "codigoRb": "CRI.1.CIA.228",
+    "codigoOpea": "CRI.1.CIA.228",
     "nomeDevedor": "GBT II",
     "indexador": "IGPDI + 4.5000% a.a.",
     "precoUnitario": null,
@@ -3942,7 +3942,7 @@
   {
     "id": 191,
     "idOperacao": 207,
-    "codigoRb": "CRI.1.CIA.221",
+    "codigoOpea": "CRI.1.CIA.221",
     "nomeDevedor": "Rede Dor | Corporativo V",
     "indexador": "IPCA + 3.4465% a.a.",
     "precoUnitario": null,
@@ -3980,7 +3980,7 @@
   {
     "id": 194,
     "idOperacao": 210,
-    "codigoRb": "CRI.1.CIA.230",
+    "codigoOpea": "CRI.1.CIA.230",
     "nomeDevedor": "Tarjab",
     "indexador": "CDI + 5.5000% a.a.",
     "precoUnitario": null,
@@ -4022,7 +4022,7 @@
   {
     "id": 196,
     "idOperacao": 212,
-    "codigoRb": "CRI.1.CIA.219",
+    "codigoOpea": "CRI.1.CIA.219",
     "nomeDevedor": "Balaroti",
     "indexador": "CDI + 3.0000% a.a.",
     "precoUnitario": null,
@@ -4064,7 +4064,7 @@
   {
     "id": 200,
     "idOperacao": 216,
-    "codigoRb": "CRI.1.CIA.223",
+    "codigoOpea": "CRI.1.CIA.223",
     "nomeDevedor": "Dublin",
     "indexador": "CDI + 1.8500% a.a.",
     "precoUnitario": null,
@@ -4106,7 +4106,7 @@
   {
     "id": 201,
     "idOperacao": 217,
-    "codigoRb": "CRI.1.CIA.234",
+    "codigoOpea": "CRI.1.CIA.234",
     "nomeDevedor": "Cury",
     "indexador": "102.4000% CDI",
     "precoUnitario": null,
@@ -4148,7 +4148,7 @@
   {
     "id": 202,
     "idOperacao": 218,
-    "codigoRb": "CRI.1.CIA.231",
+    "codigoOpea": "CRI.1.CIA.231",
     "nomeDevedor": "São José II",
     "indexador": "CDI + 5.5000% a.a.",
     "precoUnitario": null,
@@ -4190,7 +4190,7 @@
   {
     "id": 206,
     "idOperacao": 222,
-    "codigoRb": "CRI.1.CIA.251",
+    "codigoOpea": "CRI.1.CIA.251",
     "nomeDevedor": "REC | Ed. Barra",
     "indexador": "IPCA + 7.7500% a.a.",
     "precoUnitario": null,
@@ -4228,7 +4228,7 @@
   {
     "id": 199,
     "idOperacao": 215,
-    "codigoRb": "CRI.1.CIA.242",
+    "codigoOpea": "CRI.1.CIA.242",
     "nomeDevedor": "Platamon",
     "indexador": "IPCA + 8.2500% a.a.",
     "precoUnitario": null,
@@ -4266,7 +4266,7 @@
   {
     "id": 209,
     "idOperacao": 225,
-    "codigoRb": "CRI.1.CIA.233",
+    "codigoOpea": "CRI.1.CIA.233",
     "nomeDevedor": "Votorantim Cimentos",
     "indexador": "IPCA + 3.8000% a.a.",
     "precoUnitario": null,
@@ -4304,7 +4304,7 @@
   {
     "id": 207,
     "idOperacao": 223,
-    "codigoRb": "CRI.1.CIA.237",
+    "codigoOpea": "CRI.1.CIA.237",
     "nomeDevedor": "Banco do Brasil DF",
     "indexador": "IGPM + 4.0000% a.a.",
     "precoUnitario": null,
@@ -4342,7 +4342,7 @@
   {
     "id": 210,
     "idOperacao": 226,
-    "codigoRb": "CRI.1.CIA.243",
+    "codigoOpea": "CRI.1.CIA.243",
     "nomeDevedor": "GJP",
     "indexador": "CDI + 4.2000% a.a.",
     "precoUnitario": null,
@@ -4384,7 +4384,7 @@
   {
     "id": 211,
     "idOperacao": 227,
-    "codigoRb": "CRI.1.CIA.247",
+    "codigoOpea": "CRI.1.CIA.247",
     "nomeDevedor": "Alianza I",
     "indexador": "IPCA + 5.5500% a.a.",
     "precoUnitario": null,
@@ -4422,7 +4422,7 @@
   {
     "id": 213,
     "idOperacao": 229,
-    "codigoRb": "CRI.1.CIA.259",
+    "codigoOpea": "CRI.1.CIA.259",
     "nomeDevedor": "Alianza II",
     "indexador": "IPCA + 5.5500% a.a.",
     "precoUnitario": null,
@@ -4460,7 +4460,7 @@
   {
     "id": 212,
     "idOperacao": 228,
-    "codigoRb": "CRI.1.CIA.248",
+    "codigoOpea": "CRI.1.CIA.248",
     "nomeDevedor": "Alianza I",
     "indexador": "IPCA + 7.5485% a.a.",
     "precoUnitario": null,
@@ -4498,7 +4498,7 @@
   {
     "id": 214,
     "idOperacao": 230,
-    "codigoRb": "CRI.1.CIA.260",
+    "codigoOpea": "CRI.1.CIA.260",
     "nomeDevedor": "Alianza II",
     "indexador": "IPCA + 7.5485% a.a.",
     "precoUnitario": null,
@@ -4536,7 +4536,7 @@
   {
     "id": 215,
     "idOperacao": 231,
-    "codigoRb": "CRI.1.CIA.217",
+    "codigoOpea": "CRI.1.CIA.217",
     "nomeDevedor": "Partage I",
     "indexador": "IPCA + 5.1280% a.a.",
     "precoUnitario": null,
@@ -4574,7 +4574,7 @@
   {
     "id": 216,
     "idOperacao": 232,
-    "codigoRb": "CRI.1.CIA.218",
+    "codigoOpea": "CRI.1.CIA.218",
     "nomeDevedor": "Partage II",
     "indexador": "IPCA + 5.1280% a.a.",
     "precoUnitario": null,
@@ -4612,7 +4612,7 @@
   {
     "id": 217,
     "idOperacao": 233,
-    "codigoRb": "CRI.1.CIA.238",
+    "codigoOpea": "CRI.1.CIA.238",
     "nomeDevedor": "FLBC",
     "indexador": "IGPM + 4.7500% a.a.",
     "precoUnitario": null,
@@ -4650,7 +4650,7 @@
   {
     "id": 218,
     "idOperacao": 234,
-    "codigoRb": "CRI.1.CIA.239",
+    "codigoOpea": "CRI.1.CIA.239",
     "nomeDevedor": "Green Towers",
     "indexador": "IGPM + 4.7500% a.a.",
     "precoUnitario": null,
@@ -4688,7 +4688,7 @@
   {
     "id": 203,
     "idOperacao": 219,
-    "codigoRb": "CRI.1.CIA.224",
+    "codigoOpea": "CRI.1.CIA.224",
     "nomeDevedor": "MZ Log",
     "indexador": "IPCA + 10.9800% a.a.",
     "precoUnitario": null,
@@ -4726,7 +4726,7 @@
   {
     "id": 219,
     "idOperacao": 235,
-    "codigoRb": "CRI.1.CIA.229",
+    "codigoOpea": "CRI.1.CIA.229",
     "nomeDevedor": "Natone",
     "indexador": "CDI + 2.2000% a.a.",
     "precoUnitario": null,
@@ -4768,7 +4768,7 @@
   {
     "id": 220,
     "idOperacao": 236,
-    "codigoRb": "CRI.1.CIA.254",
+    "codigoOpea": "CRI.1.CIA.254",
     "nomeDevedor": "Shopping Botucatu",
     "indexador": "IPCA + 7.0000% a.a.",
     "precoUnitario": null,
@@ -4806,7 +4806,7 @@
   {
     "id": 224,
     "idOperacao": 240,
-    "codigoRb": "CRI.1.CIA.252",
+    "codigoOpea": "CRI.1.CIA.252",
     "nomeDevedor": "Brookfield | Torre Sigma",
     "indexador": "CDI + 1.4500% a.a.",
     "precoUnitario": null,
@@ -4848,7 +4848,7 @@
   {
     "id": 226,
     "idOperacao": 242,
-    "codigoRb": "CRI.1.CIA.246",
+    "codigoOpea": "CRI.1.CIA.246",
     "nomeDevedor": "Setin Terreno",
     "indexador": "CDI + 3.5000% a.a.",
     "precoUnitario": null,
@@ -4890,7 +4890,7 @@
   {
     "id": 221,
     "idOperacao": 237,
-    "codigoRb": "CRI.1.CIA.261",
+    "codigoOpea": "CRI.1.CIA.261",
     "nomeDevedor": "Ribeira",
     "indexador": "IPCA + 6.0000% a.a.",
     "precoUnitario": null,
@@ -4928,7 +4928,7 @@
   {
     "id": 222,
     "idOperacao": 238,
-    "codigoRb": "CRI.1.CIA.268",
+    "codigoOpea": "CRI.1.CIA.268",
     "nomeDevedor": "Ribeira II",
     "indexador": "IPCA + 6.0000% a.a.",
     "precoUnitario": null,
@@ -4966,7 +4966,7 @@
   {
     "id": 227,
     "idOperacao": 243,
-    "codigoRb": "CRI.1.CIA.256",
+    "codigoOpea": "CRI.1.CIA.256",
     "nomeDevedor": "Habiarte",
     "indexador": "CDI + 6.0000% a.a.",
     "precoUnitario": null,
@@ -5008,7 +5008,7 @@
   {
     "id": 229,
     "idOperacao": 245,
-    "codigoRb": "CRI.1.CIA.266",
+    "codigoOpea": "CRI.1.CIA.266",
     "nomeDevedor": "Tarjab II",
     "indexador": "CDI + 4.0000% a.a.",
     "precoUnitario": null,
@@ -5050,7 +5050,7 @@
   {
     "id": 230,
     "idOperacao": 246,
-    "codigoRb": "CRI.1.CIA.255",
+    "codigoOpea": "CRI.1.CIA.255",
     "nomeDevedor": "Helbor",
     "indexador": "CDI + 2.4500% a.a.",
     "precoUnitario": null,
@@ -5092,7 +5092,7 @@
   {
     "id": 231,
     "idOperacao": 247,
-    "codigoRb": "CRI.1.CIA.257",
+    "codigoOpea": "CRI.1.CIA.257",
     "nomeDevedor": "Helbor Subordinada",
     "indexador": "CDI + 2.4500% a.a.",
     "precoUnitario": null,
@@ -5134,7 +5134,7 @@
   {
     "id": 233,
     "idOperacao": 249,
-    "codigoRb": "CRI.1.CIA.277",
+    "codigoOpea": "CRI.1.CIA.277",
     "nomeDevedor": "Credihome",
     "indexador": "IPCA + 13.0000% a.a.",
     "precoUnitario": null,
@@ -5172,7 +5172,7 @@
   {
     "id": 234,
     "idOperacao": 250,
-    "codigoRb": "CRI.1.CIA.278",
+    "codigoOpea": "CRI.1.CIA.278",
     "nomeDevedor": "Credihome",
     "indexador": "IPCA + 13.0000% a.a.",
     "precoUnitario": null,
@@ -5210,7 +5210,7 @@
   {
     "id": 232,
     "idOperacao": 248,
-    "codigoRb": "CRI.1.CIA.276",
+    "codigoOpea": "CRI.1.CIA.276",
     "nomeDevedor": "Credihome",
     "indexador": "IPCA + 6.0000% a.a.",
     "precoUnitario": null,
@@ -5248,7 +5248,7 @@
   {
     "id": 238,
     "idOperacao": 254,
-    "codigoRb": "CRI.1.CIA.265",
+    "codigoOpea": "CRI.1.CIA.265",
     "nomeDevedor": "Phiren Mikar",
     "indexador": "CDI + 5.0000% a.a.",
     "precoUnitario": null,
@@ -5290,7 +5290,7 @@
   {
     "id": 242,
     "idOperacao": 258,
-    "codigoRb": "CRI.1.CIA.227",
+    "codigoOpea": "CRI.1.CIA.227",
     "nomeDevedor": "Shopping Boa Vista",
     "indexador": "IPCA + 7.2500% a.a.",
     "precoUnitario": null,
@@ -5328,7 +5328,7 @@
   {
     "id": 245,
     "idOperacao": 261,
-    "codigoRb": "CRI.1.CIA.282",
+    "codigoOpea": "CRI.1.CIA.282",
     "nomeDevedor": "Ascenty Paulinia",
     "indexador": "IPCA + 5.0000% a.a.",
     "precoUnitario": null,
@@ -5366,7 +5366,7 @@
   {
     "id": 247,
     "idOperacao": 263,
-    "codigoRb": "CRI.1.CIA.285",
+    "codigoOpea": "CRI.1.CIA.285",
     "nomeDevedor": "Cyrela III",
     "indexador": "IPCA + 3.9100% a.a.",
     "precoUnitario": null,
@@ -5404,7 +5404,7 @@
   {
     "id": 246,
     "idOperacao": 262,
-    "codigoRb": "CRI.1.CIA.283",
+    "codigoOpea": "CRI.1.CIA.283",
     "nomeDevedor": "Cyrela II",
     "indexador": "IPCA + 3.9100% a.a.",
     "precoUnitario": null,
@@ -5442,7 +5442,7 @@
   {
     "id": 249,
     "idOperacao": 265,
-    "codigoRb": "CRI.1.CIA.281",
+    "codigoOpea": "CRI.1.CIA.281",
     "nomeDevedor": "JFL Realty",
     "indexador": "IPCA + 7.2500% a.a.",
     "precoUnitario": null,
@@ -5480,7 +5480,7 @@
   {
     "id": 244,
     "idOperacao": 260,
-    "codigoRb": "CRI.1.CIA.275",
+    "codigoOpea": "CRI.1.CIA.275",
     "nomeDevedor": "Gafisa",
     "indexador": "CDI + 6.0000% a.a.",
     "precoUnitario": null,
@@ -5522,7 +5522,7 @@
   {
     "id": 258,
     "idOperacao": 274,
-    "codigoRb": "CRI.1.CIA.262",
+    "codigoOpea": "CRI.1.CIA.262",
     "nomeDevedor": "Shopping Sinop",
     "indexador": "IPCA + 8.5000% a.a.",
     "precoUnitario": null,
@@ -5560,7 +5560,7 @@
   {
     "id": 259,
     "idOperacao": 275,
-    "codigoRb": "CRI.1.CIA.245",
+    "codigoOpea": "CRI.1.CIA.245",
     "nomeDevedor": "Boulevard Belém",
     "indexador": "IPCA + 5.4500% a.a.",
     "precoUnitario": null,
@@ -5598,7 +5598,7 @@
   {
     "id": 260,
     "idOperacao": 276,
-    "codigoRb": "CRI.1.CIA.269",
+    "codigoOpea": "CRI.1.CIA.269",
     "nomeDevedor": "Boulevard Belém",
     "indexador": "IPCA + 7.2100% a.a.",
     "precoUnitario": null,
@@ -5636,7 +5636,7 @@
   {
     "id": 264,
     "idOperacao": 280,
-    "codigoRb": "CRI.1.CIA.303",
+    "codigoOpea": "CRI.1.CIA.303",
     "nomeDevedor": "HADDOCK DI",
     "indexador": "CDI + 2.4750% a.a.",
     "precoUnitario": null,
@@ -5678,7 +5678,7 @@
   {
     "id": 265,
     "idOperacao": 281,
-    "codigoRb": "CRI.1.CIA.304",
+    "codigoOpea": "CRI.1.CIA.304",
     "nomeDevedor": "HADDOCK IPCA",
     "indexador": "IPCA + 5.5750% a.a.",
     "precoUnitario": null,
@@ -5716,7 +5716,7 @@
   {
     "id": 267,
     "idOperacao": 283,
-    "codigoRb": "CRI.1.CIA.296",
+    "codigoOpea": "CRI.1.CIA.296",
     "nomeDevedor": "GPA",
     "indexador": "IPCA + 5.0000% a.a.",
     "precoUnitario": null,
@@ -5754,7 +5754,7 @@
   {
     "id": 266,
     "idOperacao": 282,
-    "codigoRb": "CRI.1.CIA.295",
+    "codigoOpea": "CRI.1.CIA.295",
     "nomeDevedor": "Dinamo",
     "indexador": "IPCA + 8.7500% a.a.",
     "precoUnitario": null,
@@ -5792,7 +5792,7 @@
   {
     "id": 268,
     "idOperacao": 284,
-    "codigoRb": "CRI.1.CIA.300",
+    "codigoOpea": "CRI.1.CIA.300",
     "nomeDevedor": "Credihome",
     "indexador": "IPCA + 6.0000% a.a.",
     "precoUnitario": null,
@@ -5830,7 +5830,7 @@
   {
     "id": 269,
     "idOperacao": 285,
-    "codigoRb": "CRI.1.CIA.301",
+    "codigoOpea": "CRI.1.CIA.301",
     "nomeDevedor": "Credihome",
     "indexador": "IPCA + 13.0000% a.a.",
     "precoUnitario": null,
@@ -5868,7 +5868,7 @@
   {
     "id": 270,
     "idOperacao": 286,
-    "codigoRb": "CRI.1.CIA.302",
+    "codigoOpea": "CRI.1.CIA.302",
     "nomeDevedor": "Credihome",
     "indexador": "IPCA + 13.0000% a.a.",
     "precoUnitario": null,
@@ -5906,7 +5906,7 @@
   {
     "id": 272,
     "idOperacao": 288,
-    "codigoRb": "CRI.1.CIA.297",
+    "codigoOpea": "CRI.1.CIA.297",
     "nomeDevedor": "Estrela Alta",
     "indexador": "IGPM + 8.0000% a.a.",
     "precoUnitario": null,
@@ -5944,7 +5944,7 @@
   {
     "id": 273,
     "idOperacao": 289,
-    "codigoRb": "CRI.1.CIA.309",
+    "codigoOpea": "CRI.1.CIA.309",
     "nomeDevedor": "Premoaço",
     "indexador": "IPCA + 7.5000% a.a.",
     "precoUnitario": null,
@@ -5982,7 +5982,7 @@
   {
     "id": 271,
     "idOperacao": 287,
-    "codigoRb": "CRI.1.CIA.305",
+    "codigoOpea": "CRI.1.CIA.305",
     "nomeDevedor": "Fibra Experts",
     "indexador": "IPCA + 5.9600% a.a.",
     "precoUnitario": null,
@@ -6020,7 +6020,7 @@
   {
     "id": 276,
     "idOperacao": 292,
-    "codigoRb": "CRI.1.CIA.313",
+    "codigoOpea": "CRI.1.CIA.313",
     "nomeDevedor": "Ascenty Vinhedo",
     "indexador": "IPCA + 5.7000% a.a.",
     "precoUnitario": null,
@@ -6058,7 +6058,7 @@
   {
     "id": 255,
     "idOperacao": 271,
-    "codigoRb": "CRI.1.CIA.291",
+    "codigoOpea": "CRI.1.CIA.291",
     "nomeDevedor": "Montserrat",
     "indexador": "IPCA + 10.0000% a.a.",
     "precoUnitario": null,
@@ -6096,7 +6096,7 @@
   {
     "id": 256,
     "idOperacao": 272,
-    "codigoRb": "CRI.1.CIA.292",
+    "codigoOpea": "CRI.1.CIA.292",
     "nomeDevedor": "Montserrat",
     "indexador": "IPCA + 10.0000% a.a.",
     "precoUnitario": null,
@@ -6134,7 +6134,7 @@
   {
     "id": 257,
     "idOperacao": 273,
-    "codigoRb": "CRI.1.CIA.293",
+    "codigoOpea": "CRI.1.CIA.293",
     "nomeDevedor": "Montserrat",
     "indexador": "IPCA + 10.0000% a.a.",
     "precoUnitario": null,
@@ -6172,7 +6172,7 @@
   {
     "id": 277,
     "idOperacao": 293,
-    "codigoRb": "CRI.1.CIA.314",
+    "codigoOpea": "CRI.1.CIA.314",
     "nomeDevedor": "Montserrat ",
     "indexador": "IPCA + 10.0000% a.a.",
     "precoUnitario": null,
@@ -6210,7 +6210,7 @@
   {
     "id": 278,
     "idOperacao": 294,
-    "codigoRb": "CRI.1.CIA.315",
+    "codigoOpea": "CRI.1.CIA.315",
     "nomeDevedor": "Montserrat",
     "indexador": "IPCA + 10.0000% a.a.",
     "precoUnitario": null,
@@ -6248,7 +6248,7 @@
   {
     "id": 280,
     "idOperacao": 296,
-    "codigoRb": "CRI.1.CIA.321",
+    "codigoOpea": "CRI.1.CIA.321",
     "nomeDevedor": "Pôr do Sol II",
     "indexador": "INPC + 9.5000% a.a.",
     "precoUnitario": null,
@@ -6286,7 +6286,7 @@
   {
     "id": 282,
     "idOperacao": 298,
-    "codigoRb": "CRI.1.CIA.323",
+    "codigoOpea": "CRI.1.CIA.323",
     "nomeDevedor": "Engetecnica",
     "indexador": "CDI + 3.5000% a.a.",
     "precoUnitario": null,
@@ -6328,7 +6328,7 @@
   {
     "id": 283,
     "idOperacao": 299,
-    "codigoRb": "CRI.1.CIA.325",
+    "codigoOpea": "CRI.1.CIA.325",
     "nomeDevedor": "Votorantim Cimentos II",
     "indexador": "IPCA + 4.4657% a.a.",
     "precoUnitario": null,
@@ -6366,7 +6366,7 @@
   {
     "id": 284,
     "idOperacao": 300,
-    "codigoRb": "CRI.1.CIA.298",
+    "codigoOpea": "CRI.1.CIA.298",
     "nomeDevedor": "Perini",
     "indexador": "IPCA + 5.5000% a.a.",
     "precoUnitario": null,
@@ -6404,7 +6404,7 @@
   {
     "id": 285,
     "idOperacao": 301,
-    "codigoRb": "CRI.1.CIA.320",
+    "codigoOpea": "CRI.1.CIA.320",
     "nomeDevedor": "Perini",
     "indexador": "IPCA + 7.0000% a.a.",
     "precoUnitario": null,
@@ -6442,7 +6442,7 @@
   {
     "id": 286,
     "idOperacao": 302,
-    "codigoRb": "CRI.1.CIA.310",
+    "codigoOpea": "CRI.1.CIA.310",
     "nomeDevedor": "Allure",
     "indexador": "IPCA + 10.5000% a.a.",
     "precoUnitario": null,
@@ -6480,7 +6480,7 @@
   {
     "id": 287,
     "idOperacao": 303,
-    "codigoRb": "CRI.1.CIA.326",
+    "codigoOpea": "CRI.1.CIA.326",
     "nomeDevedor": "Allure",
     "indexador": "IPCA + 16.0000% a.a.",
     "precoUnitario": null,
@@ -6518,7 +6518,7 @@
   {
     "id": 288,
     "idOperacao": 304,
-    "codigoRb": "CRI.1.CIA.327",
+    "codigoOpea": "CRI.1.CIA.327",
     "nomeDevedor": "Allure",
     "indexador": "IPCA + 10.5000% a.a.",
     "precoUnitario": null,
@@ -6556,7 +6556,7 @@
   {
     "id": 289,
     "idOperacao": 305,
-    "codigoRb": "CRI.1.CIA.328",
+    "codigoOpea": "CRI.1.CIA.328",
     "nomeDevedor": "Allure",
     "indexador": "IPCA + 16.0000% a.a.",
     "precoUnitario": null,
@@ -6594,7 +6594,7 @@
   {
     "id": 291,
     "idOperacao": 307,
-    "codigoRb": "CRI.1.CIA.330",
+    "codigoOpea": "CRI.1.CIA.330",
     "nomeDevedor": "Core Metropolis FII",
     "indexador": "CDI + 2.7500% a.a.",
     "precoUnitario": null,
@@ -6636,7 +6636,7 @@
   {
     "id": 292,
     "idOperacao": 308,
-    "codigoRb": "CRI.1.CIA.331",
+    "codigoOpea": "CRI.1.CIA.331",
     "nomeDevedor": "Core Metropolis FII",
     "indexador": "IPCA + 6.2000% a.a.",
     "precoUnitario": null,
@@ -6674,7 +6674,7 @@
   {
     "id": 294,
     "idOperacao": 310,
-    "codigoRb": "CRI.1.CIA.316",
+    "codigoOpea": "CRI.1.CIA.316",
     "nomeDevedor": "Finvest",
     "indexador": "IPCA + 10.0000% a.a.",
     "precoUnitario": null,
@@ -6712,7 +6712,7 @@
   {
     "id": 295,
     "idOperacao": 311,
-    "codigoRb": "CRI.1.CIA.317",
+    "codigoOpea": "CRI.1.CIA.317",
     "nomeDevedor": "Share",
     "indexador": "CDI + 3.5000% a.a.",
     "precoUnitario": null,
@@ -6754,7 +6754,7 @@
   {
     "id": 293,
     "idOperacao": 309,
-    "codigoRb": "CRI.1.CIA.335",
+    "codigoOpea": "CRI.1.CIA.335",
     "nomeDevedor": "Cassi",
     "indexador": "IPCA + 4.8000% a.a.",
     "precoUnitario": null,
@@ -6792,7 +6792,7 @@
   {
     "id": 296,
     "idOperacao": 312,
-    "codigoRb": "CRI.1.CIA.333",
+    "codigoOpea": "CRI.1.CIA.333",
     "nomeDevedor": "SG Aquiraz",
     "indexador": "IPCA + 9.5000% a.a.",
     "precoUnitario": null,
@@ -6830,7 +6830,7 @@
   {
     "id": 297,
     "idOperacao": 313,
-    "codigoRb": "CRI.1.CIA.344",
+    "codigoOpea": "CRI.1.CIA.344",
     "nomeDevedor": "JFL Luminus",
     "indexador": "IPCA + 5.6000% a.a.",
     "precoUnitario": null,
@@ -6868,7 +6868,7 @@
   {
     "id": 299,
     "idOperacao": 315,
-    "codigoRb": "CRI.1.CIA.324",
+    "codigoOpea": "CRI.1.CIA.324",
     "nomeDevedor": "Rede Dor VI",
     "indexador": "IPCA + 4.9347% a.a.",
     "precoUnitario": null,
@@ -6906,7 +6906,7 @@
   {
     "id": 300,
     "idOperacao": 316,
-    "codigoRb": "CRI.1.CIA.346",
+    "codigoOpea": "CRI.1.CIA.346",
     "nomeDevedor": "Harmonia Cabreuva",
     "indexador": "IPCA + 7.2500% a.a.",
     "precoUnitario": null,
@@ -6944,7 +6944,7 @@
   {
     "id": 305,
     "idOperacao": 321,
-    "codigoRb": "CRI.1.CIA.352",
+    "codigoOpea": "CRI.1.CIA.352",
     "nomeDevedor": "You Stella",
     "indexador": "CDI + 5.0000% a.a.",
     "precoUnitario": null,
@@ -6986,7 +6986,7 @@
   {
     "id": 306,
     "idOperacao": 322,
-    "codigoRb": "CRI.1.CIA.339",
+    "codigoOpea": "CRI.1.CIA.339",
     "nomeDevedor": "Fashion Mall",
     "indexador": "IPCA + 7.7500% a.a.",
     "precoUnitario": null,
@@ -7024,7 +7024,7 @@
   {
     "id": 307,
     "idOperacao": 323,
-    "codigoRb": "CRI.1.CIA.340",
+    "codigoOpea": "CRI.1.CIA.340",
     "nomeDevedor": "Fashion Mall",
     "indexador": "IPCA + 7.7500% a.a.",
     "precoUnitario": null,
@@ -7062,7 +7062,7 @@
   {
     "id": 303,
     "idOperacao": 319,
-    "codigoRb": "CRI.1.CIA.342",
+    "codigoOpea": "CRI.1.CIA.342",
     "nomeDevedor": "GCA",
     "indexador": "9.9000% a.a.",
     "precoUnitario": null,
@@ -7100,7 +7100,7 @@
   {
     "id": 304,
     "idOperacao": 320,
-    "codigoRb": "CRI.1.CIA.343",
+    "codigoOpea": "CRI.1.CIA.343",
     "nomeDevedor": "GCA",
     "indexador": "9.9000% a.a.",
     "precoUnitario": null,
@@ -7138,7 +7138,7 @@
   {
     "id": 308,
     "idOperacao": 324,
-    "codigoRb": "CRI.1.CIA.354",
+    "codigoOpea": "CRI.1.CIA.354",
     "nomeDevedor": "Jakarta",
     "indexador": "IPCA + 6.0000% a.a.",
     "precoUnitario": null,
@@ -7176,7 +7176,7 @@
   {
     "id": 310,
     "idOperacao": 326,
-    "codigoRb": "CRI.1.CIA.363",
+    "codigoOpea": "CRI.1.CIA.363",
     "nomeDevedor": "Cyrela",
     "indexador": "7.0000% a.a.",
     "precoUnitario": null,
@@ -7214,7 +7214,7 @@
   {
     "id": 309,
     "idOperacao": 325,
-    "codigoRb": "CRI.1.CIA.362",
+    "codigoOpea": "CRI.1.CIA.362",
     "nomeDevedor": "Cyrela",
     "indexador": "7.0000% a.a.",
     "precoUnitario": null,
@@ -7252,7 +7252,7 @@
   {
     "id": 301,
     "idOperacao": 317,
-    "codigoRb": "CRI.1.CIA.338",
+    "codigoOpea": "CRI.1.CIA.338",
     "nomeDevedor": "ABDO",
     "indexador": "IPCA + 7.0000% a.a.",
     "precoUnitario": null,
@@ -7290,7 +7290,7 @@
   {
     "id": 302,
     "idOperacao": 318,
-    "codigoRb": "CRI.1.CIA.345",
+    "codigoOpea": "CRI.1.CIA.345",
     "nomeDevedor": "ABDO",
     "indexador": "IPCA + 7.0000% a.a.",
     "precoUnitario": null,
@@ -7328,7 +7328,7 @@
   {
     "id": 311,
     "idOperacao": 327,
-    "codigoRb": "CRI.1.CIA.355",
+    "codigoOpea": "CRI.1.CIA.355",
     "nomeDevedor": "Tabas",
     "indexador": "IPCA + 12.0000% a.a.",
     "precoUnitario": null,
@@ -7366,7 +7366,7 @@
   {
     "id": 315,
     "idOperacao": 331,
-    "codigoRb": "CRI.1.CIA.364",
+    "codigoOpea": "CRI.1.CIA.364",
     "nomeDevedor": "Lote 5",
     "indexador": "IPCA + 9.0000% a.a.",
     "precoUnitario": null,
@@ -7404,7 +7404,7 @@
   {
     "id": 316,
     "idOperacao": 332,
-    "codigoRb": "CRI.1.CIA.358",
+    "codigoOpea": "CRI.1.CIA.358",
     "nomeDevedor": "Fujitsu",
     "indexador": "CDI + 2.5500% a.a.",
     "precoUnitario": null,
@@ -7446,7 +7446,7 @@
   {
     "id": 317,
     "idOperacao": 333,
-    "codigoRb": "CRI.1.CIA.359",
+    "codigoOpea": "CRI.1.CIA.359",
     "nomeDevedor": "Fujitsu",
     "indexador": "IPCA + 6.0000% a.a.",
     "precoUnitario": null,
@@ -7484,7 +7484,7 @@
   {
     "id": 319,
     "idOperacao": 335,
-    "codigoRb": "CRI.1.CIA.365",
+    "codigoOpea": "CRI.1.CIA.365",
     "nomeDevedor": "HM Engenharia",
     "indexador": "CDI + 4.7500% a.a.",
     "precoUnitario": null,
@@ -7526,7 +7526,7 @@
   {
     "id": 320,
     "idOperacao": 336,
-    "codigoRb": "CRI.1.CIA.366",
+    "codigoOpea": "CRI.1.CIA.366",
     "nomeDevedor": "HM Engenharia",
     "indexador": "CDI + 4.7500% a.a.",
     "precoUnitario": null,
@@ -7568,7 +7568,7 @@
   {
     "id": 321,
     "idOperacao": 337,
-    "codigoRb": "CRI.1.CIA.348",
+    "codigoOpea": "CRI.1.CIA.348",
     "nomeDevedor": "J&J",
     "indexador": "IPCA + 5.4000% a.a.",
     "precoUnitario": null,
@@ -7606,7 +7606,7 @@
   {
     "id": 322,
     "idOperacao": 338,
-    "codigoRb": "CRI.1.CIA.349",
+    "codigoOpea": "CRI.1.CIA.349",
     "nomeDevedor": "J&J",
     "indexador": "CDI + 2.1500% a.a.",
     "precoUnitario": null,
@@ -7648,7 +7648,7 @@
   {
     "id": 326,
     "idOperacao": 342,
-    "codigoRb": "CRI.1.CIA.341",
+    "codigoOpea": "CRI.1.CIA.341",
     "nomeDevedor": "Sorriso",
     "indexador": "14.0000% a.a.",
     "precoUnitario": null,
@@ -7686,7 +7686,7 @@
   {
     "id": 314,
     "idOperacao": 330,
-    "codigoRb": "CRI.1.CIA.336",
+    "codigoOpea": "CRI.1.CIA.336",
     "nomeDevedor": "GLP Midway",
     "indexador": "IPCA + 5.0000% a.a.",
     "precoUnitario": null,
@@ -7724,7 +7724,7 @@
   {
     "id": 323,
     "idOperacao": 339,
-    "codigoRb": "CRI.1.CIA.347",
+    "codigoOpea": "CRI.1.CIA.347",
     "nomeDevedor": "Aliansce Sonae",
     "indexador": "IPCA + 4.6197% a.a.",
     "precoUnitario": null,
@@ -7762,7 +7762,7 @@
   {
     "id": 329,
     "idOperacao": 345,
-    "codigoRb": "CRI.1.CIA.353",
+    "codigoOpea": "CRI.1.CIA.353",
     "nomeDevedor": "Munir Abbud",
     "indexador": "CDI + 4.5000% a.a.",
     "precoUnitario": null,
@@ -7804,7 +7804,7 @@
   {
     "id": 330,
     "idOperacao": 346,
-    "codigoRb": "CRI.1.CIA.357",
+    "codigoOpea": "CRI.1.CIA.357",
     "nomeDevedor": "Setin Vila Leopoldina",
     "indexador": "CDI + 4.5000% a.a.",
     "precoUnitario": null,
@@ -7846,7 +7846,7 @@
   {
     "id": 331,
     "idOperacao": 347,
-    "codigoRb": "CRI.1.CIA.370",
+    "codigoOpea": "CRI.1.CIA.370",
     "nomeDevedor": "Global Apartamentos",
     "indexador": "IPCA + 6.4500% a.a.",
     "precoUnitario": null,
@@ -7884,7 +7884,7 @@
   {
     "id": 333,
     "idOperacao": 349,
-    "codigoRb": "CRI.1.CIA.367",
+    "codigoOpea": "CRI.1.CIA.367",
     "nomeDevedor": "Nova Agro",
     "indexador": "12.0000% a.a.",
     "precoUnitario": null,
@@ -7922,7 +7922,7 @@
   {
     "id": 335,
     "idOperacao": 351,
-    "codigoRb": "CRI.1.CIA.368",
+    "codigoOpea": "CRI.1.CIA.368",
     "nomeDevedor": "São José III",
     "indexador": "IPCA + 7.0000% a.a.",
     "precoUnitario": null,
@@ -7960,7 +7960,7 @@
   {
     "id": 334,
     "idOperacao": 350,
-    "codigoRb": "CRI.1.CIA.329",
+    "codigoOpea": "CRI.1.CIA.329",
     "nomeDevedor": "Chez Perdizes",
     "indexador": "CDI + 4.0000% a.a.",
     "precoUnitario": null,
@@ -8002,7 +8002,7 @@
   {
     "id": 336,
     "idOperacao": 352,
-    "codigoRb": "CRI.1.CIA.371",
+    "codigoOpea": "CRI.1.CIA.371",
     "nomeDevedor": "Alphaville II",
     "indexador": "IPCA + 8.0000% a.a.",
     "precoUnitario": null,
@@ -8040,7 +8040,7 @@
   {
     "id": 339,
     "idOperacao": 355,
-    "codigoRb": "CRI.1.CIA.369",
+    "codigoOpea": "CRI.1.CIA.369",
     "nomeDevedor": "Tarjab Freguesia",
     "indexador": "CDI + 5.0000% a.a.",
     "precoUnitario": null,
@@ -8082,7 +8082,7 @@
   {
     "id": 340,
     "idOperacao": 356,
-    "codigoRb": "CRI.1.CIA.374",
+    "codigoOpea": "CRI.1.CIA.374",
     "nomeDevedor": "Bewiki",
     "indexador": "IPCA + 10.0000% a.a.",
     "precoUnitario": null,
@@ -8120,7 +8120,7 @@
   {
     "id": 343,
     "idOperacao": 359,
-    "codigoRb": "CRI.1.CIA.385",
+    "codigoOpea": "CRI.1.CIA.385",
     "nomeDevedor": "JFL VO",
     "indexador": "IPCA + 5.7500% a.a.",
     "precoUnitario": null,
@@ -8158,7 +8158,7 @@
   {
     "id": 344,
     "idOperacao": 360,
-    "codigoRb": "CRI.1.CIA.386",
+    "codigoOpea": "CRI.1.CIA.386",
     "nomeDevedor": "Navi",
     "indexador": "IPCA + 6.0000% a.a.",
     "precoUnitario": null,
@@ -8196,7 +8196,7 @@
   {
     "id": 345,
     "idOperacao": 361,
-    "codigoRb": "CRI.1.CIA.360",
+    "codigoOpea": "CRI.1.CIA.360",
     "nomeDevedor": "Hot Beach",
     "indexador": "IPCA + 8.1500% a.a.",
     "precoUnitario": null,
@@ -8234,7 +8234,7 @@
   {
     "id": 347,
     "idOperacao": 363,
-    "codigoRb": "CRI.1.CIA.398",
+    "codigoOpea": "CRI.1.CIA.398",
     "nomeDevedor": "Hot Beach",
     "indexador": "IPCA + 11.0000% a.a.",
     "precoUnitario": null,
@@ -8272,7 +8272,7 @@
   {
     "id": 346,
     "idOperacao": 362,
-    "codigoRb": "CRI.1.CIA.361",
+    "codigoOpea": "CRI.1.CIA.361",
     "nomeDevedor": "Hot Beach",
     "indexador": "IPCA + 9.2500% a.a.",
     "precoUnitario": null,
@@ -8310,7 +8310,7 @@
   {
     "id": 348,
     "idOperacao": 364,
-    "codigoRb": "CRI.1.CIA.399",
+    "codigoOpea": "CRI.1.CIA.399",
     "nomeDevedor": "Hot Beach",
     "indexador": "IPCA + 13.0000% a.a.",
     "precoUnitario": null,
@@ -8348,7 +8348,7 @@
   {
     "id": 349,
     "idOperacao": 365,
-    "codigoRb": "CRI.1.CIA.382",
+    "codigoOpea": "CRI.1.CIA.382",
     "nomeDevedor": "Munir Abbud Augusta",
     "indexador": "CDI + 4.5000% a.a.",
     "precoUnitario": null,
@@ -8390,7 +8390,7 @@
   {
     "id": 350,
     "idOperacao": 366,
-    "codigoRb": "CRI.1.CIA.378",
+    "codigoOpea": "CRI.1.CIA.378",
     "nomeDevedor": "Villa de Gaia",
     "indexador": "IPCA + 7.0000% a.a.",
     "precoUnitario": null,
@@ -8428,7 +8428,7 @@
   {
     "id": 351,
     "idOperacao": 367,
-    "codigoRb": "CRI.1.CIA.379",
+    "codigoOpea": "CRI.1.CIA.379",
     "nomeDevedor": "Villa de Gaia",
     "indexador": "IPCA + 7.0000% a.a.",
     "precoUnitario": null,
@@ -8466,7 +8466,7 @@
   {
     "id": 356,
     "idOperacao": 372,
-    "codigoRb": "CRI.1.CIA.383",
+    "codigoOpea": "CRI.1.CIA.383",
     "nomeDevedor": "Verticale",
     "indexador": "IPCA + 7.0000% a.a.",
     "precoUnitario": null,
@@ -8504,7 +8504,7 @@
   {
     "id": 363,
     "idOperacao": 379,
-    "codigoRb": "CRI.1.CIA.390",
+    "codigoOpea": "CRI.1.CIA.390",
     "nomeDevedor": "MRL",
     "indexador": "IPCA + 5.3664% a.a.",
     "precoUnitario": null,
@@ -8542,7 +8542,7 @@
   {
     "id": 364,
     "idOperacao": 380,
-    "codigoRb": "CRI.1.CIA.391",
+    "codigoOpea": "CRI.1.CIA.391",
     "nomeDevedor": "Prime",
     "indexador": "IPCA + 5.3664% a.a.",
     "precoUnitario": null,
@@ -8580,7 +8580,7 @@
   {
     "id": 342,
     "idOperacao": 358,
-    "codigoRb": "CRI.1.CIA.380",
+    "codigoOpea": "CRI.1.CIA.380",
     "nomeDevedor": "Almeida Jr.",
     "indexador": "CDI + 2.9000% a.a.",
     "precoUnitario": null,
@@ -8622,7 +8622,7 @@
   {
     "id": 365,
     "idOperacao": 381,
-    "codigoRb": "CRI.1.CIA.375",
+    "codigoOpea": "CRI.1.CIA.375",
     "nomeDevedor": "Recel",
     "indexador": "IPCA + 9.5000% a.a.",
     "precoUnitario": null,
@@ -8660,7 +8660,7 @@
   {
     "id": 366,
     "idOperacao": 382,
-    "codigoRb": "CRI.1.CIA.404",
+    "codigoOpea": "CRI.1.CIA.404",
     "nomeDevedor": "Recel",
     "indexador": "IPCA + 9.5000% a.a.",
     "precoUnitario": null,
@@ -8698,7 +8698,7 @@
   {
     "id": 368,
     "idOperacao": 384,
-    "codigoRb": "CRI.1.CIA.377",
+    "codigoOpea": "CRI.1.CIA.377",
     "nomeDevedor": "Jardine",
     "indexador": "CDI + 6.1800% a.a.",
     "precoUnitario": null,
@@ -8740,7 +8740,7 @@
   {
     "id": 370,
     "idOperacao": 386,
-    "codigoRb": "CRI.1.CIA.414",
+    "codigoOpea": "CRI.1.CIA.414",
     "nomeDevedor": "SG Laguna 2",
     "indexador": "IPCA + 9.5000% a.a.",
     "precoUnitario": null,
@@ -8778,7 +8778,7 @@
   {
     "id": 371,
     "idOperacao": 387,
-    "codigoRb": "CRI.1.CIA.376",
+    "codigoOpea": "CRI.1.CIA.376",
     "nomeDevedor": "Golani",
     "indexador": "IPCA + 8.5000% a.a.",
     "precoUnitario": null,
@@ -8816,7 +8816,7 @@
   {
     "id": 375,
     "idOperacao": 391,
-    "codigoRb": "CRI.1.CIA.402",
+    "codigoOpea": "CRI.1.CIA.402",
     "nomeDevedor": "Mabu",
     "indexador": "IPCA + 9.7500% a.a.",
     "precoUnitario": null,
@@ -8854,7 +8854,7 @@
   {
     "id": 373,
     "idOperacao": 389,
-    "codigoRb": "CRI.1.CIA.396",
+    "codigoOpea": "CRI.1.CIA.396",
     "nomeDevedor": "Rede D'or VII",
     "indexador": "IPCA + 5.5758% a.a.",
     "precoUnitario": null,
@@ -8892,7 +8892,7 @@
   {
     "id": 374,
     "idOperacao": 390,
-    "codigoRb": "CRI.1.CIA.397",
+    "codigoOpea": "CRI.1.CIA.397",
     "nomeDevedor": "Rede D'or VII",
     "indexador": "IPCA + 6.1017% a.a.",
     "precoUnitario": null,
@@ -8930,7 +8930,7 @@
   {
     "id": 376,
     "idOperacao": 392,
-    "codigoRb": "CRI.1.CIA.435",
+    "codigoOpea": "CRI.1.CIA.435",
     "nomeDevedor": "GPA III",
     "indexador": "IPCA + 5.2000% a.a.",
     "precoUnitario": null,
@@ -8968,7 +8968,7 @@
   {
     "id": 377,
     "idOperacao": 393,
-    "codigoRb": "CRI.1.CIA.429",
+    "codigoOpea": "CRI.1.CIA.429",
     "nomeDevedor": "Bond",
     "indexador": "IPCA + 6.5000% a.a.",
     "precoUnitario": null,
@@ -9006,7 +9006,7 @@
   {
     "id": 378,
     "idOperacao": 394,
-    "codigoRb": "CRI.1.CIA.415",
+    "codigoOpea": "CRI.1.CIA.415",
     "nomeDevedor": "Maiojama",
     "indexador": "IPCA + 9.2800% a.a.",
     "precoUnitario": null,
@@ -9044,7 +9044,7 @@
   {
     "id": 379,
     "idOperacao": 395,
-    "codigoRb": "CRI.1.CIA.416",
+    "codigoOpea": "CRI.1.CIA.416",
     "nomeDevedor": "Maiojama",
     "indexador": "IPCA + 9.7800% a.a.",
     "precoUnitario": null,
@@ -9082,7 +9082,7 @@
   {
     "id": 380,
     "idOperacao": 396,
-    "codigoRb": "CRI.1.CIA.440",
+    "codigoOpea": "CRI.1.CIA.440",
     "nomeDevedor": "CSHG Residencial FII | Luminus Jardins & Kza Faria Lima",
     "indexador": "IPCA + 6.8000% a.a.",
     "precoUnitario": null,
@@ -9120,7 +9120,7 @@
   {
     "id": 381,
     "idOperacao": 397,
-    "codigoRb": "CRI.1.CIA.428",
+    "codigoOpea": "CRI.1.CIA.428",
     "nomeDevedor": "JK Financial Center",
     "indexador": "IPCA + 6.4000% a.a.",
     "precoUnitario": null,
@@ -9158,7 +9158,7 @@
   {
     "id": 469,
     "idOperacao": 485,
-    "codigoRb": "CRI.1.CIA.445",
+    "codigoOpea": "CRI.1.CIA.445",
     "nomeDevedor": "GPA III",
     "indexador": "IPCA + 5.9000% a.a.",
     "precoUnitario": null,
@@ -9196,7 +9196,7 @@
   {
     "id": 384,
     "idOperacao": 400,
-    "codigoRb": "CRI.1.CIA.403",
+    "codigoOpea": "CRI.1.CIA.403",
     "nomeDevedor": "Yuca",
     "indexador": "IPCA + 6.5000% a.a.",
     "precoUnitario": null,
@@ -9234,7 +9234,7 @@
   {
     "id": 382,
     "idOperacao": 398,
-    "codigoRb": "CRI.1.CIA.406",
+    "codigoOpea": "CRI.1.CIA.406",
     "nomeDevedor": "Cortel",
     "indexador": "IPCA + 7.0000% a.a.",
     "precoUnitario": null,
@@ -9272,7 +9272,7 @@
   {
     "id": 385,
     "idOperacao": 401,
-    "codigoRb": "CRI.1.CIA.456",
+    "codigoOpea": "CRI.1.CIA.456",
     "nomeDevedor": "Seed",
     "indexador": "CDI + 5.0000% a.a.",
     "precoUnitario": null,
@@ -9314,7 +9314,7 @@
   {
     "id": 391,
     "idOperacao": 407,
-    "codigoRb": "CRI.1.CIA.430",
+    "codigoOpea": "CRI.1.CIA.430",
     "nomeDevedor": "Cosmopolitano",
     "indexador": "IPCA + 5.2000% a.a.",
     "precoUnitario": null,
@@ -9352,7 +9352,7 @@
   {
     "id": 392,
     "idOperacao": 408,
-    "codigoRb": "CRI.1.CIA.466",
+    "codigoOpea": "CRI.1.CIA.466",
     "nomeDevedor": "BTG Log Mauá",
     "indexador": "IPCA + 5.9000% a.a.",
     "precoUnitario": null,
@@ -9390,7 +9390,7 @@
   {
     "id": 390,
     "idOperacao": 406,
-    "codigoRb": "CRI.1.CIA.422",
+    "codigoOpea": "CRI.1.CIA.422",
     "nomeDevedor": "Makro",
     "indexador": "IPCA + 6.5000% a.a.",
     "precoUnitario": null,
@@ -9428,7 +9428,7 @@
   {
     "id": 386,
     "idOperacao": 402,
-    "codigoRb": "CRI.1.CIA.400",
+    "codigoOpea": "CRI.1.CIA.400",
     "nomeDevedor": "Brookfield | Edifício Condomínio Miss Silvia Morizono",
     "indexador": "CDI + 1.7000% a.a.",
     "precoUnitario": null,
@@ -9470,7 +9470,7 @@
   {
     "id": 387,
     "idOperacao": 403,
-    "codigoRb": "CRI.1.CIA.453",
+    "codigoOpea": "CRI.1.CIA.453",
     "nomeDevedor": "Brookfield | Edifício Faria Lima Financial Center",
     "indexador": "CDI + 1.7000% a.a.",
     "precoUnitario": null,
@@ -9512,7 +9512,7 @@
   {
     "id": 388,
     "idOperacao": 404,
-    "codigoRb": "CRI.1.CIA.454",
+    "codigoOpea": "CRI.1.CIA.454",
     "nomeDevedor": "Brookfield | Edifício Faria Lima Square",
     "indexador": "CDI + 1.7000% a.a.",
     "precoUnitario": null,
@@ -9554,7 +9554,7 @@
   {
     "id": 389,
     "idOperacao": 405,
-    "codigoRb": "CRI.1.CIA.455",
+    "codigoOpea": "CRI.1.CIA.455",
     "nomeDevedor": "Brookfield | Edifício JK 1455",
     "indexador": "CDI + 1.7000% a.a.",
     "precoUnitario": null,
@@ -9596,7 +9596,7 @@
   {
     "id": 393,
     "idOperacao": 409,
-    "codigoRb": "CRI.1.CIA.446",
+    "codigoOpea": "CRI.1.CIA.446",
     "nomeDevedor": "Petrobrás | Senado V",
     "indexador": "CDI + 2.2200% a.a.",
     "precoUnitario": null,
@@ -9638,7 +9638,7 @@
   {
     "id": 394,
     "idOperacao": 410,
-    "codigoRb": "CRI.1.CIA.468",
+    "codigoOpea": "CRI.1.CIA.468",
     "nomeDevedor": "Malls BRPP",
     "indexador": "IPCA + 6.5000% a.a.",
     "precoUnitario": null,
@@ -9676,7 +9676,7 @@
   {
     "id": 395,
     "idOperacao": 411,
-    "codigoRb": "CRI.1.CIA.470",
+    "codigoOpea": "CRI.1.CIA.470",
     "nomeDevedor": "Malls BRPP",
     "indexador": "IPCA + 6.5000% a.a.",
     "precoUnitario": null,
@@ -9714,7 +9714,7 @@
   {
     "id": 413,
     "idOperacao": 429,
-    "codigoRb": "CRI.1.CIA.457",
+    "codigoOpea": "CRI.1.CIA.457",
     "nomeDevedor": "Parque dos Poderes",
     "indexador": "IPCA + 12.5000% a.a.",
     "precoUnitario": null,
@@ -9752,7 +9752,7 @@
   {
     "id": 414,
     "idOperacao": 430,
-    "codigoRb": "CRI.1.CIA.452",
+    "codigoOpea": "CRI.1.CIA.452",
     "nomeDevedor": "Yuny | Empreedimentos Imobiliários",
     "indexador": "CDI + 3.5000% a.a.",
     "precoUnitario": null,
@@ -9794,7 +9794,7 @@
   {
     "id": 415,
     "idOperacao": 431,
-    "codigoRb": "CRI.1.CIA.469",
+    "codigoOpea": "CRI.1.CIA.469",
     "nomeDevedor": "BRF S.A. | Bresco",
     "indexador": "IPCA + 6.5000% a.a.",
     "precoUnitario": null,
@@ -9832,7 +9832,7 @@
   {
     "id": 416,
     "idOperacao": 432,
-    "codigoRb": "CRI.1.CIA.472",
+    "codigoOpea": "CRI.1.CIA.472",
     "nomeDevedor": "Vinci Logística | Castelo",
     "indexador": "IPCA + 6.8000% a.a.",
     "precoUnitario": null,
@@ -9870,7 +9870,7 @@
   {
     "id": 417,
     "idOperacao": 433,
-    "codigoRb": "CRI.1.CIA.471",
+    "codigoOpea": "CRI.1.CIA.471",
     "nomeDevedor": "Vinci | Globo",
     "indexador": "IPCA + 6.9480% a.a.",
     "precoUnitario": null,
@@ -9908,7 +9908,7 @@
   {
     "id": 418,
     "idOperacao": 434,
-    "codigoRb": "CRI.1.CIA.423",
+    "codigoOpea": "CRI.1.CIA.423",
     "nomeDevedor": "Leo Madeiras",
     "indexador": "IPCA + 7.0000% a.a.",
     "precoUnitario": null,
@@ -9946,7 +9946,7 @@
   {
     "id": 419,
     "idOperacao": 435,
-    "codigoRb": "CRI.1.CIA.464",
+    "codigoOpea": "CRI.1.CIA.464",
     "nomeDevedor": "Inter",
     "indexador": "CDI + 4.5000% a.a.",
     "precoUnitario": null,
@@ -9988,7 +9988,7 @@
   {
     "id": 420,
     "idOperacao": 436,
-    "codigoRb": "CRI.1.CIA.441",
+    "codigoOpea": "CRI.1.CIA.441",
     "nomeDevedor": "Village",
     "indexador": "IPCA + 8.5000% a.a.",
     "precoUnitario": null,
@@ -10026,7 +10026,7 @@
   {
     "id": 421,
     "idOperacao": 437,
-    "codigoRb": "CRI.1.CIA.442",
+    "codigoOpea": "CRI.1.CIA.442",
     "nomeDevedor": "Village",
     "indexador": "IPCA + 6.0400% a.a.",
     "precoUnitario": null,
@@ -10064,7 +10064,7 @@
   {
     "id": 427,
     "idOperacao": 443,
-    "codigoRb": "CRI.1.CIA.427",
+    "codigoOpea": "CRI.1.CIA.427",
     "nomeDevedor": "Toex",
     "indexador": "IPCA + 9.0000% a.a.",
     "precoUnitario": null,
@@ -10102,7 +10102,7 @@
   {
     "id": 428,
     "idOperacao": 444,
-    "codigoRb": "CRI.1.CIA.486",
+    "codigoOpea": "CRI.1.CIA.486",
     "nomeDevedor": "Toex",
     "indexador": "IPCA + 13.0000% a.a.",
     "precoUnitario": null,
@@ -10140,7 +10140,7 @@
   {
     "id": 429,
     "idOperacao": 445,
-    "codigoRb": "CRI.1.CIA.477",
+    "codigoOpea": "CRI.1.CIA.477",
     "nomeDevedor": "JFL Rebouças",
     "indexador": "IPCA + 6.6500% a.a.",
     "precoUnitario": null,
@@ -10178,7 +10178,7 @@
   {
     "id": 435,
     "idOperacao": 451,
-    "codigoRb": "CRI.1.CIA.478",
+    "codigoOpea": "CRI.1.CIA.478",
     "nomeDevedor": "Covepi",
     "indexador": "IPCA + 7.5000% a.a.",
     "precoUnitario": null,
@@ -10216,7 +10216,7 @@
   {
     "id": 430,
     "idOperacao": 446,
-    "codigoRb": "CRI.1.CIA.451",
+    "codigoOpea": "CRI.1.CIA.451",
     "nomeDevedor": "Cidade Matarazzo",
     "indexador": "IPCA + 9.0000% a.a.",
     "precoUnitario": null,
@@ -10254,7 +10254,7 @@
   {
     "id": 440,
     "idOperacao": 456,
-    "codigoRb": "CRI.1.CIA.496",
+    "codigoOpea": "CRI.1.CIA.496",
     "nomeDevedor": "Lindenberg",
     "indexador": "IPCA + 8.1500% a.a.",
     "precoUnitario": null,
@@ -10292,7 +10292,7 @@
   {
     "id": 441,
     "idOperacao": 457,
-    "codigoRb": "CRI.1.CIA.492",
+    "codigoOpea": "CRI.1.CIA.492",
     "nomeDevedor": "Lindenberg",
     "indexador": "IPCA + 8.1500% a.a.",
     "precoUnitario": null,
@@ -10334,7 +10334,7 @@
   {
     "id": 443,
     "idOperacao": 459,
-    "codigoRb": "CRI.1.CIA.499",
+    "codigoOpea": "CRI.1.CIA.499",
     "nomeDevedor": "Haras La Estancia",
     "indexador": "CDI + 3.0000% a.a.",
     "precoUnitario": null,
@@ -10376,7 +10376,7 @@
   {
     "id": 444,
     "idOperacao": 460,
-    "codigoRb": "CRI.1.CIA.501",
+    "codigoOpea": "CRI.1.CIA.501",
     "nomeDevedor": "Haras La Estancia",
     "indexador": "CDI + 3.0000% a.a.",
     "precoUnitario": null,
@@ -10418,7 +10418,7 @@
   {
     "id": 447,
     "idOperacao": 463,
-    "codigoRb": "CRI.1.CIA.479",
+    "codigoOpea": "CRI.1.CIA.479",
     "nomeDevedor": "Amy Faria Lima",
     "indexador": "CDI + 3.0000% a.a.",
     "precoUnitario": null,
@@ -10460,7 +10460,7 @@
   {
     "id": 456,
     "idOperacao": 472,
-    "codigoRb": "CRI.1.CIA.484",
+    "codigoOpea": "CRI.1.CIA.484",
     "nomeDevedor": "AXS Energia",
     "indexador": "IPCA + 9.0000% a.a.",
     "precoUnitario": null,
@@ -10498,7 +10498,7 @@
   {
     "id": 455,
     "idOperacao": 471,
-    "codigoRb": "CRI.1.CIA.465",
+    "codigoOpea": "CRI.1.CIA.465",
     "nomeDevedor": "Origo",
     "indexador": "IPCA + 11.0000% a.a.",
     "precoUnitario": null,
@@ -10536,7 +10536,7 @@
   {
     "id": 458,
     "idOperacao": 474,
-    "codigoRb": "CRI.1.CIA.482",
+    "codigoOpea": "CRI.1.CIA.482",
     "nomeDevedor": "Futura Energia",
     "indexador": "IPCA + 7.5000% a.a.",
     "precoUnitario": null,
@@ -10574,7 +10574,7 @@
   {
     "id": 459,
     "idOperacao": 475,
-    "codigoRb": "CRI.1.CIA.436",
+    "codigoOpea": "CRI.1.CIA.436",
     "nomeDevedor": "Leal Moreira Evidence",
     "indexador": "IPCA + 12.0000% a.a.",
     "precoUnitario": null,
@@ -10612,11 +10612,11 @@
   {
     "id": 463,
     "idOperacao": 479,
-    "codigoRb": "CRI.1.CIA.498",
+    "codigoOpea": "CRI.1.CIA.498",
     "nomeDevedor": "Leal Moreira Ferrara",
     "indexador": "IPCA + 12.0000% a.a.",
     "precoUnitario": null,
-    "dataVencimento": "2026-03-25T00:00:00",
+    "dataVencimento": "2026-03-27T00:00:00",
     "status": null,
     "statusPassivoOperacao": {
       "key": 1,
@@ -10650,7 +10650,7 @@
   {
     "id": 470,
     "idOperacao": 486,
-    "codigoRb": "CRI.1.CIA.447",
+    "codigoOpea": "CRI.1.CIA.447",
     "nomeDevedor": "Reserva Luiza",
     "indexador": "CDI + 4.0000% a.a.",
     "precoUnitario": null,
@@ -10692,7 +10692,7 @@
   {
     "id": 468,
     "idOperacao": 484,
-    "codigoRb": "CRI.1.CIA.511",
+    "codigoOpea": "CRI.1.CIA.511",
     "nomeDevedor": "Correios Contagem",
     "indexador": "IPCA + 7.1200% a.a.",
     "precoUnitario": null,
@@ -10730,7 +10730,7 @@
   {
     "id": 467,
     "idOperacao": 483,
-    "codigoRb": "CRI.1.CIA.510",
+    "codigoOpea": "CRI.1.CIA.510",
     "nomeDevedor": "Correios Contagem",
     "indexador": "CDI + 2.0000% a.a.",
     "precoUnitario": null,
@@ -10772,7 +10772,7 @@
   {
     "id": 3,
     "idOperacao": 3,
-    "codigoRb": "CRA.1.CIA.3",
+    "codigoOpea": "CRA.1.CIA.3",
     "nomeDevedor": "Raizen",
     "indexador": "98.0000% CDI",
     "precoUnitario": null,
@@ -10814,7 +10814,7 @@
   {
     "id": 4,
     "idOperacao": 4,
-    "codigoRb": "CRA.1.CIA.4",
+    "codigoOpea": "CRA.1.CIA.4",
     "nomeDevedor": "Raizen",
     "indexador": "IPCA + 6.1680% a.a.",
     "precoUnitario": null,
@@ -10856,7 +10856,7 @@
   {
     "id": 6,
     "idOperacao": 6,
-    "codigoRb": "CRA.1.CIA.6",
+    "codigoOpea": "CRA.1.CIA.6",
     "nomeDevedor": "Raizen II",
     "indexador": "96.0000% CDI",
     "precoUnitario": null,
@@ -10898,7 +10898,7 @@
   {
     "id": 7,
     "idOperacao": 7,
-    "codigoRb": "CRA.1.CIA.7",
+    "codigoOpea": "CRA.1.CIA.7",
     "nomeDevedor": "Raizen II",
     "indexador": "IPCA + 4.7258% a.a.",
     "precoUnitario": null,
@@ -10940,7 +10940,7 @@
   {
     "id": 8,
     "idOperacao": 8,
-    "codigoRb": "CRA.1.CIA.8",
+    "codigoOpea": "CRA.1.CIA.8",
     "nomeDevedor": "Solar",
     "indexador": "96.0000% CDI",
     "precoUnitario": null,
@@ -10982,7 +10982,7 @@
   {
     "id": 9,
     "idOperacao": 9,
-    "codigoRb": "CRA.1.CIA.9",
+    "codigoOpea": "CRA.1.CIA.9",
     "nomeDevedor": "Fibria",
     "indexador": "97.0000% CDI",
     "precoUnitario": null,
@@ -11024,7 +11024,7 @@
   {
     "id": 10,
     "idOperacao": 10,
-    "codigoRb": "CRA.1.CIA.11",
+    "codigoOpea": "CRA.1.CIA.11",
     "nomeDevedor": "Raizen III",
     "indexador": "97.0000% CDI",
     "precoUnitario": null,
@@ -11066,7 +11066,7 @@
   {
     "id": 11,
     "idOperacao": 11,
-    "codigoRb": "CRA.1.CIA.12",
+    "codigoOpea": "CRA.1.CIA.12",
     "nomeDevedor": "Raizen III",
     "indexador": "IPCA + 4.7588% a.a.",
     "precoUnitario": null,
@@ -11108,7 +11108,7 @@
   {
     "id": 12,
     "idOperacao": 12,
-    "codigoRb": "CRA.1.CIA.13",
+    "codigoOpea": "CRA.1.CIA.13",
     "nomeDevedor": "TFA Edifica | Shopping Ponteio Lar",
     "indexador": "IPCA + 7.5000% a.a.",
     "precoUnitario": null,
@@ -11150,7 +11150,7 @@
   {
     "id": 13,
     "idOperacao": 13,
-    "codigoRb": "CRA.1.CIA.14",
+    "codigoOpea": "CRA.1.CIA.14",
     "nomeDevedor": "VLI",
     "indexador": "99.5000% CDI",
     "precoUnitario": null,
@@ -11192,7 +11192,7 @@
   {
     "id": 178,
     "idOperacao": 193,
-    "codigoRb": "CRA.2.CIA.1",
+    "codigoOpea": "CRA.2.CIA.1",
     "nomeDevedor": "Raizen IV",
     "indexador": "96.0000% CDI",
     "precoUnitario": null,
@@ -11234,7 +11234,7 @@
   {
     "id": 179,
     "idOperacao": 194,
-    "codigoRb": "CRA.2.CIA.2",
+    "codigoOpea": "CRA.2.CIA.2",
     "nomeDevedor": "Raizen IV",
     "indexador": "IPCA + 4.0400% a.a.",
     "precoUnitario": null,
@@ -11272,7 +11272,7 @@
   {
     "id": 190,
     "idOperacao": 206,
-    "codigoRb": "CRA.4.CIA.1",
+    "codigoOpea": "CRA.4.CIA.1",
     "nomeDevedor": "Marfrig",
     "indexador": "104.0000% CDI",
     "precoUnitario": null,
@@ -11314,7 +11314,7 @@
   {
     "id": 197,
     "idOperacao": 213,
-    "codigoRb": "CRA.5.CIA.1",
+    "codigoOpea": "CRA.5.CIA.1",
     "nomeDevedor": "JBS",
     "indexador": "115.0000% CDI",
     "precoUnitario": null,
@@ -11356,7 +11356,7 @@
   {
     "id": 198,
     "idOperacao": 214,
-    "codigoRb": "CRA.5.CIA.2",
+    "codigoOpea": "CRA.5.CIA.2",
     "nomeDevedor": "JBS",
     "indexador": "IPCA + 4.5000% a.a.",
     "precoUnitario": null,
@@ -11394,7 +11394,7 @@
   {
     "id": 192,
     "idOperacao": 208,
-    "codigoRb": "CRA.7.CIA.1",
+    "codigoOpea": "CRA.7.CIA.1",
     "nomeDevedor": "Maringá",
     "indexador": "CDI + 1.8000% a.a.",
     "precoUnitario": null,
@@ -11436,7 +11436,7 @@
   {
     "id": 225,
     "idOperacao": 241,
-    "codigoRb": "CRA.10.CIA.1",
+    "codigoOpea": "CRA.10.CIA.1",
     "nomeDevedor": "Dengo",
     "indexador": "CDI + 3.9500% a.a.",
     "precoUnitario": null,
@@ -11478,7 +11478,7 @@
   {
     "id": 237,
     "idOperacao": 253,
-    "codigoRb": "CRA.11.CIA.1",
+    "codigoOpea": "CRA.11.CIA.1",
     "nomeDevedor": "MARFRIG II",
     "indexador": "CDI + 2.2000% a.a.",
     "precoUnitario": null,
@@ -11520,7 +11520,7 @@
   {
     "id": 262,
     "idOperacao": 278,
-    "codigoRb": "CRA.12.CIA.1",
+    "codigoOpea": "CRA.12.CIA.1",
     "nomeDevedor": "JBS II",
     "indexador": "IPCA + 4.2957% a.a.",
     "precoUnitario": null,
@@ -11558,7 +11558,7 @@
   {
     "id": 263,
     "idOperacao": 279,
-    "codigoRb": "CRA.12.CIA.2",
+    "codigoOpea": "CRA.12.CIA.2",
     "nomeDevedor": "JBS II",
     "indexador": "IPCA + 4.7218% a.a.",
     "precoUnitario": null,
@@ -11596,7 +11596,7 @@
   {
     "id": 324,
     "idOperacao": 340,
-    "codigoRb": "CRA.15.CIA.1",
+    "codigoOpea": "CRA.15.CIA.1",
     "nomeDevedor": "Jacarezinho",
     "indexador": "IPCA + 5.9641% a.a.",
     "precoUnitario": null,
@@ -11634,7 +11634,7 @@
   {
     "id": 327,
     "idOperacao": 343,
-    "codigoRb": "CRA.16.CIA.1",
+    "codigoOpea": "CRA.16.CIA.1",
     "nomeDevedor": "Marfrig",
     "indexador": "IPCA + 4.5000% a.a.",
     "precoUnitario": null,
@@ -11672,7 +11672,7 @@
   {
     "id": 328,
     "idOperacao": 344,
-    "codigoRb": "CRA.16.CIA.2",
+    "codigoOpea": "CRA.16.CIA.2",
     "nomeDevedor": "Marfrig",
     "indexador": "IPCA + 4.6000% a.a.",
     "precoUnitario": null,
@@ -11710,7 +11710,7 @@
   {
     "id": 367,
     "idOperacao": 383,
-    "codigoRb": "CRA.14.CIA.1",
+    "codigoOpea": "CRA.14.CIA.1",
     "nomeDevedor": "Eldorado",
     "indexador": "IPCA + 7.1945% a.a.",
     "precoUnitario": null,
@@ -11748,7 +11748,7 @@
   {
     "id": 399,
     "idOperacao": 415,
-    "codigoRb": "CRA.23.CIA.1",
+    "codigoOpea": "CRA.23.CIA.1",
     "nomeDevedor": "Cocari",
     "indexador": "CDI + 5.3500% a.a.",
     "precoUnitario": null,
@@ -11790,7 +11790,7 @@
   {
     "id": 400,
     "idOperacao": 416,
-    "codigoRb": "CRA.23.CIA.2",
+    "codigoOpea": "CRA.23.CIA.2",
     "nomeDevedor": "Cocari",
     "indexador": "IPCA + 9.9500% a.a.",
     "precoUnitario": null,
@@ -11832,7 +11832,7 @@
   {
     "id": 401,
     "idOperacao": 417,
-    "codigoRb": "CRA.23.CIA.3",
+    "codigoOpea": "CRA.23.CIA.3",
     "nomeDevedor": "Cocari",
     "indexador": "IPCA + 9.0000% a.a.",
     "precoUnitario": null,
@@ -11874,7 +11874,7 @@
   {
     "id": 402,
     "idOperacao": 418,
-    "codigoRb": "CRA.23.CIA.4",
+    "codigoOpea": "CRA.23.CIA.4",
     "nomeDevedor": "Cocari",
     "indexador": "CDI + 5.3500% a.a.",
     "precoUnitario": null,
@@ -11916,7 +11916,7 @@
   {
     "id": 403,
     "idOperacao": 419,
-    "codigoRb": "CRA.23.CIA.5",
+    "codigoOpea": "CRA.23.CIA.5",
     "nomeDevedor": "Cocari",
     "indexador": "IPCA + 9.9500% a.a.",
     "precoUnitario": null,
@@ -11958,7 +11958,7 @@
   {
     "id": 404,
     "idOperacao": 420,
-    "codigoRb": "CRA.23.CIA.6",
+    "codigoOpea": "CRA.23.CIA.6",
     "nomeDevedor": "Cocari",
     "indexador": "100.0000% CDI",
     "precoUnitario": null,
@@ -12000,7 +12000,7 @@
   {
     "id": 396,
     "idOperacao": 412,
-    "codigoRb": "CRA.19.CIA.1",
+    "codigoOpea": "CRA.19.CIA.1",
     "nomeDevedor": "Jotabasso",
     "indexador": "CDI + 3.5000% a.a.",
     "precoUnitario": null,
@@ -12042,7 +12042,7 @@
   {
     "id": 397,
     "idOperacao": 413,
-    "codigoRb": "CRA.19.CIA.2",
+    "codigoOpea": "CRA.19.CIA.2",
     "nomeDevedor": "Jotabasso",
     "indexador": "CDI + 4.0000% a.a.",
     "precoUnitario": null,
@@ -12084,7 +12084,7 @@
   {
     "id": 398,
     "idOperacao": 414,
-    "codigoRb": "CRA.19.CIA.3",
+    "codigoOpea": "CRA.19.CIA.3",
     "nomeDevedor": "Jotabasso",
     "indexador": "IPCA + 9.1896% a.a.",
     "precoUnitario": null,
@@ -12122,7 +12122,7 @@
   {
     "id": 405,
     "idOperacao": 421,
-    "codigoRb": "CRA.18.CIA.1",
+    "codigoOpea": "CRA.18.CIA.1",
     "nomeDevedor": "Fortaleza de Santa Teresinha",
     "indexador": "CDI + 5.0000% a.a.",
     "precoUnitario": null,
@@ -12164,7 +12164,7 @@
   {
     "id": 407,
     "idOperacao": 423,
-    "codigoRb": "CRA.20.CIA.1",
+    "codigoOpea": "CRA.20.CIA.1",
     "nomeDevedor": "Fiagril",
     "indexador": "CDI + 4.5000% a.a.",
     "precoUnitario": null,
@@ -12206,7 +12206,7 @@
   {
     "id": 406,
     "idOperacao": 422,
-    "codigoRb": "CRA.20.CIA.2",
+    "codigoOpea": "CRA.20.CIA.2",
     "nomeDevedor": "Fiagril",
     "indexador": "CDI + 5.0000% a.a.",
     "precoUnitario": null,
@@ -12248,7 +12248,7 @@
   {
     "id": 422,
     "idOperacao": 438,
-    "codigoRb": "CRA.30.CIA.1",
+    "codigoOpea": "CRA.30.CIA.1",
     "nomeDevedor": "Geneseas",
     "indexador": "CDI + 9.7500% a.a.",
     "precoUnitario": null,
@@ -12290,7 +12290,7 @@
   {
     "id": 431,
     "idOperacao": 447,
-    "codigoRb": "CRA.21.CIA.1",
+    "codigoOpea": "CRA.21.CIA.1",
     "nomeDevedor": "Ruiz I",
     "indexador": "CDI + 4.5000% a.a.",
     "precoUnitario": null,
@@ -12332,7 +12332,7 @@
   {
     "id": 432,
     "idOperacao": 448,
-    "codigoRb": "CRA.22.CIA.1",
+    "codigoOpea": "CRA.22.CIA.1",
     "nomeDevedor": "Ruiz II",
     "indexador": "CDI + 4.5000% a.a.",
     "precoUnitario": null,
@@ -12374,7 +12374,7 @@
   {
     "id": 433,
     "idOperacao": 449,
-    "codigoRb": "CRA.32.CIA.1",
+    "codigoOpea": "CRA.32.CIA.1",
     "nomeDevedor": "Ruiz III",
     "indexador": "CDI + 4.5000% a.a.",
     "precoUnitario": null,
@@ -12416,7 +12416,7 @@
   {
     "id": 436,
     "idOperacao": 452,
-    "codigoRb": "CRA.25.CIA.1",
+    "codigoOpea": "CRA.25.CIA.1",
     "nomeDevedor": "Impacto II",
     "indexador": "CDI + 7.0000% a.a.",
     "precoUnitario": null,
@@ -12458,7 +12458,7 @@
   {
     "id": 439,
     "idOperacao": 455,
-    "codigoRb": "CRA.24.CIA.1",
+    "codigoOpea": "CRA.24.CIA.1",
     "nomeDevedor": "RodOil",
     "indexador": "CDI + 3.0000% a.a.",
     "precoUnitario": null,
@@ -12500,7 +12500,7 @@
   {
     "id": 438,
     "idOperacao": 454,
-    "codigoRb": "CRA.24.CIA.2",
+    "codigoOpea": "CRA.24.CIA.2",
     "nomeDevedor": "RodOil",
     "indexador": "CDI + 4.0000% a.a.",
     "precoUnitario": null,
@@ -12542,7 +12542,7 @@
   {
     "id": 442,
     "idOperacao": 458,
-    "codigoRb": "CRA.28.CIA.1",
+    "codigoOpea": "CRA.28.CIA.1",
     "nomeDevedor": "Sim Distribuidora",
     "indexador": "CDI + 4.5000% a.a.",
     "precoUnitario": null,
@@ -12584,7 +12584,7 @@
   {
     "id": 450,
     "idOperacao": 466,
-    "codigoRb": "CRA.26.CIA.1",
+    "codigoOpea": "CRA.26.CIA.1",
     "nomeDevedor": "BB Fuels",
     "indexador": "CDI + 7.9000% a.a.",
     "precoUnitario": null,
@@ -12626,7 +12626,7 @@
   {
     "id": 451,
     "idOperacao": 467,
-    "codigoRb": "CRA.33.CIA.1",
+    "codigoOpea": "CRA.33.CIA.1",
     "nomeDevedor": "BB Fuels",
     "indexador": "CDI + 7.9000% a.a.",
     "precoUnitario": null,
@@ -12668,7 +12668,7 @@
   {
     "id": 452,
     "idOperacao": 468,
-    "codigoRb": "CRA.34.CIA.1",
+    "codigoOpea": "CRA.34.CIA.1",
     "nomeDevedor": "BB Fuels",
     "indexador": "CDI + 7.9000% a.a.",
     "precoUnitario": null,
@@ -12710,7 +12710,7 @@
   {
     "id": 453,
     "idOperacao": 469,
-    "codigoRb": "CRA.38.CIA.1",
+    "codigoOpea": "CRA.38.CIA.1",
     "nomeDevedor": "BB Fuels",
     "indexador": "CDI + 7.9000% a.a.",
     "precoUnitario": null,
@@ -12752,7 +12752,7 @@
   {
     "id": 448,
     "idOperacao": 464,
-    "codigoRb": "CRA.37.CIA.1",
+    "codigoOpea": "CRA.37.CIA.1",
     "nomeDevedor": "Agrogalaxy",
     "indexador": "CDI + 5.5000% a.a.",
     "precoUnitario": null,
@@ -12794,7 +12794,7 @@
   {
     "id": 449,
     "idOperacao": 465,
-    "codigoRb": "CRA.37.CIA.2",
+    "codigoOpea": "CRA.37.CIA.2",
     "nomeDevedor": "Agrogalaxy",
     "indexador": "CDI + 5.5000% a.a.",
     "precoUnitario": null,
@@ -12836,7 +12836,7 @@
   {
     "id": 454,
     "idOperacao": 470,
-    "codigoRb": "CRA.39.CIA.1",
+    "codigoOpea": "CRA.39.CIA.1",
     "nomeDevedor": "BB Fuels",
     "indexador": "CDI + 7.9000% a.a.",
     "precoUnitario": null,
@@ -12878,7 +12878,7 @@
   {
     "id": 445,
     "idOperacao": 461,
-    "codigoRb": "CRA.35.CIA.1",
+    "codigoOpea": "CRA.35.CIA.1",
     "nomeDevedor": "Raça Agro",
     "indexador": "CDI + 5.0000% a.a.",
     "precoUnitario": null,
@@ -12920,7 +12920,7 @@
   {
     "id": 446,
     "idOperacao": 462,
-    "codigoRb": "CRA.35.CIA.2",
+    "codigoOpea": "CRA.35.CIA.2",
     "nomeDevedor": "Raça Agro",
     "indexador": "CDI + 5.0000% a.a.",
     "precoUnitario": null,
@@ -12962,7 +12962,7 @@
   {
     "id": 457,
     "idOperacao": 473,
-    "codigoRb": "CRA.31.CIA.1",
+    "codigoOpea": "CRA.31.CIA.1",
     "nomeDevedor": "Dori",
     "indexador": "IPCA + 6.2000% a.a.",
     "precoUnitario": null,
@@ -13000,7 +13000,7 @@
   {
     "id": 298,
     "idOperacao": 314,
-    "codigoRb": "DEB.1.KOM.1",
+    "codigoOpea": "DEB.1.KOM.1",
     "nomeDevedor": "Kompass",
     "indexador": "IPCA + 8.0000% a.a.",
     "precoUnitario": null,
@@ -13038,7 +13038,7 @@
   {
     "id": 159,
     "idOperacao": 159,
-    "codigoRb": "DEB.1.SIP.1",
+    "codigoOpea": "DEB.1.SIP.1",
     "nomeDevedor": "Dragagem I",
     "indexador": "IPCA + 6.7879% a.a.",
     "precoUnitario": null,
@@ -13080,7 +13080,7 @@
   {
     "id": 160,
     "idOperacao": 160,
-    "codigoRb": "DEB.2.SIP.1",
+    "codigoOpea": "DEB.2.SIP.1",
     "nomeDevedor": "Dragagem II",
     "indexador": "IPCA + 5.7470% a.a.",
     "precoUnitario": null,
@@ -13122,7 +13122,7 @@
   {
     "id": 359,
     "idOperacao": 375,
-    "codigoRb": "DEB.1.SOL.1",
+    "codigoOpea": "DEB.1.SOL.1",
     "nomeDevedor": "Solfácil",
     "indexador": "IPCA + 6.7500% a.a.",
     "precoUnitario": null,
@@ -13160,7 +13160,7 @@
   {
     "id": 360,
     "idOperacao": 376,
-    "codigoRb": "DEB.1.SOL.2",
+    "codigoOpea": "DEB.1.SOL.2",
     "nomeDevedor": "Solfácil",
     "indexador": "IPCA + 9.2500% a.a.",
     "precoUnitario": null,
@@ -13198,7 +13198,7 @@
   {
     "id": 361,
     "idOperacao": 377,
-    "codigoRb": "DEB.1.SOL.3",
+    "codigoOpea": "DEB.1.SOL.3",
     "nomeDevedor": "Solfácil",
     "indexador": "IPCA + 11.2500% a.a.",
     "precoUnitario": null,
@@ -13236,7 +13236,7 @@
   {
     "id": 362,
     "idOperacao": 378,
-    "codigoRb": "DEB.1.SOL.4",
+    "codigoOpea": "DEB.1.SOL.4",
     "nomeDevedor": "Solfácil",
     "indexador": "IPCA + 11.2500% a.a.",
     "precoUnitario": null,
@@ -13274,7 +13274,7 @@
   {
     "id": 115,
     "idOperacao": 115,
-    "codigoRb": "CRI.1.SEC.26",
+    "codigoOpea": "CRI.1.SEC.26",
     "nomeDevedor": "Petrobras Vitoria II",
     "indexador": "TR + 11.0000% a.a.",
     "precoUnitario": null,
@@ -13316,7 +13316,7 @@
   {
     "id": 114,
     "idOperacao": 114,
-    "codigoRb": "CRI.1.SEC.25",
+    "codigoOpea": "CRI.1.SEC.25",
     "nomeDevedor": "Petrobras BR Lubrax",
     "indexador": "IPCA + 6.8500% a.a.",
     "precoUnitario": null,
@@ -13358,7 +13358,7 @@
   {
     "id": 117,
     "idOperacao": 117,
-    "codigoRb": "CRI.1.SEC.36",
+    "codigoOpea": "CRI.1.SEC.36",
     "nomeDevedor": "Asperbras | Shopping Plaza Avenida",
     "indexador": "IPCA + 9.4000% a.a.",
     "precoUnitario": null,
@@ -13396,7 +13396,7 @@
   {
     "id": 116,
     "idOperacao": 116,
-    "codigoRb": "CRI.1.SEC.35",
+    "codigoOpea": "CRI.1.SEC.35",
     "nomeDevedor": "Asperbras | Shopping Plaza Avenida",
     "indexador": "IPCA + 9.4000% a.a.",
     "precoUnitario": null,
@@ -13438,7 +13438,7 @@
   {
     "id": 123,
     "idOperacao": 123,
-    "codigoRb": "CRI.1.SEC.59",
+    "codigoOpea": "CRI.1.SEC.59",
     "nomeDevedor": "BR Properties",
     "indexador": "TR + 9.5000% a.a.",
     "precoUnitario": null,
@@ -13480,7 +13480,7 @@
   {
     "id": 121,
     "idOperacao": 121,
-    "codigoRb": "CRI.1.SEC.56",
+    "codigoOpea": "CRI.1.SEC.56",
     "nomeDevedor": "Odebrecht Abiatar I",
     "indexador": "TR + 10.5000% a.a.",
     "precoUnitario": null,
@@ -13518,7 +13518,7 @@
   {
     "id": 132,
     "idOperacao": 132,
-    "codigoRb": "CRI.1.SEC.81",
+    "codigoOpea": "CRI.1.SEC.81",
     "nomeDevedor": "Carrefour",
     "indexador": "IPCA + 6.5434% a.a.",
     "precoUnitario": null,
@@ -13560,7 +13560,7 @@
   {
     "id": 133,
     "idOperacao": 133,
-    "codigoRb": "CRI.1.SEC.84",
+    "codigoOpea": "CRI.1.SEC.84",
     "nomeDevedor": "Pirelli",
     "indexador": "IPCA + 6.6861% a.a.",
     "precoUnitario": null,
@@ -13602,7 +13602,7 @@
   {
     "id": 145,
     "idOperacao": 145,
-    "codigoRb": "CRI.1.SEC.102",
+    "codigoOpea": "CRI.1.SEC.102",
     "nomeDevedor": "Odebrecht Abiatar II",
     "indexador": "TR + 10.5000% a.a.",
     "precoUnitario": null,
@@ -13640,7 +13640,7 @@
   {
     "id": 142,
     "idOperacao": 142,
-    "codigoRb": "CRI.1.SEC.98",
+    "codigoOpea": "CRI.1.SEC.98",
     "nomeDevedor": "VLI Vale Araguari",
     "indexador": "IPCA + 5.1024% a.a.",
     "precoUnitario": null,
@@ -13682,7 +13682,7 @@
   {
     "id": 20,
     "idOperacao": 20,
-    "codigoRb": "CRI.1.CIA.74",
+    "codigoOpea": "CRI.1.CIA.74",
     "nomeDevedor": "BR Malls | Compartilhada",
     "indexador": "TR + 9.8000% a.a.",
     "precoUnitario": null,
@@ -13724,7 +13724,7 @@
   {
     "id": 137,
     "idOperacao": 137,
-    "codigoRb": "CRI.1.SEC.91",
+    "codigoOpea": "CRI.1.SEC.91",
     "nomeDevedor": "Atento",
     "indexador": "IGPM + 4.2602% a.a.",
     "precoUnitario": null,
@@ -13766,7 +13766,7 @@
   {
     "id": 24,
     "idOperacao": 24,
-    "codigoRb": "CRI.1.CIA.78",
+    "codigoOpea": "CRI.1.CIA.78",
     "nomeDevedor": "Airport Town",
     "indexador": "IPCA + 3.9666% a.a.",
     "precoUnitario": null,
@@ -13808,7 +13808,7 @@
   {
     "id": 28,
     "idOperacao": 28,
-    "codigoRb": "CRI.1.CIA.82",
+    "codigoOpea": "CRI.1.CIA.82",
     "nomeDevedor": "Comil",
     "indexador": null,
     "precoUnitario": null,
@@ -13846,7 +13846,7 @@
   {
     "id": 25,
     "idOperacao": 25,
-    "codigoRb": "CRI.1.CIA.79",
+    "codigoOpea": "CRI.1.CIA.79",
     "nomeDevedor": "Confiança",
     "indexador": "IPCA + 10.4000% a.a.",
     "precoUnitario": null,
@@ -13884,7 +13884,7 @@
   {
     "id": 31,
     "idOperacao": 31,
-    "codigoRb": "CRI.1.CIA.85",
+    "codigoOpea": "CRI.1.CIA.85",
     "nomeDevedor": "Iguatemi | Shopping Rio Preto",
     "indexador": "IPCA + 4.0000% a.a.",
     "precoUnitario": null,
@@ -13926,7 +13926,7 @@
   {
     "id": 46,
     "idOperacao": 46,
-    "codigoRb": "CRI.1.CIA.104",
+    "codigoOpea": "CRI.1.CIA.104",
     "nomeDevedor": "Fedex",
     "indexador": "IPCA + 8.5000% a.a.",
     "precoUnitario": null,
@@ -13968,7 +13968,7 @@
   {
     "id": 53,
     "idOperacao": 53,
-    "codigoRb": "CRI.1.CIA.114",
+    "codigoOpea": "CRI.1.CIA.114",
     "nomeDevedor": "BR Malls | Compartilhada",
     "indexador": "TR + 9.8000% a.a.",
     "precoUnitario": null,
@@ -14010,7 +14010,7 @@
   {
     "id": 146,
     "idOperacao": 146,
-    "codigoRb": "CRI.1.SEC.103",
+    "codigoOpea": "CRI.1.SEC.103",
     "nomeDevedor": "Hermes",
     "indexador": null,
     "precoUnitario": null,
@@ -14048,7 +14048,7 @@
   {
     "id": 147,
     "idOperacao": 147,
-    "codigoRb": "CRI.1.SEC.105",
+    "codigoOpea": "CRI.1.SEC.105",
     "nomeDevedor": "Lasa",
     "indexador": null,
     "precoUnitario": null,
@@ -14086,7 +14086,7 @@
   {
     "id": 43,
     "idOperacao": 43,
-    "codigoRb": "CRI.1.CIA.100",
+    "codigoOpea": "CRI.1.CIA.100",
     "nomeDevedor": "Moura Dubeux",
     "indexador": "TR + 12.5000% a.a.",
     "precoUnitario": null,
@@ -14128,7 +14128,7 @@
   {
     "id": 56,
     "idOperacao": 56,
-    "codigoRb": "CRI.1.CIA.118",
+    "codigoOpea": "CRI.1.CIA.118",
     "nomeDevedor": "Pulverizado",
     "indexador": "112.0000% CDI",
     "precoUnitario": null,
@@ -14170,7 +14170,7 @@
   {
     "id": 58,
     "idOperacao": 58,
-    "codigoRb": "CRI.1.CIA.122",
+    "codigoOpea": "CRI.1.CIA.122",
     "nomeDevedor": "Rede Dor | HMB",
     "indexador": "IPCA + 8.2754% a.a.",
     "precoUnitario": null,
@@ -14208,7 +14208,7 @@
   {
     "id": 177,
     "idOperacao": 191,
-    "codigoRb": "CRI.1.CIA.120",
+    "codigoOpea": "CRI.1.CIA.120",
     "nomeDevedor": "Unilever",
     "indexador": "IPCA + 5.9200% a.a.",
     "precoUnitario": null,
@@ -14246,7 +14246,7 @@
   {
     "id": 73,
     "idOperacao": 73,
-    "codigoRb": "CRI.1.CIA.141",
+    "codigoOpea": "CRI.1.CIA.141",
     "nomeDevedor": "Rede Dor | Caxias",
     "indexador": "IPCA + 7.0363% a.a.",
     "precoUnitario": null,
@@ -14284,7 +14284,7 @@
   {
     "id": 49,
     "idOperacao": 49,
-    "codigoRb": "CRI.1.CIA.109",
+    "codigoOpea": "CRI.1.CIA.109",
     "nomeDevedor": "Rede Dor | HMB Residual",
     "indexador": "IPCA + 7.3751% a.a.",
     "precoUnitario": null,
@@ -14322,7 +14322,7 @@
   {
     "id": 62,
     "idOperacao": 62,
-    "codigoRb": "CRI.1.CIA.128",
+    "codigoOpea": "CRI.1.CIA.128",
     "nomeDevedor": "Aliansce | Shopping Bangu",
     "indexador": "100.0000% CDI",
     "precoUnitario": null,
@@ -14364,7 +14364,7 @@
   {
     "id": 154,
     "idOperacao": 154,
-    "codigoRb": "CRI.1.SEC.122",
+    "codigoOpea": "CRI.1.SEC.122",
     "nomeDevedor": "Vale Nova Lima",
     "indexador": "IPCA + 5.3884% a.a.",
     "precoUnitario": null,
@@ -14406,7 +14406,7 @@
   {
     "id": 101,
     "idOperacao": 101,
-    "codigoRb": "CRI.1.CIA.179",
+    "codigoOpea": "CRI.1.CIA.179",
     "nomeDevedor": "Latam",
     "indexador": "IPCA + 7.3356% a.a.",
     "precoUnitario": null,
@@ -14448,7 +14448,7 @@
   {
     "id": 102,
     "idOperacao": 102,
-    "codigoRb": "CRI.1.CIA.180",
+    "codigoOpea": "CRI.1.CIA.180",
     "nomeDevedor": "Latam",
     "indexador": "IPCA + 10.5834% a.a.",
     "precoUnitario": null,
@@ -14490,7 +14490,7 @@
   {
     "id": 156,
     "idOperacao": 156,
-    "codigoRb": "CRI.1.SEC.124",
+    "codigoOpea": "CRI.1.SEC.124",
     "nomeDevedor": "VLI Brejo Araguari ",
     "indexador": "106.0000% CDI",
     "precoUnitario": null,
@@ -14532,7 +14532,7 @@
   {
     "id": 155,
     "idOperacao": 155,
-    "codigoRb": "CRI.1.SEC.123",
+    "codigoOpea": "CRI.1.SEC.123",
     "nomeDevedor": "VLI Brejo Araguari ",
     "indexador": "106.0000% CDI",
     "precoUnitario": null,
@@ -14574,7 +14574,7 @@
   {
     "id": 193,
     "idOperacao": 209,
-    "codigoRb": "CRI.1.CIA.241",
+    "codigoOpea": "CRI.1.CIA.241",
     "nomeDevedor": "Petrobrás Senado II",
     "indexador": "CDI + 1.5000% a.a.",
     "precoUnitario": null,
@@ -14616,7 +14616,7 @@
   {
     "id": 223,
     "idOperacao": 239,
-    "codigoRb": "CRI.1.CIA.263",
+    "codigoOpea": "CRI.1.CIA.263",
     "nomeDevedor": "Petrobrás Senado III",
     "indexador": "CDI + 1.5000% a.a.",
     "precoUnitario": null,
@@ -14658,7 +14658,7 @@
   {
     "id": 279,
     "idOperacao": 295,
-    "codigoRb": "CRI.1.CIA.318",
+    "codigoOpea": "CRI.1.CIA.318",
     "nomeDevedor": "Senado IV",
     "indexador": "CDI + 2.9000% a.a.",
     "precoUnitario": null,
@@ -14700,7 +14700,7 @@
   {
     "id": 2,
     "idOperacao": 2,
-    "codigoRb": "CRA.1.CIA.2",
+    "codigoOpea": "CRA.1.CIA.2",
     "nomeDevedor": "Burger King",
     "indexador": "CDI + 1.1000% a.a.",
     "precoUnitario": null,
@@ -14742,7 +14742,7 @@
   {
     "id": 1,
     "idOperacao": 1,
-    "codigoRb": "CRA.1.CIA.1",
+    "codigoOpea": "CRA.1.CIA.1",
     "nomeDevedor": "Burger King",
     "indexador": "CDI + 1.1000% a.a.",
     "precoUnitario": null,
@@ -14784,7 +14784,7 @@
   {
     "id": 5,
     "idOperacao": 5,
-    "codigoRb": "CRA.1.CIA.5",
+    "codigoOpea": "CRA.1.CIA.5",
     "nomeDevedor": "VLI",
     "indexador": "103.0000% CDI",
     "precoUnitario": null,
@@ -14826,7 +14826,7 @@
   {
     "id": 274,
     "idOperacao": 290,
-    "codigoRb": "CRA.13.CIA.1",
+    "codigoOpea": "CRA.13.CIA.1",
     "nomeDevedor": "BEVAP",
     "indexador": "CDI + 7.5000% a.a.",
     "precoUnitario": null,
@@ -14868,7 +14868,7 @@
   {
     "id": 275,
     "idOperacao": 291,
-    "codigoRb": "CRA.13.CIA.2",
+    "codigoOpea": "CRA.13.CIA.2",
     "nomeDevedor": "BEVAP",
     "indexador": "CDI + 7.5000% a.a.",
     "precoUnitario": null,
@@ -14910,7 +14910,7 @@
   {
     "id": 332,
     "idOperacao": 348,
-    "codigoRb": "CRA.17.CIA.1",
+    "codigoOpea": "CRA.17.CIA.1",
     "nomeDevedor": "Impacto",
     "indexador": "17.0000% a.a.",
     "precoUnitario": null,
@@ -14948,7 +14948,7 @@
   {
     "id": 158,
     "idOperacao": 158,
-    "codigoRb": "DEB.1.RLN.1",
+    "codigoOpea": "DEB.1.RLN.1",
     "nomeDevedor": "Rio Loan 2",
     "indexador": "130.0000% CDI",
     "precoUnitario": null,
@@ -14990,7 +14990,7 @@
   {
     "id": 157,
     "idOperacao": 157,
-    "codigoRb": "DEB.1.RJG.1",
+    "codigoOpea": "DEB.1.RJG.1",
     "nomeDevedor": "RJGTIA",
     "indexador": "138.0000% CDI",
     "precoUnitario": null,
@@ -15032,7 +15032,7 @@
   {
     "id": 113,
     "idOperacao": 113,
-    "codigoRb": "CRI.1.SEC.20",
+    "codigoOpea": "CRI.1.SEC.20",
     "nomeDevedor": "Petrobras Vitoria I",
     "indexador": "TR + 10.2000% a.a.",
     "precoUnitario": null,
@@ -15074,7 +15074,7 @@
   {
     "id": 118,
     "idOperacao": 118,
-    "codigoRb": "CRI.1.SEC.38",
+    "codigoOpea": "CRI.1.SEC.38",
     "nomeDevedor": "Petrobras Vitoria III",
     "indexador": "TR + 9.7000% a.a.",
     "precoUnitario": null,
@@ -15116,7 +15116,7 @@
   {
     "id": 119,
     "idOperacao": 119,
-    "codigoRb": "CRI.1.SEC.47",
+    "codigoOpea": "CRI.1.SEC.47",
     "nomeDevedor": "Petrobras | Ed. Wtorre Senado",
     "indexador": "TR + 10.5000% a.a.",
     "precoUnitario": null,
@@ -15158,7 +15158,7 @@
   {
     "id": 124,
     "idOperacao": 124,
-    "codigoRb": "CRI.1.SEC.61",
+    "codigoOpea": "CRI.1.SEC.61",
     "nomeDevedor": "VLI Brejo Araguari",
     "indexador": "IPCA + 6.9479% a.a.",
     "precoUnitario": null,
@@ -15200,7 +15200,7 @@
   {
     "id": 125,
     "idOperacao": 125,
-    "codigoRb": "CRI.1.SEC.62",
+    "codigoOpea": "CRI.1.SEC.62",
     "nomeDevedor": "VLI Brejo Araguari",
     "indexador": "IPCA + 6.9479% a.a.",
     "precoUnitario": null,
@@ -15242,7 +15242,7 @@
   {
     "id": 126,
     "idOperacao": 126,
-    "codigoRb": "CRI.1.SEC.67",
+    "codigoOpea": "CRI.1.SEC.67",
     "nomeDevedor": "Natura | CD",
     "indexador": "IPCA + 7.3810% a.a.",
     "precoUnitario": null,
@@ -15284,7 +15284,7 @@
   {
     "id": 127,
     "idOperacao": 127,
-    "codigoRb": "CRI.1.SEC.69",
+    "codigoOpea": "CRI.1.SEC.69",
     "nomeDevedor": "Natura | Sede",
     "indexador": "IPCA + 7.3810% a.a.",
     "precoUnitario": null,
@@ -15326,7 +15326,7 @@
   {
     "id": 130,
     "idOperacao": 130,
-    "codigoRb": "CRI.1.SEC.78",
+    "codigoOpea": "CRI.1.SEC.78",
     "nomeDevedor": "Ancar",
     "indexador": "IPCA + 7.5000% a.a.",
     "precoUnitario": null,
@@ -15368,7 +15368,7 @@
   {
     "id": 149,
     "idOperacao": 149,
-    "codigoRb": "CRI.1.SEC.107",
+    "codigoOpea": "CRI.1.SEC.107",
     "nomeDevedor": "ALL",
     "indexador": "IPCA + 6.3000% a.a.",
     "precoUnitario": null,
@@ -15406,7 +15406,7 @@
   {
     "id": 140,
     "idOperacao": 140,
-    "codigoRb": "CRI.1.SEC.96",
+    "codigoOpea": "CRI.1.SEC.96",
     "nomeDevedor": "Fanata | Shopping Cidade Norte",
     "indexador": "IPCA + 6.0000% a.a.",
     "precoUnitario": null,
@@ -15448,7 +15448,7 @@
   {
     "id": 39,
     "idOperacao": 39,
-    "codigoRb": "CRI.1.CIA.96",
+    "codigoOpea": "CRI.1.CIA.96",
     "nomeDevedor": "Inbrands",
     "indexador": "IPCA + 7.2744% a.a.",
     "precoUnitario": null,
@@ -15490,7 +15490,7 @@
   {
     "id": 38,
     "idOperacao": 38,
-    "codigoRb": "CRI.1.CIA.95",
+    "codigoOpea": "CRI.1.CIA.95",
     "nomeDevedor": "Renner Santa Catarina",
     "indexador": "IPCA + 7.7270% a.a.",
     "precoUnitario": null,
@@ -15528,7 +15528,7 @@
   {
     "id": 55,
     "idOperacao": 55,
-    "codigoRb": "CRI.1.CIA.117",
+    "codigoOpea": "CRI.1.CIA.117",
     "nomeDevedor": "GBT",
     "indexador": "IGPDI + 7.5900% a.a.",
     "precoUnitario": null,
@@ -15570,7 +15570,7 @@
   {
     "id": 152,
     "idOperacao": 152,
-    "codigoRb": "CRI.1.SEC.120",
+    "codigoOpea": "CRI.1.SEC.120",
     "nomeDevedor": "Natura | CD",
     "indexador": "IPCA + 6.5100% a.a.",
     "precoUnitario": null,
@@ -15612,7 +15612,7 @@
   {
     "id": 153,
     "idOperacao": 153,
-    "codigoRb": "CRI.1.SEC.121",
+    "codigoOpea": "CRI.1.SEC.121",
     "nomeDevedor": "Natura | Sede",
     "indexador": "IPCA + 6.5400% a.a.",
     "precoUnitario": null,
@@ -15654,7 +15654,7 @@
   {
     "id": 150,
     "idOperacao": 150,
-    "codigoRb": "CRI.1.SEC.108",
+    "codigoOpea": "CRI.1.SEC.108",
     "nomeDevedor": "Natura | Sede",
     "indexador": "IPCA + 7.7942% a.a.",
     "precoUnitario": null,
@@ -15696,7 +15696,7 @@
   {
     "id": 151,
     "idOperacao": 151,
-    "codigoRb": "CRI.1.SEC.109",
+    "codigoOpea": "CRI.1.SEC.109",
     "nomeDevedor": "Natura | Sede",
     "indexador": "IPCA + 7.8800% a.a.",
     "precoUnitario": null,
@@ -15738,7 +15738,7 @@
   {
     "id": 72,
     "idOperacao": 72,
-    "codigoRb": "CRI.1.CIA.140",
+    "codigoOpea": "CRI.1.CIA.140",
     "nomeDevedor": "BR Malls | Shopping Villa Lobos",
     "indexador": "CDI + 0.1000% a.a.",
     "precoUnitario": null,
@@ -15780,7 +15780,7 @@
   {
     "id": 57,
     "idOperacao": 57,
-    "codigoRb": "CRI.1.CIA.119",
+    "codigoOpea": "CRI.1.CIA.119",
     "nomeDevedor": "Perini",
     "indexador": "IPCA + 7.6345% a.a.",
     "precoUnitario": null,
@@ -15822,7 +15822,7 @@
   {
     "id": 78,
     "idOperacao": 78,
-    "codigoRb": "CRI.1.CIA.148",
+    "codigoOpea": "CRI.1.CIA.148",
     "nomeDevedor": "Pilkington",
     "indexador": "IPCA + 6.5170% a.a.",
     "precoUnitario": null,
@@ -15864,7 +15864,7 @@
   {
     "id": 77,
     "idOperacao": 77,
-    "codigoRb": "CRI.1.CIA.147",
+    "codigoOpea": "CRI.1.CIA.147",
     "nomeDevedor": "Airport Town II",
     "indexador": "CDI + 2.0000% a.a.",
     "precoUnitario": null,
@@ -15906,7 +15906,7 @@
   {
     "id": 95,
     "idOperacao": 95,
-    "codigoRb": "CRI.1.CIA.172",
+    "codigoOpea": "CRI.1.CIA.172",
     "nomeDevedor": "Airport Town II",
     "indexador": "13.0000% a.a.",
     "precoUnitario": null,
@@ -15948,7 +15948,7 @@
   {
     "id": 91,
     "idOperacao": 91,
-    "codigoRb": "CRI.1.CIA.167",
+    "codigoOpea": "CRI.1.CIA.167",
     "nomeDevedor": "Ascenty",
     "indexador": "IPCA + 7.6454% a.a.",
     "precoUnitario": null,
@@ -15990,7 +15990,7 @@
   {
     "id": 104,
     "idOperacao": 104,
-    "codigoRb": "CRI.1.CIA.183",
+    "codigoOpea": "CRI.1.CIA.183",
     "nomeDevedor": "Shopinvest",
     "indexador": "IPCA + 8.2448% a.a.",
     "precoUnitario": null,
@@ -16032,7 +16032,7 @@
   {
     "id": 108,
     "idOperacao": 108,
-    "codigoRb": "CRI.1.CIA.187",
+    "codigoOpea": "CRI.1.CIA.187",
     "nomeDevedor": "Ascenty II",
     "indexador": "IPCA + 7.7603% a.a.",
     "precoUnitario": null,
@@ -16074,7 +16074,7 @@
   {
     "id": 107,
     "idOperacao": 107,
-    "codigoRb": "CRI.1.CIA.186",
+    "codigoOpea": "CRI.1.CIA.186",
     "nomeDevedor": "Kroton | Campus Anhanguera Brasília",
     "indexador": "IGPM + 6.6929% a.a.",
     "precoUnitario": null,
@@ -16116,7 +16116,7 @@
   {
     "id": 168,
     "idOperacao": 182,
-    "codigoRb": "CRI.1.CIA.203",
+    "codigoOpea": "CRI.1.CIA.203",
     "nomeDevedor": "Brookfield | Ed. Morumbi",
     "indexador": "CDI + 4.0000% a.a.",
     "precoUnitario": null,
@@ -16158,7 +16158,7 @@
   {
     "id": 167,
     "idOperacao": 181,
-    "codigoRb": "CRI.1.CIA.202",
+    "codigoOpea": "CRI.1.CIA.202",
     "nomeDevedor": "Brookfield | Ed. Morumbi",
     "indexador": "CDI + 1.4000% a.a.",
     "precoUnitario": null,
@@ -16200,7 +16200,7 @@
   {
     "id": 195,
     "idOperacao": 211,
-    "codigoRb": "CRI.1.CIA.225",
+    "codigoOpea": "CRI.1.CIA.225",
     "nomeDevedor": "AMY HL Faria Lima",
     "indexador": "CDI + 1.8500% a.a.",
     "precoUnitario": null,
@@ -16242,7 +16242,7 @@
   {
     "id": 205,
     "idOperacao": 221,
-    "codigoRb": "CRI.1.CIA.236",
+    "codigoOpea": "CRI.1.CIA.236",
     "nomeDevedor": "Lavvi",
     "indexador": "108.0000% CDI",
     "precoUnitario": null,
@@ -16284,7 +16284,7 @@
   {
     "id": 228,
     "idOperacao": 244,
-    "codigoRb": "CRI.1.CIA.235",
+    "codigoOpea": "CRI.1.CIA.235",
     "nomeDevedor": "São José III",
     "indexador": "IPCA + 5.0000% a.a.",
     "precoUnitario": null,
@@ -16322,7 +16322,7 @@
   {
     "id": 243,
     "idOperacao": 259,
-    "codigoRb": "CRI.1.CIA.280",
+    "codigoOpea": "CRI.1.CIA.280",
     "nomeDevedor": "FS Bio",
     "indexador": "CDI + 2.8660% a.a.",
     "precoUnitario": null,
@@ -16364,7 +16364,7 @@
   {
     "id": 261,
     "idOperacao": 277,
-    "codigoRb": "CRI.1.CIA.284",
+    "codigoOpea": "CRI.1.CIA.284",
     "nomeDevedor": "Setin Barra Funda",
     "indexador": "CDI + 4.8500% a.a.",
     "precoUnitario": null,
@@ -16406,7 +16406,7 @@
   {
     "id": 254,
     "idOperacao": 270,
-    "codigoRb": "CRI.1.CIA.290",
+    "codigoOpea": "CRI.1.CIA.290",
     "nomeDevedor": "SG Laguna",
     "indexador": "IPCA + 10.5000% a.a.",
     "precoUnitario": null,
@@ -16444,7 +16444,7 @@
   {
     "id": 189,
     "idOperacao": 205,
-    "codigoRb": "CRA.6.CIA.1",
+    "codigoOpea": "CRA.6.CIA.1",
     "nomeDevedor": "Famosa",
     "indexador": "CDI + 2.0000% a.a.",
     "precoUnitario": null,
@@ -16486,7 +16486,7 @@
   {
     "id": 14,
     "idOperacao": 14,
-    "codigoRb": "CRI.1.CIA.9",
+    "codigoOpea": "CRI.1.CIA.9",
     "nomeDevedor": "HBA",
     "indexador": "",
     "precoUnitario": null,
@@ -16524,7 +16524,7 @@
   {
     "id": 15,
     "idOperacao": 15,
-    "codigoRb": "CRI.1.CIA.17",
+    "codigoOpea": "CRI.1.CIA.17",
     "nomeDevedor": "BVMC",
     "indexador": null,
     "precoUnitario": null,
@@ -16562,7 +16562,7 @@
   {
     "id": 120,
     "idOperacao": 120,
-    "codigoRb": "CRI.1.SEC.53",
+    "codigoOpea": "CRI.1.SEC.53",
     "nomeDevedor": "EIT | Ponta Da Areia",
     "indexador": "IPCA + 5.5000% a.a.",
     "precoUnitario": null,
@@ -16600,7 +16600,7 @@
   {
     "id": 129,
     "idOperacao": 129,
-    "codigoRb": "CRI.1.SEC.74",
+    "codigoOpea": "CRI.1.SEC.74",
     "nomeDevedor": "EIT | Ponta Da Areia II",
     "indexador": null,
     "precoUnitario": null,
@@ -16638,7 +16638,7 @@
   {
     "id": 30,
     "idOperacao": 30,
-    "codigoRb": "CRI.1.CIA.84",
+    "codigoOpea": "CRI.1.CIA.84",
     "nomeDevedor": "Comil",
     "indexador": null,
     "precoUnitario": null,
@@ -16676,7 +16676,7 @@
   {
     "id": 29,
     "idOperacao": 29,
-    "codigoRb": "CRI.1.CIA.83",
+    "codigoOpea": "CRI.1.CIA.83",
     "nomeDevedor": "OAS",
     "indexador": "IPCA + 6.0000% a.a.",
     "precoUnitario": null,
@@ -16714,7 +16714,7 @@
   {
     "id": 32,
     "idOperacao": 32,
-    "codigoRb": "CRI.1.CIA.86",
+    "codigoOpea": "CRI.1.CIA.86",
     "nomeDevedor": "Lajeado",
     "indexador": "9.4400% a.a.",
     "precoUnitario": null,
@@ -16756,7 +16756,7 @@
   {
     "id": 19,
     "idOperacao": 19,
-    "codigoRb": "CRI.1.CIA.70",
+    "codigoOpea": "CRI.1.CIA.70",
     "nomeDevedor": "Centrad Odebrecht",
     "indexador": "IPCA + 7.4825% a.a.",
     "precoUnitario": null,
@@ -16798,7 +16798,7 @@
   {
     "id": 17,
     "idOperacao": 17,
-    "codigoRb": "CRI.1.CIA.68",
+    "codigoOpea": "CRI.1.CIA.68",
     "nomeDevedor": "Centrad Via Engenharia",
     "indexador": "IPCA + 7.6000% a.a.",
     "precoUnitario": null,
@@ -16836,7 +16836,7 @@
   {
     "id": 61,
     "idOperacao": 61,
-    "codigoRb": "CRI.1.CIA.126",
+    "codigoOpea": "CRI.1.CIA.126",
     "nomeDevedor": "5R",
     "indexador": "112.0000% CDI",
     "precoUnitario": null,
@@ -16878,7 +16878,7 @@
   {
     "id": 90,
     "idOperacao": 90,
-    "codigoRb": "CRI.1.CIA.166",
+    "codigoOpea": "CRI.1.CIA.166",
     "nomeDevedor": "5R",
     "indexador": "112.0000% CDI",
     "precoUnitario": null,
