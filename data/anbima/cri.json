@@ -2,9 +2,37 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1994
+    "totalRegisters": 1996
   },
   "payload": [
+    {
+      "codOferta": 1753,
+      "fantasiaEmissor": "BARI SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S/A",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22C0899517",
+      "numSerie": 103,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 27.46,
+      "valorTotalOferta": 30.51,
+      "dataEmissao": "23/03/2022",
+      "descrIdentificacaoCRI": 1753
+    },
+    {
+      "codOferta": 1753,
+      "fantasiaEmissor": "BARI SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S/A",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22C0899619",
+      "numSerie": 104,
+      "indTipoCRI": "Júnior",
+      "valorGlobalSerie": 3.05,
+      "valorTotalOferta": 30.51,
+      "dataEmissao": "23/03/2022",
+      "descrIdentificacaoCRI": 1753
+    },
     {
       "codOferta": 1714,
       "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
