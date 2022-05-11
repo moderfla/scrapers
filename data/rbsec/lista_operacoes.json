@@ -1328,7 +1328,7 @@
     "idOperacao": 54,
     "codigoOpea": "CRI.1.CIA.116",
     "nomeDevedor": "VLI Palmeirante Nacional",
-    "indexador": "TR + 8.7000% a.a.",
+    "indexador": "TR + 10.8000% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2024-12-04T00:00:00",
     "status": null,
@@ -1358,7 +1358,7 @@
     },
     "taxaPosFixada": null,
     "percentualFlutuante": null,
-    "taxaJuros": 8.7,
+    "taxaJuros": 10.8,
     "agenciaRating": null
   },
   {
