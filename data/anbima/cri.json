@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 1996
+    "totalRegisters": 2000
   },
   "payload": [
     {
@@ -452,6 +452,62 @@
       "valorTotalOferta": 33.28,
       "dataEmissao": "17/11/2021",
       "descrIdentificacaoCRI": 1635
+    },
+    {
+      "codOferta": 1658,
+      "fantasiaEmissor": "PLANETA SECURITIZADORA SA",
+      "nomeAgenteFiduciario": "VÓRTX  DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 207,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 40.28,
+      "valorTotalOferta": 180.07,
+      "dataEmissao": "11/11/2021",
+      "descrIdentificacaoCRI": 1658
+    },
+    {
+      "codOferta": 1658,
+      "fantasiaEmissor": "PLANETA SECURITIZADORA SA",
+      "nomeAgenteFiduciario": "VÓRTX  DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 208,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 40.28,
+      "valorTotalOferta": 180.07,
+      "dataEmissao": "11/11/2021",
+      "descrIdentificacaoCRI": 1658
+    },
+    {
+      "codOferta": 1658,
+      "fantasiaEmissor": "PLANETA SECURITIZADORA SA",
+      "nomeAgenteFiduciario": "VÓRTX  DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 209,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 49.75,
+      "valorTotalOferta": 180.07,
+      "dataEmissao": "11/11/2021",
+      "descrIdentificacaoCRI": 1658
+    },
+    {
+      "codOferta": 1658,
+      "fantasiaEmissor": "PLANETA SECURITIZADORA SA",
+      "nomeAgenteFiduciario": "VÓRTX  DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 210,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 49.75,
+      "valorTotalOferta": 180.07,
+      "dataEmissao": "11/11/2021",
+      "descrIdentificacaoCRI": 1658
     },
     {
       "codOferta": 1643,
