@@ -10812,6 +10812,44 @@
     "agenciaRating": null
   },
   {
+    "id": 472,
+    "idOperacao": 488,
+    "codigoOpea": "CRI.1.CIA.424",
+    "nomeDevedor": "Cavicchiolli",
+    "indexador": "IPCA + 8.6100% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2032-04-19T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22D0945203",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIBZ5 ",
+    "serie": 424,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 8.61,
+    "agenciaRating": null
+  },
+  {
     "id": 3,
     "idOperacao": 3,
     "codigoOpea": "CRA.1.CIA.3",
@@ -13079,6 +13117,44 @@
     },
     "percentualFlutuante": 100,
     "taxaJuros": 6.75,
+    "agenciaRating": null
+  },
+  {
+    "id": 476,
+    "idOperacao": 492,
+    "codigoOpea": "CRA.36.CIA.1",
+    "nomeDevedor": "Nardini",
+    "indexador": "IPCA + 8.2900% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2028-04-17T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA022004H5",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRA1W3",
+    "serie": 1,
+    "emissao": 36,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 8.29,
     "agenciaRating": null
   },
   {
