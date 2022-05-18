@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 2010
+    "totalRegisters": 2012
   },
   "payload": [
     {
@@ -60,6 +60,34 @@
       "valorTotalOferta": 55,
       "dataEmissao": "18/03/2022",
       "descrIdentificacaoCRI": 1749
+    },
+    {
+      "codOferta": 1773,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22C0508888",
+      "numSerie": 509,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 130.35,
+      "valorTotalOferta": 300,
+      "dataEmissao": "18/03/2022",
+      "descrIdentificacaoCRI": 1773
+    },
+    {
+      "codOferta": 1773,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22C0509641",
+      "numSerie": 510,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 169.65,
+      "valorTotalOferta": 300,
+      "dataEmissao": "18/03/2022",
+      "descrIdentificacaoCRI": 1773
     },
     {
       "codOferta": 1714,
