@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 2014
+    "totalRegisters": 2017
   },
   "payload": [
     {
@@ -2890,6 +2890,20 @@
       "descrIdentificacaoCRI": 1451
     },
     {
+      "codOferta": 1779,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21A0857929",
+      "numSerie": 337,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 5.68,
+      "valorTotalOferta": 5.68,
+      "dataEmissao": "05/01/2021",
+      "descrIdentificacaoCRI": 1779
+    },
+    {
       "codOferta": 1441,
       "fantasiaEmissor": "AGB CASA DE PEDRA SECURITIZADORA",
       "nomeAgenteFiduciario": "SIMPLIFIC PAVARINI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
@@ -5212,6 +5226,20 @@
       "valorTotalOferta": 120,
       "dataEmissao": "19/02/2020",
       "descrIdentificacaoCRI": 1270
+    },
+    {
+      "codOferta": 1332,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20B0929369",
+      "numSerie": 217,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 75,
+      "valorTotalOferta": 75,
+      "dataEmissao": "18/02/2020",
+      "descrIdentificacaoCRI": 1332
     },
     {
       "codOferta": 1308,
@@ -7732,6 +7760,20 @@
       "valorTotalOferta": 192.26,
       "dataEmissao": "15/07/2019",
       "descrIdentificacaoCRI": 1151
+    },
+    {
+      "codOferta": 1387,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "19G0311435",
+      "numSerie": 220,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 8,
+      "valorTotalOferta": 8,
+      "dataEmissao": "10/07/2019",
+      "descrIdentificacaoCRI": 1387
     },
     {
       "codOferta": 1388,
