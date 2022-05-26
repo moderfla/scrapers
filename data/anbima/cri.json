@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 2023
+    "totalRegisters": 2024
   },
   "payload": [
     {
@@ -5492,6 +5492,20 @@
       "valorTotalOferta": 102.84,
       "dataEmissao": "30/01/2020",
       "descrIdentificacaoCRI": 1273
+    },
+    {
+      "codOferta": 1746,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20A1034935",
+      "numSerie": 269,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 14.16,
+      "valorTotalOferta": 14.16,
+      "dataEmissao": "30/01/2020",
+      "descrIdentificacaoCRI": 1746
     },
     {
       "codOferta": 1326,
