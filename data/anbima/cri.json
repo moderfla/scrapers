@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 2024
+    "totalRegisters": 2025
   },
   "payload": [
     {
@@ -18,6 +18,20 @@
       "valorTotalOferta": 250,
       "dataEmissao": "28/03/2022",
       "descrIdentificacaoCRI": 1774
+    },
+    {
+      "codOferta": 1792,
+      "fantasiaEmissor": "OPEA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22C1214804",
+      "numSerie": 482,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 12.5,
+      "valorTotalOferta": 12.5,
+      "dataEmissao": "28/03/2022",
+      "descrIdentificacaoCRI": 1792
     },
     {
       "codOferta": 1752,
