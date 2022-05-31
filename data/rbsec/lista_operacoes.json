@@ -10964,6 +10964,44 @@
     "agenciaRating": null
   },
   {
+    "id": 473,
+    "idOperacao": 489,
+    "codigoOpea": "CRI.1.CIA.495",
+    "nomeDevedor": "Gerabens",
+    "indexador": "IPCA + 8.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2030-05-12T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22D0946642",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIC26",
+    "serie": 495,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 8,
+    "agenciaRating": null
+  },
+  {
     "id": 3,
     "idOperacao": 3,
     "codigoOpea": "CRA.1.CIA.3",
@@ -13269,6 +13307,48 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 8.29,
+    "agenciaRating": null
+  },
+  {
+    "id": 479,
+    "idOperacao": 495,
+    "codigoOpea": "CRA.44.CIA.1",
+    "nomeDevedor": "Raça Agro II",
+    "indexador": "CDI + 5.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2026-05-19T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA022005K2",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRA1Y9",
+    "serie": 1,
+    "emissao": 44,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 5.5,
     "agenciaRating": null
   },
   {
