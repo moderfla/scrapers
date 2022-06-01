@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 2030
+    "totalRegisters": 2031
   },
   "payload": [
     {
@@ -578,6 +578,20 @@
       "valorTotalOferta": 100,
       "dataEmissao": "25/11/2021",
       "descrIdentificacaoCRI": 1639
+    },
+    {
+      "codOferta": 1799,
+      "fantasiaEmissor": "BARI SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VORTX DTVM LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21K0665223",
+      "numSerie": 98,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 126.05,
+      "valorTotalOferta": 126.05,
+      "dataEmissao": "24/11/2021",
+      "descrIdentificacaoCRI": 1799
     },
     {
       "codOferta": 1712,
