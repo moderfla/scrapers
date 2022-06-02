@@ -11002,6 +11002,86 @@
     "agenciaRating": null
   },
   {
+    "id": 477,
+    "idOperacao": 493,
+    "codigoOpea": "CRI.5.CIA.1",
+    "nomeDevedor": "Zarin",
+    "indexador": "CDI + 4.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2027-05-19T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22E0891023",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIC34",
+    "serie": 1,
+    "emissao": 5,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 4.5,
+    "agenciaRating": null
+  },
+  {
+    "id": 480,
+    "idOperacao": 496,
+    "codigoOpea": "CRI.2.CIA.1",
+    "nomeDevedor": "Gaps",
+    "indexador": "IPCA + 4.2500% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2032-05-17T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22E1056953",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIC42",
+    "serie": 1,
+    "emissao": 2,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 4.25,
+    "agenciaRating": null
+  },
+  {
     "id": 3,
     "idOperacao": 3,
     "codigoOpea": "CRA.1.CIA.3",
@@ -13307,6 +13387,48 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 8.29,
+    "agenciaRating": null
+  },
+  {
+    "id": 478,
+    "idOperacao": 494,
+    "codigoOpea": "CRA.43.CIA.1",
+    "nomeDevedor": "Raça Agro II",
+    "indexador": "CDI + 5.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2026-05-19T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA022005K1",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRA1X1",
+    "serie": 1,
+    "emissao": 43,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 5.5,
     "agenciaRating": null
   },
   {
