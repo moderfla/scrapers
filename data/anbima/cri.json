@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 2031
+    "totalRegisters": 2034
   },
   "payload": [
     {
@@ -550,6 +550,48 @@
       "valorTotalOferta": 28,
       "dataEmissao": "10/12/2021",
       "descrIdentificacaoCRI": 1654
+    },
+    {
+      "codOferta": 1803,
+      "fantasiaEmissor": "OPEA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21L0668295",
+      "numSerie": 453,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 443.46,
+      "valorTotalOferta": 459.47,
+      "dataEmissao": "03/12/2021",
+      "descrIdentificacaoCRI": 1803
+    },
+    {
+      "codOferta": 1810,
+      "fantasiaEmissor": "OPEA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21L0666609",
+      "numSerie": 400,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 403.74,
+      "valorTotalOferta": 418.26,
+      "dataEmissao": "03/12/2021",
+      "descrIdentificacaoCRI": 1810
+    },
+    {
+      "codOferta": 1811,
+      "fantasiaEmissor": "OPEA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21L0668716",
+      "numSerie": 454,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 257.01,
+      "valorTotalOferta": 266.26,
+      "dataEmissao": "03/12/2021",
+      "descrIdentificacaoCRI": 1811
     },
     {
       "codOferta": 1677,
