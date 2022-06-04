@@ -13436,7 +13436,7 @@
     "idOperacao": 492,
     "codigoOpea": "CRA.36.CIA.1",
     "nomeDevedor": "Nardini",
-    "indexador": "IPCA + 8.2900% a.a.",
+    "indexador": "IPCA + 7.4986% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2028-04-17T00:00:00",
     "status": null,
@@ -13466,7 +13466,7 @@
     },
     "taxaPosFixada": null,
     "percentualFlutuante": null,
-    "taxaJuros": 8.29,
+    "taxaJuros": 7.4986,
     "agenciaRating": null
   },
   {
