@@ -11086,7 +11086,7 @@
     "idOperacao": 496,
     "codigoOpea": "CRI.2.CIA.1",
     "nomeDevedor": "Gaps",
-    "indexador": "IPCA + 4.2500% a.a.",
+    "indexador": "IPCA + 8.6666% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2032-05-17T00:00:00",
     "status": null,
@@ -11116,7 +11116,7 @@
     },
     "taxaPosFixada": null,
     "percentualFlutuante": null,
-    "taxaJuros": 4.25,
+    "taxaJuros": 8.6666,
     "agenciaRating": null
   },
   {
