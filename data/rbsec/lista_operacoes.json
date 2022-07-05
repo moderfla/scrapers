@@ -11188,6 +11188,44 @@
     "agenciaRating": null
   },
   {
+    "id": 491,
+    "idOperacao": 507,
+    "codigoOpea": "CRI.16.CIA.2",
+    "nomeDevedor": "Yuca Augusta Tiete",
+    "indexador": "IPCA + 9.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2027-06-17T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22D1289606",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIC67",
+    "serie": 2,
+    "emissao": 16,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 9,
+    "agenciaRating": null
+  },
+  {
     "id": 477,
     "idOperacao": 493,
     "codigoOpea": "CRI.5.CIA.1",
@@ -11265,6 +11303,82 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 8.6666,
+    "agenciaRating": null
+  },
+  {
+    "id": 481,
+    "idOperacao": 497,
+    "codigoOpea": "CRI.11.CIA.1",
+    "nomeDevedor": "Credihome III",
+    "indexador": "IPCA + 8.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2042-05-22T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Pulverizada",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22E1102599",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIC75",
+    "serie": 1,
+    "emissao": 11,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 8,
+    "agenciaRating": null
+  },
+  {
+    "id": 482,
+    "idOperacao": 498,
+    "codigoOpea": "CRI.11.CIA.2",
+    "nomeDevedor": "Credihome III",
+    "indexador": "IPCA + 15.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2042-05-22T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Pulverizada",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22E1102623",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIC83",
+    "serie": 2,
+    "emissao": 11,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 15,
     "agenciaRating": null
   },
   {
@@ -11417,6 +11531,48 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 9.5,
+    "agenciaRating": null
+  },
+  {
+    "id": 503,
+    "idOperacao": 519,
+    "codigoOpea": "CRI.44.CIA.1",
+    "nomeDevedor": "Gafisa Sorocaba",
+    "indexador": "CDI + 5.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2025-06-25T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22F1035343",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRICQ2",
+    "serie": 1,
+    "emissao": 44,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 5,
     "agenciaRating": null
   },
   {
