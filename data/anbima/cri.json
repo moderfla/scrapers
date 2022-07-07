@@ -2,9 +2,37 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 2077
+    "totalRegisters": 2082
   },
   "payload": [
+    {
+      "codOferta": 1830,
+      "fantasiaEmissor": "COMPANHIA PROVINCIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 5,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22E0886427",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 30.5,
+      "valorTotalOferta": 30.5,
+      "dataEmissao": "27/05/2022",
+      "descrIdentificacaoCRI": 1830
+    },
+    {
+      "codOferta": 1828,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 19,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22E0591830",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 10,
+      "valorTotalOferta": 10,
+      "dataEmissao": "15/05/2022",
+      "descrIdentificacaoCRI": 1828
+    },
     {
       "codOferta": 1827,
       "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
@@ -32,6 +60,48 @@
       "valorTotalOferta": 40,
       "dataEmissao": "04/05/2022",
       "descrIdentificacaoCRI": 1824
+    },
+    {
+      "codOferta": 1829,
+      "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 10,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 160,
+      "valorTotalOferta": 160,
+      "dataEmissao": "29/04/2022",
+      "descrIdentificacaoCRI": 1829
+    },
+    {
+      "codOferta": 1819,
+      "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DTVM S.A.",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22D1226341",
+      "numSerie": 489,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 155.46,
+      "valorTotalOferta": 155.46,
+      "dataEmissao": "28/04/2022",
+      "descrIdentificacaoCRI": 1819
+    },
+    {
+      "codOferta": 1822,
+      "fantasiaEmissor": "HABITASEC SECURITIZADORA SA",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DTVM S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22D1283353",
+      "numSerie": 331,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 50,
+      "valorTotalOferta": 50,
+      "dataEmissao": "28/04/2022",
+      "descrIdentificacaoCRI": 1822
     },
     {
       "codOferta": 1798,
