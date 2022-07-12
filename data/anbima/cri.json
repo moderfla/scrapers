@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 2082
+    "totalRegisters": 2084
   },
   "payload": [
     {
@@ -1096,6 +1096,34 @@
       "valorTotalOferta": 43,
       "dataEmissao": "10/11/2021",
       "descrIdentificacaoCRI": 1643
+    },
+    {
+      "codOferta": 1839,
+      "fantasiaEmissor": "REIT SECURITIZADORA DE RECEBIVEIS IMOB",
+      "nomeAgenteFiduciario": "GDC PARTNERS SERVIÇOS FIDUCIÁRIOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 2,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 24,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 61,
+      "valorTotalOferta": 72,
+      "dataEmissao": "10/11/2021",
+      "descrIdentificacaoCRI": 1839
+    },
+    {
+      "codOferta": 1839,
+      "fantasiaEmissor": "REIT SECURITIZADORA DE RECEBIVEIS IMOB",
+      "nomeAgenteFiduciario": "GDC PARTNERS SERVIÇOS FIDUCIÁRIOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 2,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 25,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 11,
+      "valorTotalOferta": 72,
+      "dataEmissao": "10/11/2021",
+      "descrIdentificacaoCRI": 1839
     },
     {
       "codOferta": 1646,
