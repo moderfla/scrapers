@@ -11009,7 +11009,7 @@
     },
     "garantiaReal": null,
     "fundos": null,
-    "rating": null,
+    "rating": "AAA",
     "servicer": [],
     "masterService": "RB Capital Serviços de Crédito LTDA",
     "concentracao": "Concentrado",
@@ -11029,7 +11029,7 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 5.83,
-    "agenciaRating": null
+    "agenciaRating": "Fitch Ratings"
   },
   {
     "id": 488,
@@ -11047,7 +11047,7 @@
     },
     "garantiaReal": null,
     "fundos": null,
-    "rating": null,
+    "rating": "AAA",
     "servicer": [],
     "masterService": "RB Capital Serviços de Crédito LTDA",
     "concentracao": "Concentrado",
@@ -11067,7 +11067,7 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 6.01,
-    "agenciaRating": null
+    "agenciaRating": "Fitch Ratings"
   },
   {
     "id": 483,
@@ -11085,7 +11085,7 @@
     },
     "garantiaReal": null,
     "fundos": null,
-    "rating": null,
+    "rating": "Aa1",
     "servicer": [],
     "masterService": "RB Capital Serviços de Crédito LTDA",
     "concentracao": "Concentrado",
@@ -11109,7 +11109,7 @@
     },
     "percentualFlutuante": 100,
     "taxaJuros": 0.4,
-    "agenciaRating": null
+    "agenciaRating": "Moodys"
   },
   {
     "id": 484,
@@ -11127,7 +11127,7 @@
     },
     "garantiaReal": null,
     "fundos": null,
-    "rating": null,
+    "rating": "Aa1",
     "servicer": [],
     "masterService": "RB Capital Serviços de Crédito LTDA",
     "concentracao": "Concentrado",
@@ -11147,7 +11147,7 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 5.9068,
-    "agenciaRating": null
+    "agenciaRating": "Moodys"
   },
   {
     "id": 485,
@@ -11165,7 +11165,7 @@
     },
     "garantiaReal": null,
     "fundos": null,
-    "rating": null,
+    "rating": "Aa1",
     "servicer": [],
     "masterService": "RB Capital Serviços de Crédito LTDA",
     "concentracao": "Concentrado",
@@ -11185,7 +11185,7 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 6.128,
-    "agenciaRating": null
+    "agenciaRating": "Moodys"
   },
   {
     "id": 491,
