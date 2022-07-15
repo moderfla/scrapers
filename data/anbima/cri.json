@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 2084
+    "totalRegisters": 2090
   },
   "payload": [
     {
@@ -102,6 +102,20 @@
       "valorTotalOferta": 50,
       "dataEmissao": "28/04/2022",
       "descrIdentificacaoCRI": 1822
+    },
+    {
+      "codOferta": 1836,
+      "fantasiaEmissor": "COMPANHIA PROVINCIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 3,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22D1248921",
+      "numSerie": 55,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 6,
+      "valorTotalOferta": 6,
+      "dataEmissao": "28/04/2022",
+      "descrIdentificacaoCRI": 1836
     },
     {
       "codOferta": 1798,
@@ -4010,6 +4024,20 @@
       "descrIdentificacaoCRI": 1415
     },
     {
+      "codOferta": 1678,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20K0754354",
+      "numSerie": 324,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 36.72,
+      "valorTotalOferta": 36.72,
+      "dataEmissao": "25/11/2020",
+      "descrIdentificacaoCRI": 1678
+    },
+    {
       "codOferta": 1413,
       "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
       "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
@@ -4064,6 +4092,20 @@
       "valorTotalOferta": 235,
       "dataEmissao": "17/11/2020",
       "descrIdentificacaoCRI": 1410
+    },
+    {
+      "codOferta": 1733,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20K0696607",
+      "numSerie": 290,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 28.7,
+      "valorTotalOferta": 28.7,
+      "dataEmissao": "13/11/2020",
+      "descrIdentificacaoCRI": 1733
     },
     {
       "codOferta": 1424,
@@ -4386,6 +4428,20 @@
       "valorTotalOferta": 114,
       "dataEmissao": "19/10/2020",
       "descrIdentificacaoCRI": 1456
+    },
+    {
+      "codOferta": 1750,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "BRAPCSCRI8",
+      "numSerie": 261,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 15,
+      "valorTotalOferta": 15,
+      "dataEmissao": "16/10/2020",
+      "descrIdentificacaoCRI": 1750
     },
     {
       "codOferta": 1580,
@@ -7146,6 +7202,20 @@
       "descrIdentificacaoCRI": 1261
     },
     {
+      "codOferta": 1757,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "19L0866585",
+      "numSerie": 263,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 25,
+      "valorTotalOferta": 25,
+      "dataEmissao": "05/12/2019",
+      "descrIdentificacaoCRI": 1757
+    },
+    {
       "codOferta": 1585,
       "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
       "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
@@ -7340,6 +7410,20 @@
       "valorTotalOferta": 100,
       "dataEmissao": "14/11/2019",
       "descrIdentificacaoCRI": 1225
+    },
+    {
+      "codOferta": 1390,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "19K1139670",
+      "numSerie": 244,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 12.06,
+      "valorTotalOferta": 12.06,
+      "dataEmissao": "12/11/2019",
+      "descrIdentificacaoCRI": 1390
     },
     {
       "codOferta": 1235,
