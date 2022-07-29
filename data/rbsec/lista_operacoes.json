@@ -11104,6 +11104,44 @@
     "agenciaRating": "Moodys"
   },
   {
+    "id": 492,
+    "idOperacao": 508,
+    "codigoOpea": "CRI.16.CIA.1",
+    "nomeDevedor": "Yuca Augusta Tiete",
+    "indexador": "IPCA + 8.6000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2027-06-17T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22D1289605",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIC59",
+    "serie": 1,
+    "emissao": 16,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 8.6,
+    "agenciaRating": null
+  },
+  {
     "id": 491,
     "idOperacao": 507,
     "codigoOpea": "CRI.16.CIA.2",
@@ -11488,6 +11526,174 @@
     "agenciaRating": null
   },
   {
+    "id": 504,
+    "idOperacao": 520,
+    "codigoOpea": "CRI.9.CIA.1",
+    "nomeDevedor": "Cortel II",
+    "indexador": "CDI + 3.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2034-07-27T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22F1025672",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRICO7",
+    "serie": 1,
+    "emissao": 9,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 3.5,
+    "agenciaRating": null
+  },
+  {
+    "id": 505,
+    "idOperacao": 521,
+    "codigoOpea": "CRI.9.CIA.2",
+    "nomeDevedor": "Cortel II",
+    "indexador": "CDI + 4.6095% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2034-07-27T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22F1025673",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRICP4",
+    "serie": 2,
+    "emissao": 9,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 4.6095,
+    "agenciaRating": null
+  },
+  {
+    "id": 506,
+    "idOperacao": 522,
+    "codigoOpea": "CRI.10.CIA.1",
+    "nomeDevedor": "Cortel III",
+    "indexador": "CDI + 3.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2033-07-27T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22F1025725",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRICM1",
+    "serie": 1,
+    "emissao": 10,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 3.5,
+    "agenciaRating": null
+  },
+  {
+    "id": 507,
+    "idOperacao": 523,
+    "codigoOpea": "CRI.10.CIA.2",
+    "nomeDevedor": "Cortel III",
+    "indexador": "CDI + 4.1690% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2033-07-27T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22F1025727",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRICN9",
+    "serie": 2,
+    "emissao": 10,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 4.169,
+    "agenciaRating": null
+  },
+  {
     "id": 502,
     "idOperacao": 518,
     "codigoOpea": "CRI.29.CIA.1",
@@ -11805,6 +12011,170 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 8.25,
+    "agenciaRating": null
+  },
+  {
+    "id": 520,
+    "idOperacao": 536,
+    "codigoOpea": "CRI.40.CIA.1",
+    "nomeDevedor": "BR12",
+    "indexador": "CDI + 1.1500% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2027-07-19T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22G0279834",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIDI7",
+    "serie": 1,
+    "emissao": 40,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 1.15,
+    "agenciaRating": null
+  },
+  {
+    "id": 521,
+    "idOperacao": 537,
+    "codigoOpea": "CRI.40.CIA.2",
+    "nomeDevedor": "BR12",
+    "indexador": "CDI + 1.7000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2027-07-19T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22G0282124",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIDJ5",
+    "serie": 2,
+    "emissao": 40,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 1.7,
+    "agenciaRating": null
+  },
+  {
+    "id": 523,
+    "idOperacao": 539,
+    "codigoOpea": "CRI.40.CIA.4",
+    "nomeDevedor": "BR12",
+    "indexador": "IPCA + 8.8517% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2027-07-19T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22G0282158  ",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIDL1",
+    "serie": 4,
+    "emissao": 40,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 8.8517,
+    "agenciaRating": null
+  },
+  {
+    "id": 542,
+    "idOperacao": 558,
+    "codigoOpea": "CRI.23.CIA.1",
+    "nomeDevedor": "Setin Perdizes",
+    "indexador": "CDI + 4.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2025-07-28T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22G0663573",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIDM9",
+    "serie": 1,
+    "emissao": 23,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 4,
     "agenciaRating": null
   },
   {
@@ -14322,6 +14692,48 @@
     "agenciaRating": null
   },
   {
+    "id": 544,
+    "idOperacao": 560,
+    "codigoOpea": "CRA.45.CIA.1",
+    "nomeDevedor": "Fiagril",
+    "indexador": "CDI + 5.1500% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2027-08-11T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA022007KF",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRA298",
+    "serie": 1,
+    "emissao": 45,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 5.15,
+    "agenciaRating": null
+  },
+  {
     "id": 551,
     "idOperacao": 567,
     "codigoOpea": "CRA.47.CIA.1",
@@ -14403,6 +14815,90 @@
     },
     "percentualFlutuante": 100,
     "taxaJuros": 6.75,
+    "agenciaRating": null
+  },
+  {
+    "id": 547,
+    "idOperacao": 563,
+    "codigoOpea": "CRA.50.CIA.1",
+    "nomeDevedor": "Fiagril",
+    "indexador": "CDI + 5.1500% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2027-08-11T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA022007PU",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRA2A7",
+    "serie": 1,
+    "emissao": 50,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 5.15,
+    "agenciaRating": null
+  },
+  {
+    "id": 548,
+    "idOperacao": 564,
+    "codigoOpea": "CRA.51.CIA.1",
+    "nomeDevedor": "Fiagril",
+    "indexador": "CDI + 5.1500% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2027-08-11T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA022007PV",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRA2B5",
+    "serie": 1,
+    "emissao": 51,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 5.15,
     "agenciaRating": null
   },
   {
