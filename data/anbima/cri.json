@@ -2,9 +2,65 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 2090
+    "totalRegisters": 2094
   },
   "payload": [
+    {
+      "codOferta": 1847,
+      "fantasiaEmissor": "BARI SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 2,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22F0715946",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 76,
+      "valorTotalOferta": 76,
+      "dataEmissao": "23/06/2022",
+      "descrIdentificacaoCRI": 1847
+    },
+    {
+      "codOferta": 1840,
+      "fantasiaEmissor": "BARI SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DTVM LTDA",
+      "numEmissao": 4,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22F0783785",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 72.09,
+      "valorTotalOferta": 72.09,
+      "dataEmissao": "20/06/2022",
+      "descrIdentificacaoCRI": 1840
+    },
+    {
+      "codOferta": 1841,
+      "fantasiaEmissor": "BARI SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DTVM S.A.",
+      "numEmissao": 3,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22F0783752",
+      "numSerie": 1,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 86.61,
+      "valorTotalOferta": 131.14,
+      "dataEmissao": "20/06/2022",
+      "descrIdentificacaoCRI": 1841
+    },
+    {
+      "codOferta": 1841,
+      "fantasiaEmissor": "BARI SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DTVM S.A.",
+      "numEmissao": 3,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22F0783773",
+      "numSerie": 2,
+      "indTipoCRI": "Júnior",
+      "valorGlobalSerie": 44.52,
+      "valorTotalOferta": 131.14,
+      "dataEmissao": "20/06/2022",
+      "descrIdentificacaoCRI": 1841
+    },
     {
       "codOferta": 1830,
       "fantasiaEmissor": "COMPANHIA PROVINCIA DE SECURITIZACAO",
