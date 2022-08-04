@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 2094
+    "totalRegisters": 2095
   },
   "payload": [
     {
@@ -102,6 +102,20 @@
       "valorTotalOferta": 160,
       "dataEmissao": "13/05/2022",
       "descrIdentificacaoCRI": 1827
+    },
+    {
+      "codOferta": 1845,
+      "fantasiaEmissor": "OPEA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "PENTÁGONO S.A. DTVM",
+      "numEmissao": 2,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22E1056953",
+      "numSerie": 2,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 305,
+      "valorTotalOferta": 305,
+      "dataEmissao": "13/05/2022",
+      "descrIdentificacaoCRI": 1845
     },
     {
       "codOferta": 1824,
