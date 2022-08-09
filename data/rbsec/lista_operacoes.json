@@ -16068,44 +16068,6 @@
     "agenciaRating": null
   },
   {
-    "id": 298,
-    "idOperacao": 314,
-    "codigoOpea": "DEB.1.KOM.1",
-    "nomeDevedor": "Kompass",
-    "indexador": "IPCA + 8.0000% a.a.",
-    "precoUnitario": null,
-    "dataVencimento": "2032-04-26T00:00:00",
-    "status": null,
-    "statusPassivoOperacao": {
-      "key": 1,
-      "value": "Ativa",
-      "raw": "Ativa"
-    },
-    "garantiaReal": null,
-    "fundos": null,
-    "rating": null,
-    "servicer": [],
-    "masterService": "RB Capital Serviços de Crédito LTDA",
-    "concentracao": "Concentrado",
-    "oferta": "ICVM476",
-    "descricaoSegmento": null,
-    "codigoIf": "KOMP11",
-    "tipoIndexador": "IPCA",
-    "naturezaOperacao": "Corporativo",
-    "isin": "BRKOMPDBS000",
-    "serie": 1,
-    "emissao": 1,
-    "tipoPagamento": {
-      "key": 3,
-      "value": "Correção Monetária",
-      "raw": "CorrecaoMonetaria"
-    },
-    "taxaPosFixada": null,
-    "percentualFlutuante": null,
-    "taxaJuros": 8,
-    "agenciaRating": null
-  },
-  {
     "id": 159,
     "idOperacao": 159,
     "codigoOpea": "DEB.1.SIP.1",
@@ -19803,6 +19765,44 @@
     },
     "percentualFlutuante": 100,
     "taxaJuros": 2,
+    "agenciaRating": null
+  },
+  {
+    "id": 298,
+    "idOperacao": 314,
+    "codigoOpea": "DEB.1.KOM.1",
+    "nomeDevedor": "Kompass",
+    "indexador": "IPCA + 8.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2032-04-26T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 3,
+      "value": "Resgatada",
+      "raw": "Resgatada"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "KOMP11",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRKOMPDBS000",
+    "serie": 1,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 8,
     "agenciaRating": null
   },
   {
