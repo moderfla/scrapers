@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 2104
+    "totalRegisters": 2105
   },
   "payload": [
     {
@@ -32,6 +32,20 @@
       "valorTotalOferta": 226.28,
       "dataEmissao": "29/06/2022",
       "descrIdentificacaoCRI": 1844
+    },
+    {
+      "codOferta": 1858,
+      "fantasiaEmissor": "COMPANHIA PROVINCIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 10,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22F1013710",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 80,
+      "valorTotalOferta": 80,
+      "dataEmissao": "27/06/2022",
+      "descrIdentificacaoCRI": 1858
     },
     {
       "codOferta": 1847,
