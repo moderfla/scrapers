@@ -13298,6 +13298,44 @@
     "agenciaRating": null
   },
   {
+    "id": 559,
+    "idOperacao": 575,
+    "codigoOpea": "CRI.50.CIA.3",
+    "nomeDevedor": "Rede D'or IX",
+    "indexador": "IPCA + 6.7692% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2037-07-15T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "RB Capital Serviços de Crédito LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22G1136492",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIDW8",
+    "serie": 3,
+    "emissao": 50,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 6.7692,
+    "agenciaRating": null
+  },
+  {
     "id": 4,
     "idOperacao": 4,
     "codigoOpea": "CRA.1.CIA.4",
