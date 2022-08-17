@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 2105
+    "totalRegisters": 2106
   },
   "payload": [
     {
@@ -368,6 +368,20 @@
       "valorTotalOferta": 50.4,
       "dataEmissao": "20/04/2022",
       "descrIdentificacaoCRI": 1817
+    },
+    {
+      "codOferta": 1815,
+      "fantasiaEmissor": "OPEA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DTVM S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22D0945203",
+      "numSerie": 424,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 70,
+      "valorTotalOferta": 70,
+      "dataEmissao": "15/04/2022",
+      "descrIdentificacaoCRI": 1815
     },
     {
       "codOferta": 1814,
