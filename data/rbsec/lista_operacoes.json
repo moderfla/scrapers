@@ -16090,7 +16090,7 @@
     "idOperacao": 567,
     "codigoOpea": "CRA.47.CIA.1",
     "nomeDevedor": "Languiru II",
-    "indexador": "CDI + 4.9000% a.a.",
+    "indexador": "CDI + 3.0000% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2027-07-09T00:00:00",
     "status": null,
@@ -16124,7 +16124,7 @@
       "raw": "CDI"
     },
     "percentualFlutuante": 100,
-    "taxaJuros": 4.9,
+    "taxaJuros": 3,
     "agenciaRating": null
   },
   {
