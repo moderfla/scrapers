@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 2116
+    "totalRegisters": 2117
   },
   "payload": [
     {
@@ -144,6 +144,20 @@
       "valorTotalOferta": 131.14,
       "dataEmissao": "20/06/2022",
       "descrIdentificacaoCRI": 1841
+    },
+    {
+      "codOferta": 1855,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 2,
+      "indTipoOferta": "Pública",
+      "codCETIP": "22F0009804",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 300,
+      "valorTotalOferta": 300,
+      "dataEmissao": "15/06/2022",
+      "descrIdentificacaoCRI": 1855
     },
     {
       "codOferta": 1837,
