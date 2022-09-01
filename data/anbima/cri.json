@@ -2,7 +2,7 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 2136
+    "totalRegisters": 2137
   },
   "payload": [
     {
@@ -424,6 +424,20 @@
       "valorTotalOferta": 339.77,
       "dataEmissao": "10/06/2022",
       "descrIdentificacaoCRI": 1837
+    },
+    {
+      "codOferta": 1833,
+      "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "PENTÁGONO S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "numEmissao": 22,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22F0315398",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 300,
+      "valorTotalOferta": 300,
+      "dataEmissao": "08/06/2022",
+      "descrIdentificacaoCRI": 1833
     },
     {
       "codOferta": 1854,
