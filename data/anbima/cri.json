@@ -2,9 +2,51 @@
   "pagination": {
     "page": 1,
     "totalPages": 1,
-    "totalRegisters": 2137
+    "totalRegisters": 2142
   },
   "payload": [
+    {
+      "codOferta": 1876,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "PENTÁGONO S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "numEmissao": 59,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22E1325262",
+      "numSerie": 1,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 200,
+      "valorTotalOferta": 750,
+      "dataEmissao": "10/08/2022",
+      "descrIdentificacaoCRI": 1876
+    },
+    {
+      "codOferta": 1876,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "PENTÁGONO S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "numEmissao": 59,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22E1325261",
+      "numSerie": 2,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 397.64,
+      "valorTotalOferta": 750,
+      "dataEmissao": "10/08/2022",
+      "descrIdentificacaoCRI": 1876
+    },
+    {
+      "codOferta": 1876,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "PENTÁGONO S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "numEmissao": 59,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22E1325264",
+      "numSerie": 3,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 152.36,
+      "valorTotalOferta": 750,
+      "dataEmissao": "10/08/2022",
+      "descrIdentificacaoCRI": 1876
+    },
     {
       "codOferta": 1861,
       "fantasiaEmissor": "OPEA SECURITIZADORA S.A.",
@@ -452,6 +494,34 @@
       "valorTotalOferta": 16,
       "dataEmissao": "06/06/2022",
       "descrIdentificacaoCRI": 1854
+    },
+    {
+      "codOferta": 1859,
+      "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 23,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22F0236430",
+      "numSerie": 1,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 100,
+      "valorTotalOferta": 125,
+      "dataEmissao": "06/06/2022",
+      "descrIdentificacaoCRI": 1859
+    },
+    {
+      "codOferta": 1859,
+      "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 23,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22F0236437",
+      "numSerie": 2,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 25,
+      "valorTotalOferta": 125,
+      "dataEmissao": "06/06/2022",
+      "descrIdentificacaoCRI": 1859
     },
     {
       "codOferta": 1830,
