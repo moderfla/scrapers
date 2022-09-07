@@ -6,6 +6,34 @@
   },
   "payload": [
     {
+      "codOferta": 1877,
+      "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "SIMPLIFIC PAVARINI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "numEmissao": 33,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22H0166203",
+      "numSerie": 1,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 57.19,
+      "valorTotalOferta": 60.19,
+      "dataEmissao": "16/08/2022",
+      "descrIdentificacaoCRI": 1877
+    },
+    {
+      "codOferta": 1877,
+      "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "SIMPLIFIC PAVARINI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "numEmissao": 33,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22H0166224",
+      "numSerie": 2,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 3,
+      "valorTotalOferta": 60.19,
+      "dataEmissao": "16/08/2022",
+      "descrIdentificacaoCRI": 1877
+    },
+    {
       "codOferta": 1876,
       "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
       "nomeAgenteFiduciario": "PENTÁGONO S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
@@ -18374,20 +18402,6 @@
       "descrIdentificacaoCRI": 188
     },
     {
-      "codOferta": 152,
-      "fantasiaEmissor": "BRAZILIAN SECURITIES CIA SECURITIZACAO",
-      "nomeAgenteFiduciario": "OLIVEIRA TRUST DTVM S.A.",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "16A1249175",
-      "numSerie": 373,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 50,
-      "valorTotalOferta": 50,
-      "dataEmissao": "29/01/2016",
-      "descrIdentificacaoCRI": 152
-    },
-    {
       "codOferta": 170,
       "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
       "nomeAgenteFiduciario": null,
@@ -18568,20 +18582,6 @@
       "valorTotalOferta": 9.2,
       "dataEmissao": "30/11/2015",
       "descrIdentificacaoCRI": 196
-    },
-    {
-      "codOferta": 151,
-      "fantasiaEmissor": "CIBRASEC",
-      "nomeAgenteFiduciario": "PENTÁGONO S.A. DTVM",
-      "numEmissao": 2,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "15K0709213",
-      "numSerie": 263,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 49.53,
-      "valorTotalOferta": 50.45,
-      "dataEmissao": "27/11/2015",
-      "descrIdentificacaoCRI": 151
     },
     {
       "codOferta": 187,
