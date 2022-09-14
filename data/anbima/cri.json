@@ -76,6 +76,20 @@
       "descrIdentificacaoCRI": 1876
     },
     {
+      "codOferta": 1885,
+      "fantasiaEmissor": "TRAVESSIA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VORTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 17,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22H0376232",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 60,
+      "valorTotalOferta": 60,
+      "dataEmissao": "05/08/2022",
+      "descrIdentificacaoCRI": 1885
+    },
+    {
       "codOferta": 1861,
       "fantasiaEmissor": "OPEA SECURITIZADORA S.A.",
       "nomeAgenteFiduciario": "OLIVEIRA TRUST",
@@ -18834,20 +18848,6 @@
       "valorTotalOferta": 10.5,
       "dataEmissao": "21/09/2015",
       "descrIdentificacaoCRI": 254
-    },
-    {
-      "codOferta": 155,
-      "fantasiaEmissor": "BRAZILIAN SECURITIES CIA SECURITIZACAO",
-      "nomeAgenteFiduciario": "OLIVEIRA TRUST DTVM S.A.",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública",
-      "codCETIP": "15I0673051",
-      "numSerie": 368,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 11.21,
-      "valorTotalOferta": 11.21,
-      "dataEmissao": "20/09/2015",
-      "descrIdentificacaoCRI": 155
     },
     {
       "codOferta": 1023,
