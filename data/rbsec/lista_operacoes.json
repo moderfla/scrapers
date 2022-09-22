@@ -13686,6 +13686,44 @@
     "agenciaRating": null
   },
   {
+    "id": 742,
+    "idOperacao": 755,
+    "codigoOpea": "CRI.56.CIA.1",
+    "nomeDevedor": "Alta Vista",
+    "indexador": "IPCA + 11.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2027-08-24T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22I0149798",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIE40",
+    "serie": 1,
+    "emissao": 56,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 11,
+    "agenciaRating": null
+  },
+  {
     "id": 423,
     "idOperacao": 439,
     "codigoOpea": "CRI.55.CIA.1",
