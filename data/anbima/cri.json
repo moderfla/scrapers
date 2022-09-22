@@ -3114,6 +3114,34 @@
       "descrIdentificacaoCRI": 1532
     },
     {
+      "codOferta": 1564,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 586,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 113.75,
+      "valorTotalOferta": 162.5,
+      "dataEmissao": "06/07/2021",
+      "descrIdentificacaoCRI": 1564
+    },
+    {
+      "codOferta": 1564,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 587,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 48.75,
+      "valorTotalOferta": 162.5,
+      "dataEmissao": "06/07/2021",
+      "descrIdentificacaoCRI": 1564
+    },
+    {
       "codOferta": 1546,
       "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
       "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
@@ -9300,6 +9328,34 @@
       "valorTotalOferta": 312.9,
       "dataEmissao": "13/09/2019",
       "descrIdentificacaoCRI": 1221
+    },
+    {
+      "codOferta": 1586,
+      "fantasiaEmissor": "LOGOS COMPANHIA SECURITIZADORA",
+      "nomeAgenteFiduciario": "PENTÁGONO S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 27,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 11.01,
+      "valorTotalOferta": 13.75,
+      "dataEmissao": "10/09/2019",
+      "descrIdentificacaoCRI": 1586
+    },
+    {
+      "codOferta": 1586,
+      "fantasiaEmissor": "LOGOS COMPANHIA SECURITIZADORA",
+      "nomeAgenteFiduciario": "PENTÁGONO S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 28,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 2.74,
+      "valorTotalOferta": 13.75,
+      "dataEmissao": "10/09/2019",
+      "descrIdentificacaoCRI": 1586
     },
     {
       "codOferta": 1219,
@@ -18276,20 +18332,6 @@
       "descrIdentificacaoCRI": 198
     },
     {
-      "codOferta": 167,
-      "fantasiaEmissor": "TRX SECURITIZADORA DE CREDIT IMOB",
-      "nomeAgenteFiduciario": "SIMPLIFIC PAVARINI DTVM LTDA.",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "16E0073000",
-      "numSerie": 15,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 5.43,
-      "valorTotalOferta": 5.43,
-      "dataEmissao": "04/05/2016",
-      "descrIdentificacaoCRI": 167
-    },
-    {
       "codOferta": 256,
       "fantasiaEmissor": "ALTERE PARTICIPACOES",
       "nomeAgenteFiduciario": "SLW CVC LTDA.",
@@ -18346,20 +18388,6 @@
       "descrIdentificacaoCRI": 168
     },
     {
-      "codOferta": 168,
-      "fantasiaEmissor": "PLANETA SECURITIZADORA SA",
-      "nomeAgenteFiduciario": "VÓRTX DTVM LTDA.",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "16D0718055",
-      "numSerie": 4,
-      "indTipoCRI": "Subordinada",
-      "valorGlobalSerie": 15.61,
-      "valorTotalOferta": 361.95,
-      "dataEmissao": "19/04/2016",
-      "descrIdentificacaoCRI": 168
-    },
-    {
       "codOferta": 169,
       "fantasiaEmissor": "CIBRASEC",
       "nomeAgenteFiduciario": "VÓRTX DTVM LTDA.",
@@ -18386,34 +18414,6 @@
       "valorTotalOferta": 3390.35,
       "dataEmissao": "19/04/2016",
       "descrIdentificacaoCRI": 169
-    },
-    {
-      "codOferta": 166,
-      "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
-      "nomeAgenteFiduciario": "VÓRTX DTVM LTDA.",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "16D0711168",
-      "numSerie": 127,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 31.02,
-      "valorTotalOferta": 31.02,
-      "dataEmissao": "17/04/2016",
-      "descrIdentificacaoCRI": 166
-    },
-    {
-      "codOferta": 165,
-      "fantasiaEmissor": "LOGOS COMPANHIA SECURITIZADORA",
-      "nomeAgenteFiduciario": "PENTÁGONO S.A. DTVM",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "16D0138913",
-      "numSerie": 7,
-      "indTipoCRI": "Sênior",
-      "valorGlobalSerie": 18.41,
-      "valorTotalOferta": 26.3,
-      "dataEmissao": "12/04/2016",
-      "descrIdentificacaoCRI": 165
     },
     {
       "codOferta": 255,
