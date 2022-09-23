@@ -6,6 +6,20 @@
   },
   "payload": [
     {
+      "codOferta": 1878,
+      "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 31,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22H1233582",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 216.47,
+      "valorTotalOferta": 216.47,
+      "dataEmissao": "17/08/2022",
+      "descrIdentificacaoCRI": 1878
+    },
+    {
       "codOferta": 1877,
       "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
       "nomeAgenteFiduciario": "SIMPLIFIC PAVARINI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
@@ -102,6 +116,20 @@
       "valorTotalOferta": 71.84,
       "dataEmissao": "22/07/2022",
       "descrIdentificacaoCRI": 1861
+    },
+    {
+      "codOferta": 1881,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 47,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22H0001210",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 26,
+      "valorTotalOferta": 26,
+      "dataEmissao": "22/07/2022",
+      "descrIdentificacaoCRI": 1881
     },
     {
       "codOferta": 1866,
@@ -18374,20 +18402,6 @@
       "descrIdentificacaoCRI": 193
     },
     {
-      "codOferta": 168,
-      "fantasiaEmissor": "PLANETA SECURITIZADORA SA",
-      "nomeAgenteFiduciario": "VÓRTX DTVM LTDA.",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "16D0718054",
-      "numSerie": 3,
-      "indTipoCRI": "Sênior",
-      "valorGlobalSerie": 346.34,
-      "valorTotalOferta": 361.95,
-      "dataEmissao": "19/04/2016",
-      "descrIdentificacaoCRI": 168
-    },
-    {
       "codOferta": 169,
       "fantasiaEmissor": "CIBRASEC",
       "nomeAgenteFiduciario": "VÓRTX DTVM LTDA.",
@@ -18397,20 +18411,6 @@
       "numSerie": 265,
       "indTipoCRI": "Sênior",
       "valorGlobalSerie": 2949.56,
-      "valorTotalOferta": 3390.35,
-      "dataEmissao": "19/04/2016",
-      "descrIdentificacaoCRI": 169
-    },
-    {
-      "codOferta": 169,
-      "fantasiaEmissor": "CIBRASEC",
-      "nomeAgenteFiduciario": "VÓRTX DTVM LTDA.",
-      "numEmissao": 2,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "16D0719080",
-      "numSerie": 266,
-      "indTipoCRI": "Subordinada",
-      "valorGlobalSerie": 402.18,
       "valorTotalOferta": 3390.35,
       "dataEmissao": "19/04/2016",
       "descrIdentificacaoCRI": 169
