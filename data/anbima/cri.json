@@ -1182,6 +1182,20 @@
       "descrIdentificacaoCRI": 1753
     },
     {
+      "codOferta": 1834,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 500,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 115,
+      "valorTotalOferta": 115,
+      "dataEmissao": "23/03/2022",
+      "descrIdentificacaoCRI": 1834
+    },
+    {
       "codOferta": 1749,
       "fantasiaEmissor": "BARI SECURITIZADORA S.A.",
       "nomeAgenteFiduciario": "OLIVEIRA TRUST DTVM S.A.",
@@ -2034,6 +2048,20 @@
       "valorTotalOferta": 72,
       "dataEmissao": "10/11/2021",
       "descrIdentificacaoCRI": 1839
+    },
+    {
+      "codOferta": 1835,
+      "fantasiaEmissor": "TRAVESSIA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 92,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 56,
+      "valorTotalOferta": 56,
+      "dataEmissao": "09/11/2021",
+      "descrIdentificacaoCRI": 1835
     },
     {
       "codOferta": 1646,
@@ -3338,6 +3366,132 @@
       "descrIdentificacaoCRI": 1656
     },
     {
+      "codOferta": 1726,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0950048",
+      "numSerie": 575,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 130.2,
+      "valorTotalOferta": 280,
+      "dataEmissao": "24/06/2021",
+      "descrIdentificacaoCRI": 1726
+    },
+    {
+      "codOferta": 1726,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0950049",
+      "numSerie": 576,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 12,
+      "valorTotalOferta": 280,
+      "dataEmissao": "24/06/2021",
+      "descrIdentificacaoCRI": 1726
+    },
+    {
+      "codOferta": 1726,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0950050",
+      "numSerie": 577,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 94.8,
+      "valorTotalOferta": 280,
+      "dataEmissao": "24/06/2021",
+      "descrIdentificacaoCRI": 1726
+    },
+    {
+      "codOferta": 1726,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0950051",
+      "numSerie": 578,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 18,
+      "valorTotalOferta": 280,
+      "dataEmissao": "24/06/2021",
+      "descrIdentificacaoCRI": 1726
+    },
+    {
+      "codOferta": 1726,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0950052",
+      "numSerie": 579,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 12,
+      "valorTotalOferta": 280,
+      "dataEmissao": "24/06/2021",
+      "descrIdentificacaoCRI": 1726
+    },
+    {
+      "codOferta": 1726,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0950067",
+      "numSerie": 580,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 3.6,
+      "valorTotalOferta": 280,
+      "dataEmissao": "24/06/2021",
+      "descrIdentificacaoCRI": 1726
+    },
+    {
+      "codOferta": 1726,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0950068",
+      "numSerie": 581,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 2.4,
+      "valorTotalOferta": 280,
+      "dataEmissao": "24/06/2021",
+      "descrIdentificacaoCRI": 1726
+    },
+    {
+      "codOferta": 1726,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0950069",
+      "numSerie": 582,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 4.2,
+      "valorTotalOferta": 280,
+      "dataEmissao": "24/06/2021",
+      "descrIdentificacaoCRI": 1726
+    },
+    {
+      "codOferta": 1726,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21F0950070",
+      "numSerie": 583,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 2.8,
+      "valorTotalOferta": 280,
+      "dataEmissao": "24/06/2021",
+      "descrIdentificacaoCRI": 1726
+    },
+    {
       "codOferta": 1528,
       "fantasiaEmissor": "HABITASEC SECURITIZADORA SA",
       "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
@@ -4372,6 +4526,20 @@
       "valorTotalOferta": 27.91,
       "dataEmissao": "19/02/2021",
       "descrIdentificacaoCRI": 1459
+    },
+    {
+      "codOferta": 1470,
+      "fantasiaEmissor": "TRAVESSIA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 48,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 60,
+      "valorTotalOferta": 60,
+      "dataEmissao": "19/02/2021",
+      "descrIdentificacaoCRI": 1470
     },
     {
       "codOferta": 1776,
@@ -5578,6 +5746,20 @@
       "descrIdentificacaoCRI": 1395
     },
     {
+      "codOferta": 1725,
+      "fantasiaEmissor": "TRAVESSIA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VORTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20I0784087",
+      "numSerie": 37,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 14.5,
+      "valorTotalOferta": 14.5,
+      "dataEmissao": "22/09/2020",
+      "descrIdentificacaoCRI": 1725
+    },
+    {
       "codOferta": 1768,
       "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
       "nomeAgenteFiduciario": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
@@ -6752,6 +6934,34 @@
       "valorTotalOferta": 131.75,
       "dataEmissao": "05/05/2020",
       "descrIdentificacaoCRI": 1303
+    },
+    {
+      "codOferta": 1838,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VORTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 295,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 31.16,
+      "valorTotalOferta": 61.58,
+      "dataEmissao": "05/05/2020",
+      "descrIdentificacaoCRI": 1838
+    },
+    {
+      "codOferta": 1838,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VORTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 296,
+      "indTipoCRI": "Subordinada",
+      "valorGlobalSerie": 40,
+      "valorTotalOferta": 61.58,
+      "dataEmissao": "05/05/2020",
+      "descrIdentificacaoCRI": 1838
     },
     {
       "codOferta": 1853,
@@ -17954,34 +18164,6 @@
       "descrIdentificacaoCRI": 217
     },
     {
-      "codOferta": 199,
-      "fantasiaEmissor": "TRX SECURITIZADORA DE CREDIT IMOB",
-      "nomeAgenteFiduciario": "SIMPLIFIC PAVARINI DTVM LTDA.",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "16I0881660",
-      "numSerie": 13,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 68.3,
-      "valorTotalOferta": 68.3,
-      "dataEmissao": "15/09/2016",
-      "descrIdentificacaoCRI": 199
-    },
-    {
-      "codOferta": 197,
-      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
-      "nomeAgenteFiduciario": "OLIVEIRA TRUST DTVM S.A.",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública",
-      "codCETIP": "16I0000002",
-      "numSerie": 73,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 140,
-      "valorTotalOferta": 140,
-      "dataEmissao": "14/09/2016",
-      "descrIdentificacaoCRI": 197
-    },
-    {
       "codOferta": 200,
       "fantasiaEmissor": "NOVA SECURITIZACAO",
       "nomeAgenteFiduciario": "VÓRTX DTVM LTDA.",
@@ -18008,34 +18190,6 @@
       "valorTotalOferta": 32.62,
       "dataEmissao": "05/09/2016",
       "descrIdentificacaoCRI": 207
-    },
-    {
-      "codOferta": 190,
-      "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
-      "nomeAgenteFiduciario": "PENTÁGONO S.A. DTVM",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "16H0248183",
-      "numSerie": 142,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 150,
-      "valorTotalOferta": 150,
-      "dataEmissao": "31/08/2016",
-      "descrIdentificacaoCRI": 190
-    },
-    {
-      "codOferta": 191,
-      "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
-      "nomeAgenteFiduciario": "PENTÁGONO S.A. DTVM",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "16H0248445",
-      "numSerie": 143,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 150,
-      "valorTotalOferta": 150,
-      "dataEmissao": "31/08/2016",
-      "descrIdentificacaoCRI": 191
     },
     {
       "codOferta": 286,
@@ -18206,20 +18360,6 @@
       "descrIdentificacaoCRI": 1184
     },
     {
-      "codOferta": 194,
-      "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
-      "nomeAgenteFiduciario": "PENTÁGONO S.A. DTVM",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública",
-      "codCETIP": "16G0000001",
-      "numSerie": 135,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 275,
-      "valorTotalOferta": 275,
-      "dataEmissao": "12/07/2016",
-      "descrIdentificacaoCRI": 194
-    },
-    {
       "codOferta": 201,
       "fantasiaEmissor": "PLANETA SECURITIZADORA SA",
       "nomeAgenteFiduciario": "VÓRTX DTVM LTDA.",
@@ -18232,20 +18372,6 @@
       "valorTotalOferta": 103.41,
       "dataEmissao": "12/07/2016",
       "descrIdentificacaoCRI": 201
-    },
-    {
-      "codOferta": 192,
-      "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
-      "nomeAgenteFiduciario": "PENTÁGONO S.A. DTVM",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "16G1479395",
-      "numSerie": 109,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 34.81,
-      "valorTotalOferta": 34.81,
-      "dataEmissao": "07/07/2016",
-      "descrIdentificacaoCRI": 192
     },
     {
       "codOferta": 213,
@@ -18274,20 +18400,6 @@
       "valorTotalOferta": 10.58,
       "dataEmissao": "27/06/2016",
       "descrIdentificacaoCRI": 372
-    },
-    {
-      "codOferta": 184,
-      "fantasiaEmissor": "CIBRASEC",
-      "nomeAgenteFiduciario": "PENTÁGONO S.A. DTVM",
-      "numEmissao": 2,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": null,
-      "numSerie": 269,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 3,
-      "valorTotalOferta": 3,
-      "dataEmissao": "17/06/2016",
-      "descrIdentificacaoCRI": 184
     },
     {
       "codOferta": 225,
@@ -18388,20 +18500,6 @@
       "descrIdentificacaoCRI": 268
     },
     {
-      "codOferta": 198,
-      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
-      "nomeAgenteFiduciario": "VÓRTX DTVM LTDA.",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "16E0062367",
-      "numSerie": 10,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 13,
-      "valorTotalOferta": 13,
-      "dataEmissao": "05/05/2016",
-      "descrIdentificacaoCRI": 198
-    },
-    {
       "codOferta": 256,
       "fantasiaEmissor": "ALTERE PARTICIPACOES",
       "nomeAgenteFiduciario": "SLW CVC LTDA.",
@@ -18414,20 +18512,6 @@
       "valorTotalOferta": 25,
       "dataEmissao": "04/05/2016",
       "descrIdentificacaoCRI": 256
-    },
-    {
-      "codOferta": 193,
-      "fantasiaEmissor": "CIBRASEC",
-      "nomeAgenteFiduciario": "VÓRTX DTVM LTDA.",
-      "numEmissao": 2,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "16D0719082",
-      "numSerie": 268,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 308.11,
-      "valorTotalOferta": 308.11,
-      "dataEmissao": "22/04/2016",
-      "descrIdentificacaoCRI": 193
     },
     {
       "codOferta": 255,
@@ -18498,20 +18582,6 @@
       "valorTotalOferta": 27.33,
       "dataEmissao": "19/02/2016",
       "descrIdentificacaoCRI": 267
-    },
-    {
-      "codOferta": 188,
-      "fantasiaEmissor": "RB CAPITAL COMPANHIA DE SECURITIZACAO",
-      "nomeAgenteFiduciario": "PENTÁGONO S.A. DTVM",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública",
-      "codCETIP": "16B0764930",
-      "numSerie": 122,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 183.79,
-      "valorTotalOferta": 183.79,
-      "dataEmissao": "07/02/2016",
-      "descrIdentificacaoCRI": 188
     },
     {
       "codOferta": 210,
@@ -18638,76 +18708,6 @@
       "valorTotalOferta": 24.46,
       "dataEmissao": "03/12/2015",
       "descrIdentificacaoCRI": 285
-    },
-    {
-      "codOferta": 186,
-      "fantasiaEmissor": "SCCI SECURITIZADORA DE CREDITOS IMOB",
-      "nomeAgenteFiduciario": "PENTÁGONO S.A. DTVM",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "15K0708738",
-      "numSerie": 21,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 60,
-      "valorTotalOferta": 60,
-      "dataEmissao": "30/11/2015",
-      "descrIdentificacaoCRI": 186
-    },
-    {
-      "codOferta": 196,
-      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
-      "nomeAgenteFiduciario": "PLANNER TRUSTEE DTVM LTDA.",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "15K0709237",
-      "numSerie": 9,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 9.2,
-      "valorTotalOferta": 9.2,
-      "dataEmissao": "30/11/2015",
-      "descrIdentificacaoCRI": 196
-    },
-    {
-      "codOferta": 187,
-      "fantasiaEmissor": "HABITASEC SECURITIZADORA SA",
-      "nomeAgenteFiduciario": "OLIVEIRA TRUST DTVM S.A.",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "15K0641039",
-      "numSerie": 63,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 100,
-      "valorTotalOferta": 100,
-      "dataEmissao": "26/11/2015",
-      "descrIdentificacaoCRI": 187
-    },
-    {
-      "codOferta": 185,
-      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
-      "nomeAgenteFiduciario": "PLANNER TRUSTEE DTVM LTDA.",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "15K0708758",
-      "numSerie": 6,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 1.7,
-      "valorTotalOferta": 1.7,
-      "dataEmissao": "20/11/2015",
-      "descrIdentificacaoCRI": 185
-    },
-    {
-      "codOferta": 195,
-      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
-      "nomeAgenteFiduciario": "PLANNER TRUSTEE DTVM LTDA.",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "15K0708763",
-      "numSerie": 7,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 10.5,
-      "valorTotalOferta": 10.5,
-      "dataEmissao": "20/11/2015",
-      "descrIdentificacaoCRI": 195
     },
     {
       "codOferta": 224,
