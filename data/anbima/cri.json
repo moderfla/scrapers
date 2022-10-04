@@ -10548,6 +10548,34 @@
       "descrIdentificacaoCRI": 1188
     },
     {
+      "codOferta": 1561,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VORTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 276,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 6.25,
+      "valorTotalOferta": 7.25,
+      "dataEmissao": "05/08/2019",
+      "descrIdentificacaoCRI": 1561
+    },
+    {
+      "codOferta": 1561,
+      "fantasiaEmissor": "FORTE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VORTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": null,
+      "numSerie": 277,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 2.5,
+      "valorTotalOferta": 7.25,
+      "dataEmissao": "05/08/2019",
+      "descrIdentificacaoCRI": 1561
+    },
+    {
       "codOferta": 1152,
       "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
       "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -18946,34 +18974,6 @@
       "valorTotalOferta": 47.8,
       "dataEmissao": "05/10/2015",
       "descrIdentificacaoCRI": 1024
-    },
-    {
-      "codOferta": 254,
-      "fantasiaEmissor": "ALTERE PARTICIPACOES",
-      "nomeAgenteFiduciario": "SLW CVC LTDA.",
-      "numEmissao": 2,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "15I0167469",
-      "numSerie": 3,
-      "indTipoCRI": "Sênior",
-      "valorGlobalSerie": 9,
-      "valorTotalOferta": 10.5,
-      "dataEmissao": "21/09/2015",
-      "descrIdentificacaoCRI": 254
-    },
-    {
-      "codOferta": 254,
-      "fantasiaEmissor": "ALTERE PARTICIPACOES",
-      "nomeAgenteFiduciario": "SLW CVC LTDA.",
-      "numEmissao": 2,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "15I0167481",
-      "numSerie": 4,
-      "indTipoCRI": "Sênior",
-      "valorGlobalSerie": 1.5,
-      "valorTotalOferta": 10.5,
-      "dataEmissao": "21/09/2015",
-      "descrIdentificacaoCRI": 254
     },
     {
       "codOferta": 1023,
