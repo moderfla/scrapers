@@ -14028,6 +14028,44 @@
     "agenciaRating": null
   },
   {
+    "id": 752,
+    "idOperacao": 765,
+    "codigoOpea": "CRI.65.CIA.1",
+    "nomeDevedor": "Zavit",
+    "indexador": "IPCA + 7.9500% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2032-09-05T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22I0247719",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIEC8 ",
+    "serie": 1,
+    "emissao": 65,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 7.95,
+    "agenciaRating": null
+  },
+  {
     "id": 4,
     "idOperacao": 4,
     "codigoOpea": "CRA.1.CIA.4",
