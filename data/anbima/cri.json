@@ -132,6 +132,20 @@
       "descrIdentificacaoCRI": 1891
     },
     {
+      "codOferta": 1897,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 67,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22H1170498",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 150,
+      "valorTotalOferta": 150,
+      "dataEmissao": "15/08/2022",
+      "descrIdentificacaoCRI": 1897
+    },
+    {
       "codOferta": 1876,
       "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
       "nomeAgenteFiduciario": "PENTÁGONO S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
@@ -18848,20 +18862,6 @@
       "valorTotalOferta": 10.58,
       "dataEmissao": "27/06/2016",
       "descrIdentificacaoCRI": 372
-    },
-    {
-      "codOferta": 268,
-      "fantasiaEmissor": "POLO CAPITAL SECURITIZADORA SA",
-      "nomeAgenteFiduciario": "PENTÁGONO S.A. DTVM",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "16E0124944",
-      "numSerie": 37,
-      "indTipoCRI": "Sênior",
-      "valorGlobalSerie": 13.73,
-      "valorTotalOferta": 17.5,
-      "dataEmissao": "09/05/2016",
-      "descrIdentificacaoCRI": 268
     },
     {
       "codOferta": 355,
