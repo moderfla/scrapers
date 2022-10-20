@@ -22210,6 +22210,48 @@
     "agenciaRating": null
   },
   {
+    "id": 699,
+    "idOperacao": 711,
+    "codigoOpea": "CRA.32.PLS.1",
+    "nomeDevedor": "MEGAPRODUTORES BB ",
+    "indexador": "CDI + 2.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2025-06-15T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "PLANETASEC ASSESSORIA FINANCEIRA LTDA.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA022006N8",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Público",
+    "isin": "BRGAIACRA1A4",
+    "serie": 1,
+    "emissao": 32,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 2.5,
+    "agenciaRating": null
+  },
+  {
     "id": 544,
     "idOperacao": 560,
     "codigoOpea": "CRA.45.CIA.1",
@@ -27360,47 +27402,5 @@
     "percentualFlutuante": 100,
     "taxaJuros": 1.5,
     "agenciaRating": "Moodys"
-  },
-  {
-    "id": 699,
-    "idOperacao": 711,
-    "codigoOpea": "CRA.32.PLS.1",
-    "nomeDevedor": "MEGAPRODUTORES BB ",
-    "indexador": "CDI + 2.5000% a.a.",
-    "precoUnitario": null,
-    "dataVencimento": "2025-06-15T00:00:00",
-    "status": null,
-    "statusPassivoOperacao": {
-      "key": 5,
-      "value": "Estruturação",
-      "raw": "Estruturacao"
-    },
-    "garantiaReal": null,
-    "fundos": null,
-    "rating": null,
-    "servicer": [],
-    "masterService": "PLANETASEC ASSESSORIA FINANCEIRA LTDA.",
-    "concentracao": "Concentrado",
-    "oferta": "ICVM476",
-    "descricaoSegmento": null,
-    "codigoIf": "CRA022006N8",
-    "tipoIndexador": "CDI",
-    "naturezaOperacao": "Público",
-    "isin": "BRGAIACRA1A4",
-    "serie": 1,
-    "emissao": 32,
-    "tipoPagamento": {
-      "key": 2,
-      "value": "Flutuante",
-      "raw": "Flutuante"
-    },
-    "taxaPosFixada": {
-      "key": 1,
-      "value": "CDI",
-      "raw": "CDI"
-    },
-    "percentualFlutuante": 100,
-    "taxaJuros": 2.5,
-    "agenciaRating": null
   }
 ]
