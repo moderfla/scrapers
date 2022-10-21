@@ -15790,6 +15790,44 @@
     "agenciaRating": null
   },
   {
+    "id": 499,
+    "idOperacao": 515,
+    "codigoOpea": "CRI.27.CIA.3",
+    "nomeDevedor": "Salinas",
+    "indexador": "IPCA + 10.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2028-05-24T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22F0636862",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRICH1",
+    "serie": 3,
+    "emissao": 27,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 10,
+    "agenciaRating": null
+  },
+  {
     "id": 500,
     "idOperacao": 516,
     "codigoOpea": "CRI.15.CIA.1",
@@ -18449,6 +18487,48 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 12,
+    "agenciaRating": null
+  },
+  {
+    "id": 764,
+    "idOperacao": 777,
+    "codigoOpea": "CRI.68.CIA.1",
+    "nomeDevedor": "Arquiplan",
+    "indexador": "CDI + 5.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2026-10-22T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22J0346032",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Residencial",
+    "isin": "BRRBRACRIEP0",
+    "serie": 1,
+    "emissao": 68,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 5,
     "agenciaRating": null
   },
   {
