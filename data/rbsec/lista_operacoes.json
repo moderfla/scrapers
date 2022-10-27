@@ -6120,6 +6120,44 @@
     "agenciaRating": null
   },
   {
+    "id": 759,
+    "idOperacao": 772,
+    "codigoOpea": "CRI.4.PLS.129",
+    "nomeDevedor": "Selina I",
+    "indexador": "0.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2040-04-20T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "PLANETASERV ASSESSORIA FINANCEIRA LTDA",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "19K1145463",
+    "tipoIndexador": "Prefixado",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRGAIACRI493",
+    "serie": 129,
+    "emissao": 4,
+    "tipoPagamento": {
+      "key": 1,
+      "value": "Prefixado",
+      "raw": "Prefixado"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 0,
+    "agenciaRating": null
+  },
+  {
     "id": 207,
     "idOperacao": 223,
     "codigoOpea": "CRI.1.CIA.237",
@@ -8427,6 +8465,44 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 8.6974,
+    "agenciaRating": null
+  },
+  {
+    "id": 760,
+    "idOperacao": 773,
+    "codigoOpea": "CRI.4.PLS.165",
+    "nomeDevedor": "Selina III",
+    "indexador": "0.0001% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2042-02-07T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "PLANETASEC ASSESSORIA FINANCEIRA LTDA.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "20L0523180",
+    "tipoIndexador": "Prefixado",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRGAIACRI543",
+    "serie": 165,
+    "emissao": 4,
+    "tipoPagamento": {
+      "key": 1,
+      "value": "Prefixado",
+      "raw": "Prefixado"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 0.0001,
     "agenciaRating": null
   },
   {
@@ -13055,6 +13131,44 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 6.4,
+    "agenciaRating": null
+  },
+  {
+    "id": 761,
+    "idOperacao": 774,
+    "codigoOpea": "CRI.4.PLS.216",
+    "nomeDevedor": "Selina IV",
+    "indexador": "0.0001% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2043-02-11T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "PLANETASEC ASSESSORIA FINANCEIRA LTDA.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "21K0939348",
+    "tipoIndexador": "Prefixado",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRGAIACRI6I8",
+    "serie": 216,
+    "emissao": 4,
+    "tipoPagamento": {
+      "key": 1,
+      "value": "Prefixado",
+      "raw": "Prefixado"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 0.0001,
     "agenciaRating": null
   },
   {
@@ -24860,6 +24974,48 @@
     "agenciaRating": null
   },
   {
+    "id": 567,
+    "idOperacao": 583,
+    "codigoOpea": "CRA.16.PLS.1",
+    "nomeDevedor": "UMOE",
+    "indexador": "CDI + 3.4000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2022-08-18T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 2,
+      "value": "Quitada",
+      "raw": "Quitada"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "PLANETASEC ASSESSORIA FINANCEIRA LTDA.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA0190053R",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRGAIACRA0E8",
+    "serie": 1,
+    "emissao": 16,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 3.4,
+    "agenciaRating": null
+  },
+  {
     "id": 237,
     "idOperacao": 253,
     "codigoOpea": "CRA.11.CIA.1",
@@ -26730,6 +26886,44 @@
     "agenciaRating": null
   },
   {
+    "id": 563,
+    "idOperacao": 579,
+    "codigoOpea": "CRI.4.PLS.209",
+    "nomeDevedor": "DIÁLOGO IV",
+    "indexador": "INCCM + 0.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2022-06-15T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 3,
+      "value": "Resgatada",
+      "raw": "Resgatada"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "PLANETASERV ASSESSORIA FINANCEIRA LTDA",
+    "concentracao": "Pulverizada",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "21K0908237",
+    "tipoIndexador": "INCCM",
+    "naturezaOperacao": "Residencial",
+    "isin": "BRGAIACRI6B3",
+    "serie": 209,
+    "emissao": 4,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 0,
+    "agenciaRating": null
+  },
+  {
     "id": 189,
     "idOperacao": 205,
     "codigoOpea": "CRA.6.CIA.1",
@@ -26770,6 +26964,48 @@
     "percentualFlutuante": 100,
     "taxaJuros": 2,
     "agenciaRating": null
+  },
+  {
+    "id": 589,
+    "idOperacao": 605,
+    "codigoOpea": "CRA.29.PLS.1",
+    "nomeDevedor": "BASF V",
+    "indexador": "CDI + 1.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2022-07-11T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 3,
+      "value": "Resgatada",
+      "raw": "Resgatada"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": "Aaa",
+    "servicer": [],
+    "masterService": "PLANETASEC ASSESSORIA FINANCEIRA LTDA.",
+    "concentracao": "Pulverizada",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA02100549",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Híbrido",
+    "isin": "",
+    "serie": 1,
+    "emissao": 29,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 1.5,
+    "agenciaRating": "Moodys"
   },
   {
     "id": 298,
@@ -27398,127 +27634,5 @@
     "percentualFlutuante": null,
     "taxaJuros": null,
     "agenciaRating": null
-  },
-  {
-    "id": 563,
-    "idOperacao": 579,
-    "codigoOpea": "CRI.4.PLS.209",
-    "nomeDevedor": "DIÁLOGO IV",
-    "indexador": "INCCM + 0.0000% a.a.",
-    "precoUnitario": null,
-    "dataVencimento": "2024-11-15T00:00:00",
-    "status": null,
-    "statusPassivoOperacao": {
-      "key": 5,
-      "value": "Estruturação",
-      "raw": "Estruturacao"
-    },
-    "garantiaReal": null,
-    "fundos": null,
-    "rating": null,
-    "servicer": [],
-    "masterService": "PLANETASERV ASSESSORIA FINANCEIRA LTDA",
-    "concentracao": "Pulverizada",
-    "oferta": "ICVM476",
-    "descricaoSegmento": null,
-    "codigoIf": "21K0908237",
-    "tipoIndexador": "INCCM",
-    "naturezaOperacao": "Residencial",
-    "isin": "BRGAIACRI6B3",
-    "serie": 209,
-    "emissao": 4,
-    "tipoPagamento": {
-      "key": 3,
-      "value": "Correção Monetária",
-      "raw": "CorrecaoMonetaria"
-    },
-    "taxaPosFixada": null,
-    "percentualFlutuante": null,
-    "taxaJuros": 0,
-    "agenciaRating": null
-  },
-  {
-    "id": 567,
-    "idOperacao": 583,
-    "codigoOpea": "CRA.16.PLS.1",
-    "nomeDevedor": "UMOE",
-    "indexador": "CDI + 3.4000% a.a.",
-    "precoUnitario": null,
-    "dataVencimento": "2022-08-18T00:00:00",
-    "status": null,
-    "statusPassivoOperacao": {
-      "key": 5,
-      "value": "Estruturação",
-      "raw": "Estruturacao"
-    },
-    "garantiaReal": null,
-    "fundos": null,
-    "rating": null,
-    "servicer": [],
-    "masterService": null,
-    "concentracao": "Concentrado",
-    "oferta": "ICVM476",
-    "descricaoSegmento": null,
-    "codigoIf": "CRA0190053R",
-    "tipoIndexador": "CDI",
-    "naturezaOperacao": "Corporativo",
-    "isin": "BRGAIACRA0E8",
-    "serie": 1,
-    "emissao": 16,
-    "tipoPagamento": {
-      "key": 2,
-      "value": "Flutuante",
-      "raw": "Flutuante"
-    },
-    "taxaPosFixada": {
-      "key": 1,
-      "value": "CDI",
-      "raw": "CDI"
-    },
-    "percentualFlutuante": 100,
-    "taxaJuros": 3.4,
-    "agenciaRating": null
-  },
-  {
-    "id": 589,
-    "idOperacao": 605,
-    "codigoOpea": "CRA.29.PLS.1",
-    "nomeDevedor": "BASF V",
-    "indexador": "CDI + 1.5000% a.a.",
-    "precoUnitario": null,
-    "dataVencimento": "2023-01-11T00:00:00",
-    "status": null,
-    "statusPassivoOperacao": {
-      "key": 5,
-      "value": "Estruturação",
-      "raw": "Estruturacao"
-    },
-    "garantiaReal": null,
-    "fundos": null,
-    "rating": "Aaa",
-    "servicer": [],
-    "masterService": "PLANETASEC ASSESSORIA FINANCEIRA LTDA.",
-    "concentracao": "Pulverizada",
-    "oferta": "ICVM476",
-    "descricaoSegmento": null,
-    "codigoIf": "CRA02100549",
-    "tipoIndexador": "CDI",
-    "naturezaOperacao": "Híbrido",
-    "isin": "",
-    "serie": 1,
-    "emissao": 29,
-    "tipoPagamento": {
-      "key": 2,
-      "value": "Flutuante",
-      "raw": "Flutuante"
-    },
-    "taxaPosFixada": {
-      "key": 1,
-      "value": "CDI",
-      "raw": "CDI"
-    },
-    "percentualFlutuante": 100,
-    "taxaJuros": 1.5,
-    "agenciaRating": "Moodys"
   }
 ]
