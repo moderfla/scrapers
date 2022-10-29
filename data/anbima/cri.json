@@ -6,6 +6,34 @@
   },
   "payload": [
     {
+      "codOferta": 1903,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "PENTÁGONO S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "numEmissao": 32,
+      "indTipoOferta": "Pública",
+      "codCETIP": "22E1095384",
+      "numSerie": 1,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 347.92,
+      "valorTotalOferta": 550,
+      "dataEmissao": "09/09/2022",
+      "descrIdentificacaoCRI": 1903
+    },
+    {
+      "codOferta": 1903,
+      "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "PENTÁGONO S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "numEmissao": 32,
+      "indTipoOferta": "Pública",
+      "codCETIP": "22E1095521",
+      "numSerie": 2,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 202.07,
+      "valorTotalOferta": 550,
+      "dataEmissao": "09/09/2022",
+      "descrIdentificacaoCRI": 1903
+    },
+    {
       "codOferta": 1898,
       "fantasiaEmissor": "TRUE SECURITIZADORA S.A.",
       "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -6304,6 +6332,20 @@
       "valorTotalOferta": 35,
       "dataEmissao": "13/10/2020",
       "descrIdentificacaoCRI": 1416
+    },
+    {
+      "codOferta": 1911,
+      "fantasiaEmissor": "AGB CASA DE PEDRA SECURITIZADORA",
+      "nomeAgenteFiduciario": "SIMPLIFIC PAVARINI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "20J0514106",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 30.5,
+      "valorTotalOferta": 23.8,
+      "dataEmissao": "09/10/2020",
+      "descrIdentificacaoCRI": 1911
     },
     {
       "codOferta": 1418,
@@ -18918,48 +18960,6 @@
       "valorTotalOferta": 10.76,
       "dataEmissao": "15/12/2015",
       "descrIdentificacaoCRI": 295
-    },
-    {
-      "codOferta": 285,
-      "fantasiaEmissor": "POLO CAPITAL SECURITIZADORA SA",
-      "nomeAgenteFiduciario": "OLIVEIRA TRUST DTVM S.A.",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "15L0542300",
-      "numSerie": 31,
-      "indTipoCRI": "Sênior",
-      "valorGlobalSerie": 19.43,
-      "valorTotalOferta": 24.46,
-      "dataEmissao": "03/12/2015",
-      "descrIdentificacaoCRI": 285
-    },
-    {
-      "codOferta": 285,
-      "fantasiaEmissor": "POLO CAPITAL SECURITIZADORA SA",
-      "nomeAgenteFiduciario": "OLIVEIRA TRUST DTVM S.A.",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "15L0542301",
-      "numSerie": 32,
-      "indTipoCRI": "Mezanino",
-      "valorGlobalSerie": 4.3,
-      "valorTotalOferta": 24.46,
-      "dataEmissao": "03/12/2015",
-      "descrIdentificacaoCRI": 285
-    },
-    {
-      "codOferta": 285,
-      "fantasiaEmissor": "POLO CAPITAL SECURITIZADORA SA",
-      "nomeAgenteFiduciario": "OLIVEIRA TRUST DTVM S.A.",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "15L0542303",
-      "numSerie": 33,
-      "indTipoCRI": "Subordinada",
-      "valorGlobalSerie": 0.73,
-      "valorTotalOferta": 24.46,
-      "dataEmissao": "03/12/2015",
-      "descrIdentificacaoCRI": 285
     },
     {
       "codOferta": 297,
