@@ -422,48 +422,6 @@
     "agenciaRating": "Fitch Ratings"
   },
   {
-    "id": 131,
-    "idOperacao": 131,
-    "codigoOpea": "CRI.1.SEC.79",
-    "nomeDevedor": "BRFoods",
-    "indexador": "IPCA + 6.5124% a.a.",
-    "precoUnitario": null,
-    "dataVencimento": "2022-11-05T00:00:00",
-    "status": null,
-    "statusPassivoOperacao": {
-      "key": 1,
-      "value": "Ativa",
-      "raw": "Ativa"
-    },
-    "garantiaReal": null,
-    "fundos": null,
-    "rating": null,
-    "servicer": [],
-    "masterService": "Opea Capital S.A.",
-    "concentracao": "Concentrado",
-    "oferta": "ICVM476",
-    "descricaoSegmento": null,
-    "codigoIf": "11K0025322",
-    "tipoIndexador": "IPCA",
-    "naturezaOperacao": "Corporativo",
-    "isin": "BRRBCSCRI2K5",
-    "serie": 79,
-    "emissao": 1,
-    "tipoPagamento": {
-      "key": 3,
-      "value": "Correção Monetária",
-      "raw": "CorrecaoMonetaria"
-    },
-    "taxaPosFixada": {
-      "key": 0,
-      "value": null,
-      "raw": "0"
-    },
-    "percentualFlutuante": null,
-    "taxaJuros": 6.5124,
-    "agenciaRating": null
-  },
-  {
     "id": 134,
     "idOperacao": 134,
     "codigoOpea": "CRI.1.SEC.85",
@@ -1242,13 +1200,13 @@
     "agenciaRating": null
   },
   {
-    "id": 34,
-    "idOperacao": 34,
-    "codigoOpea": "CRI.1.CIA.89",
-    "nomeDevedor": "Volkswagen",
-    "indexador": "IPCA + 6.1700% a.a.",
+    "id": 678,
+    "idOperacao": 692,
+    "codigoOpea": "CRI.4.PLS.54",
+    "nomeDevedor": "VALPARAIZO",
+    "indexador": "CDI + 4.2500% a.a.",
     "precoUnitario": null,
-    "dataVencimento": "2029-01-17T00:00:00",
+    "dataVencimento": "2023-07-14T00:00:00",
     "status": null,
     "statusPassivoOperacao": {
       "key": 1,
@@ -1259,28 +1217,28 @@
     "fundos": null,
     "rating": null,
     "servicer": [],
-    "masterService": "Opea Capital S.A.",
+    "masterService": "PLANETASEC ASSESSORIA FINANCEIRA LTDA.",
     "concentracao": "Concentrado",
     "oferta": "ICVM476",
     "descricaoSegmento": null,
-    "codigoIf": "13F0062455",
-    "tipoIndexador": "IPCA",
+    "codigoIf": "13D0463615",
+    "tipoIndexador": "CDI",
     "naturezaOperacao": "Corporativo",
-    "isin": "BRRBRACRI2B7",
-    "serie": 89,
-    "emissao": 1,
+    "isin": "BRGAIACRI360",
+    "serie": 54,
+    "emissao": 4,
     "tipoPagamento": {
-      "key": 3,
-      "value": "Correção Monetária",
-      "raw": "CorrecaoMonetaria"
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
     },
     "taxaPosFixada": {
-      "key": 0,
-      "value": null,
-      "raw": "0"
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
     },
-    "percentualFlutuante": null,
-    "taxaJuros": 6.17,
+    "percentualFlutuante": 100,
+    "taxaJuros": 4.25,
     "agenciaRating": null
   },
   {
@@ -18996,6 +18954,86 @@
     "agenciaRating": null
   },
   {
+    "id": 771,
+    "idOperacao": 784,
+    "codigoOpea": "CRI.79.CIA.1",
+    "nomeDevedor": "Agrícola Alvorada",
+    "indexador": "CDI + 4.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2030-10-30T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22J1107076",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIEY2 ",
+    "serie": 1,
+    "emissao": 79,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 4,
+    "agenciaRating": null
+  },
+  {
+    "id": 774,
+    "idOperacao": 787,
+    "codigoOpea": "CRI.1.CIA.514",
+    "nomeDevedor": "Creditu",
+    "indexador": "IPCA + 7.3000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2052-02-16T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22J1381882",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIEZ9",
+    "serie": 514,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 7.3,
+    "agenciaRating": null
+  },
+  {
     "id": 4,
     "idOperacao": 4,
     "codigoOpea": "CRA.1.CIA.4",
@@ -23174,6 +23212,48 @@
     "agenciaRating": null
   },
   {
+    "id": 767,
+    "idOperacao": 780,
+    "codigoOpea": "CRA.56.CIA.1",
+    "nomeDevedor": "Girassol Agrícola",
+    "indexador": "CDI + 2.4000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2026-10-19T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA02200AHU",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRA2E9",
+    "serie": 1,
+    "emissao": 56,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 2.4,
+    "agenciaRating": null
+  },
+  {
     "id": 768,
     "idOperacao": 781,
     "codigoOpea": "CRA.56.CIA.2",
@@ -23731,6 +23811,48 @@
     },
     "percentualFlutuante": null,
     "taxaJuros": 6.5434,
+    "agenciaRating": null
+  },
+  {
+    "id": 131,
+    "idOperacao": 131,
+    "codigoOpea": "CRI.1.SEC.79",
+    "nomeDevedor": "BRFoods",
+    "indexador": "IPCA + 6.5124% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2022-11-05T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 2,
+      "value": "Quitada",
+      "raw": "Quitada"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "11K0025322",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBCSCRI2K5",
+    "serie": 79,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": {
+      "key": 0,
+      "value": null,
+      "raw": "0"
+    },
+    "percentualFlutuante": null,
+    "taxaJuros": 6.5124,
     "agenciaRating": null
   },
   {
@@ -26034,6 +26156,48 @@
     "agenciaRating": null
   },
   {
+    "id": 34,
+    "idOperacao": 34,
+    "codigoOpea": "CRI.1.CIA.89",
+    "nomeDevedor": "Volkswagen",
+    "indexador": "IPCA + 6.1700% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2029-01-17T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 3,
+      "value": "Resgatada",
+      "raw": "Resgatada"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "13F0062455",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRI2B7",
+    "serie": 89,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": {
+      "key": 0,
+      "value": null,
+      "raw": "0"
+    },
+    "percentualFlutuante": null,
+    "taxaJuros": 6.17,
+    "agenciaRating": null
+  },
+  {
     "id": 39,
     "idOperacao": 39,
     "codigoOpea": "CRI.1.CIA.96",
@@ -27751,48 +27915,6 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 7,
-    "agenciaRating": null
-  },
-  {
-    "id": 678,
-    "idOperacao": 692,
-    "codigoOpea": "CRI.4.PLS.54",
-    "nomeDevedor": "VALPARAIZO",
-    "indexador": "CDI + 4.2500% a.a.",
-    "precoUnitario": null,
-    "dataVencimento": "2023-07-14T00:00:00",
-    "status": null,
-    "statusPassivoOperacao": {
-      "key": 5,
-      "value": "Estruturação",
-      "raw": "Estruturacao"
-    },
-    "garantiaReal": null,
-    "fundos": null,
-    "rating": null,
-    "servicer": [],
-    "masterService": "PLANETASEC ASSESSORIA FINANCEIRA LTDA.",
-    "concentracao": "Concentrado",
-    "oferta": "ICVM476",
-    "descricaoSegmento": null,
-    "codigoIf": "13D0463615",
-    "tipoIndexador": "CDI",
-    "naturezaOperacao": "Corporativo",
-    "isin": "BRGAIACRI360",
-    "serie": 54,
-    "emissao": 4,
-    "tipoPagamento": {
-      "key": 2,
-      "value": "Flutuante",
-      "raw": "Flutuante"
-    },
-    "taxaPosFixada": {
-      "key": 1,
-      "value": "CDI",
-      "raw": "CDI"
-    },
-    "percentualFlutuante": 100,
-    "taxaJuros": 4.25,
     "agenciaRating": null
   },
   {
