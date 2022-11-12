@@ -8160,6 +8160,44 @@
     "agenciaRating": null
   },
   {
+    "id": 629,
+    "idOperacao": 645,
+    "codigoOpea": "CRI.4.PLS.166",
+    "nomeDevedor": "MAPFRE II",
+    "indexador": "IPCA + 5.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2026-12-25T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "PLANETASEC ASSESSORIA FINANCEIRA LTDA.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "20K0115319",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "20K0115319",
+    "serie": 166,
+    "emissao": 4,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 5,
+    "agenciaRating": null
+  },
+  {
     "id": 266,
     "idOperacao": 282,
     "codigoOpea": "CRI.1.CIA.295",
@@ -27915,44 +27953,6 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 7,
-    "agenciaRating": null
-  },
-  {
-    "id": 629,
-    "idOperacao": 645,
-    "codigoOpea": "CRI.4.PLS.166",
-    "nomeDevedor": "MAPFRE II",
-    "indexador": "IPCA + 5.0000% a.a.",
-    "precoUnitario": null,
-    "dataVencimento": "2026-12-25T00:00:00",
-    "status": null,
-    "statusPassivoOperacao": {
-      "key": 5,
-      "value": "Estruturação",
-      "raw": "Estruturacao"
-    },
-    "garantiaReal": null,
-    "fundos": null,
-    "rating": null,
-    "servicer": [],
-    "masterService": "PLANETASEC ASSESSORIA FINANCEIRA LTDA.",
-    "concentracao": "Concentrado",
-    "oferta": "ICVM476",
-    "descricaoSegmento": null,
-    "codigoIf": "20K0115319",
-    "tipoIndexador": "IPCA",
-    "naturezaOperacao": "Corporativo",
-    "isin": "20K0115319",
-    "serie": 166,
-    "emissao": 4,
-    "tipoPagamento": {
-      "key": 3,
-      "value": "Correção Monetária",
-      "raw": "CorrecaoMonetaria"
-    },
-    "taxaPosFixada": null,
-    "percentualFlutuante": null,
-    "taxaJuros": 5,
     "agenciaRating": null
   },
   {
