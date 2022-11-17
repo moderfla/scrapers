@@ -272,6 +272,20 @@
       "descrIdentificacaoCRI": 1878
     },
     {
+      "codOferta": 1895,
+      "fantasiaEmissor": "BARI SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "numEmissao": 8,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22H1104501",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 142.6,
+      "valorTotalOferta": 142.6,
+      "dataEmissao": "17/08/2022",
+      "descrIdentificacaoCRI": 1895
+    },
+    {
       "codOferta": 1877,
       "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
       "nomeAgenteFiduciario": "SIMPLIFIC PAVARINI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
@@ -18355,20 +18369,6 @@
       "numSerie": 51,
       "indTipoCRI": "Mezanino",
       "valorGlobalSerie": 4.75,
-      "valorTotalOferta": 22.99,
-      "dataEmissao": "24/03/2017",
-      "descrIdentificacaoCRI": 290
-    },
-    {
-      "codOferta": 290,
-      "fantasiaEmissor": "POLO CAPITAL SECURITIZADORA SA",
-      "nomeAgenteFiduciario": "PENTÁGONO S.A. DTVM",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "17C0997587",
-      "numSerie": 52,
-      "indTipoCRI": "Subordinada",
-      "valorGlobalSerie": 1.14,
       "valorTotalOferta": 22.99,
       "dataEmissao": "24/03/2017",
       "descrIdentificacaoCRI": 290
