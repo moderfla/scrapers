@@ -16586,6 +16586,44 @@
     "agenciaRating": null
   },
   {
+    "id": 514,
+    "idOperacao": 530,
+    "codigoOpea": "CRI.33.CIA.5",
+    "nomeDevedor": "JHSF Boa Vista",
+    "indexador": "IPCA + 2.7500% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2034-06-27T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22F1195743",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRICV2",
+    "serie": 5,
+    "emissao": 33,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 2.75,
+    "agenciaRating": null
+  },
+  {
     "id": 512,
     "idOperacao": 528,
     "codigoOpea": "CRI.33.CIA.6",
@@ -18996,6 +19034,44 @@
     "agenciaRating": null
   },
   {
+    "id": 773,
+    "idOperacao": 786,
+    "codigoOpea": "CRI.62.CIA.1",
+    "nomeDevedor": "Maraú Mar Residence",
+    "indexador": "IPCA + 11.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2031-10-20T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Pulverizada",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22J1285684",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Residencial",
+    "isin": "BRRBRACRIEV8",
+    "serie": 1,
+    "emissao": 62,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 11,
+    "agenciaRating": null
+  },
+  {
     "id": 774,
     "idOperacao": 787,
     "codigoOpea": "CRI.1.CIA.514",
@@ -19031,6 +19107,132 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 7.3,
+    "agenciaRating": null
+  },
+  {
+    "id": 782,
+    "idOperacao": 795,
+    "codigoOpea": "CRI.77.CIA.1",
+    "nomeDevedor": "Bacio di Latte",
+    "indexador": "CDI + 3.2500% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2029-04-19T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22J1410500",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRA2H2",
+    "serie": 1,
+    "emissao": 77,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 3.25,
+    "agenciaRating": null
+  },
+  {
+    "id": 783,
+    "idOperacao": 796,
+    "codigoOpea": "CRI.1.CIA.540",
+    "nomeDevedor": "Dublin",
+    "indexador": "CDI + 3.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2024-11-01T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22K0075397",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRARBRCRI010",
+    "serie": 540,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 3.5,
+    "agenciaRating": null
+  },
+  {
+    "id": 784,
+    "idOperacao": 797,
+    "codigoOpea": "CRI.82.CIA.1",
+    "nomeDevedor": "Pernambucanas",
+    "indexador": "CDI + 2.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2029-11-09T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22K0640841",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIF56",
+    "serie": 1,
+    "emissao": 82,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 2.5,
     "agenciaRating": null
   },
   {
@@ -23289,6 +23491,48 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 7.9854,
+    "agenciaRating": null
+  },
+  {
+    "id": 770,
+    "idOperacao": 783,
+    "codigoOpea": "CRA.46.CIA.1",
+    "nomeDevedor": "Dacalda",
+    "indexador": "CDI + 4.2500% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2028-10-19T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA02200AYH",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRA2G4 ",
+    "serie": 1,
+    "emissao": 46,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 4.25,
     "agenciaRating": null
   },
   {
