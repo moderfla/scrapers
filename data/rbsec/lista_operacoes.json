@@ -11408,6 +11408,44 @@
     "agenciaRating": null
   },
   {
+    "id": 779,
+    "idOperacao": 792,
+    "codigoOpea": "CRI.4.PLS.198",
+    "nomeDevedor": "VILLAREDO",
+    "indexador": "IPCA + 9.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2035-12-20T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "ARKE SERVIÇOS ADMINISTRATIVOS E RECUPERAÇÃO DE CRÉDITO LTDA.",
+    "concentracao": "Pulverizada",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "21H0849974",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Residencial",
+    "isin": "BRGAIACRI5T7",
+    "serie": 198,
+    "emissao": 4,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 9,
+    "agenciaRating": null
+  },
+  {
     "id": 340,
     "idOperacao": 356,
     "codigoOpea": "CRI.1.CIA.374",
@@ -19107,6 +19145,48 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 7.3,
+    "agenciaRating": null
+  },
+  {
+    "id": 780,
+    "idOperacao": 793,
+    "codigoOpea": "CRI.73.CIA.1",
+    "nomeDevedor": "Suprema",
+    "indexador": "CDI + 4.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2030-10-21T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22J1408006",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIF31",
+    "serie": 1,
+    "emissao": 73,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 4,
     "agenciaRating": null
   },
   {
