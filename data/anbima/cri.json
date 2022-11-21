@@ -6,6 +6,20 @@
   },
   "payload": [
     {
+      "codOferta": 1913,
+      "fantasiaEmissor": "OPEA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A",
+      "numEmissao": 60,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22J0215470",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 43.79,
+      "valorTotalOferta": 43.79,
+      "dataEmissao": "07/10/2022",
+      "descrIdentificacaoCRI": 1913
+    },
+    {
       "codOferta": 1918,
       "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
       "nomeAgenteFiduciario": "SIMPLIFIC PAVARINI DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS SA",
@@ -46,6 +60,20 @@
       "valorTotalOferta": 1050,
       "dataEmissao": "06/10/2022",
       "descrIdentificacaoCRI": 1918
+    },
+    {
+      "codOferta": 1920,
+      "fantasiaEmissor": "BARI SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "numEmissao": 11,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "22J0070697",
+      "numSerie": 1,
+      "indTipoCRI": "Série Única",
+      "valorGlobalSerie": 39.28,
+      "valorTotalOferta": 39.28,
+      "dataEmissao": "05/10/2022",
+      "descrIdentificacaoCRI": 1920
     },
     {
       "codOferta": 1912,
@@ -18344,34 +18372,6 @@
       "valorTotalOferta": 112.74,
       "dataEmissao": "04/04/2017",
       "descrIdentificacaoCRI": 1362
-    },
-    {
-      "codOferta": 290,
-      "fantasiaEmissor": "POLO CAPITAL SECURITIZADORA SA",
-      "nomeAgenteFiduciario": "PENTÁGONO S.A. DTVM",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "17C0995498",
-      "numSerie": 50,
-      "indTipoCRI": "Sênior",
-      "valorGlobalSerie": 17.08,
-      "valorTotalOferta": 22.99,
-      "dataEmissao": "24/03/2017",
-      "descrIdentificacaoCRI": 290
-    },
-    {
-      "codOferta": 290,
-      "fantasiaEmissor": "POLO CAPITAL SECURITIZADORA SA",
-      "nomeAgenteFiduciario": "PENTÁGONO S.A. DTVM",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "17C0996899",
-      "numSerie": 51,
-      "indTipoCRI": "Mezanino",
-      "valorGlobalSerie": 4.75,
-      "valorTotalOferta": 22.99,
-      "dataEmissao": "24/03/2017",
-      "descrIdentificacaoCRI": 290
     },
     {
       "codOferta": 294,
