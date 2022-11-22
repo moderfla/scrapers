@@ -18836,7 +18836,7 @@
     "idOperacao": 771,
     "codigoOpea": "CRI.51.CIA.1",
     "nomeDevedor": "Axis",
-    "indexador": "IPCA + 9.0000% a.a.",
+    "indexador": "IPCA + 9.1700% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2036-06-30T00:00:00",
     "status": null,
@@ -18866,7 +18866,7 @@
     },
     "taxaPosFixada": null,
     "percentualFlutuante": null,
-    "taxaJuros": 9,
+    "taxaJuros": 9.17,
     "agenciaRating": null
   },
   {
