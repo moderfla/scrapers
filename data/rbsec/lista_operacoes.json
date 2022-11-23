@@ -16628,7 +16628,7 @@
     "idOperacao": 530,
     "codigoOpea": "CRI.33.CIA.5",
     "nomeDevedor": "JHSF Boa Vista",
-    "indexador": "IPCA + 2.7500% a.a.",
+    "indexador": "CDI + 2.7500% a.a.",
     "precoUnitario": null,
     "dataVencimento": "2034-06-27T00:00:00",
     "status": null,
@@ -16646,18 +16646,22 @@
     "oferta": "ICVM476",
     "descricaoSegmento": null,
     "codigoIf": "22F1195743",
-    "tipoIndexador": "IPCA",
+    "tipoIndexador": "CDI",
     "naturezaOperacao": "Corporativo",
     "isin": "BRRBRACRICV2",
     "serie": 5,
     "emissao": 33,
     "tipoPagamento": {
-      "key": 3,
-      "value": "Correção Monetária",
-      "raw": "CorrecaoMonetaria"
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
     },
-    "taxaPosFixada": null,
-    "percentualFlutuante": null,
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
     "taxaJuros": 2.75,
     "agenciaRating": null
   },
