@@ -2932,6 +2932,20 @@
       "descrIdentificacaoCRI": 1874
     },
     {
+      "codOferta": 1675,
+      "fantasiaEmissor": "TRAVESSIA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21H0865631",
+      "numSerie": 83,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 22.05,
+      "valorTotalOferta": 53.1,
+      "dataEmissao": "20/10/2021",
+      "descrIdentificacaoCRI": 1675
+    },
+    {
       "codOferta": 1625,
       "fantasiaEmissor": "VIRGO COMPANHIA DE SECURITIZACAO",
       "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
@@ -3504,6 +3518,20 @@
       "valorTotalOferta": 20,
       "dataEmissao": "23/08/2021",
       "descrIdentificacaoCRI": 1591
+    },
+    {
+      "codOferta": 1675,
+      "fantasiaEmissor": "TRAVESSIA SECURITIZADORA S.A.",
+      "nomeAgenteFiduciario": "VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "numEmissao": 1,
+      "indTipoOferta": "Pública de Esforços Restritos",
+      "codCETIP": "21H0862845",
+      "numSerie": 82,
+      "indTipoCRI": "Sênior",
+      "valorGlobalSerie": 31.04,
+      "valorTotalOferta": 53.1,
+      "dataEmissao": "20/08/2021",
+      "descrIdentificacaoCRI": 1675
     },
     {
       "codOferta": 1578,
@@ -18346,20 +18374,6 @@
       "descrIdentificacaoCRI": 292
     },
     {
-      "codOferta": 292,
-      "fantasiaEmissor": "POLO CAPITAL SECURITIZADORA SA",
-      "nomeAgenteFiduciario": "PENTÁGONO S.A. DTVM",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "17D0097841",
-      "numSerie": 54,
-      "indTipoCRI": "Subordinada",
-      "valorGlobalSerie": 1.07,
-      "valorTotalOferta": 3.08,
-      "dataEmissao": "12/04/2017",
-      "descrIdentificacaoCRI": 292
-    },
-    {
       "codOferta": 1362,
       "fantasiaEmissor": "OURINVEST SECURITIZADORA",
       "nomeAgenteFiduciario": "VÓRTX DTVM LTDA.",
@@ -18736,20 +18750,6 @@
       "valorTotalOferta": 36,
       "dataEmissao": "26/12/2016",
       "descrIdentificacaoCRI": 309
-    },
-    {
-      "codOferta": 291,
-      "fantasiaEmissor": "BRAZILIAN SECURITIES CIA SECURITIZACAO",
-      "nomeAgenteFiduciario": "OLIVEIRA TRUST DTVM S.A.",
-      "numEmissao": 1,
-      "indTipoOferta": "Pública de Esforços Restritos",
-      "codCETIP": "16L0089814",
-      "numSerie": 380,
-      "indTipoCRI": "Série Única",
-      "valorGlobalSerie": 145,
-      "valorTotalOferta": 145,
-      "dataEmissao": "09/12/2016",
-      "descrIdentificacaoCRI": 291
     },
     {
       "codOferta": 308,
