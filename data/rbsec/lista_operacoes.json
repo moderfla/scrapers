@@ -1680,132 +1680,6 @@
     "agenciaRating": null
   },
   {
-    "id": 40,
-    "idOperacao": 40,
-    "codigoOpea": "CRI.1.CIA.97",
-    "nomeDevedor": "BR Malls | Shopping Estação",
-    "indexador": "IPCA + 6.3400% a.a.",
-    "precoUnitario": null,
-    "dataVencimento": "2024-03-07T00:00:00",
-    "status": null,
-    "statusPassivoOperacao": {
-      "key": 1,
-      "value": "Ativa",
-      "raw": "Ativa"
-    },
-    "garantiaReal": null,
-    "fundos": null,
-    "rating": null,
-    "servicer": [],
-    "masterService": "Opea Capital S.A.",
-    "concentracao": "Concentrado",
-    "oferta": "ICVM400",
-    "descricaoSegmento": null,
-    "codigoIf": "14C0067892",
-    "tipoIndexador": "IPCA",
-    "naturezaOperacao": "Corporativo",
-    "isin": "BRRBRACRI2F8",
-    "serie": 97,
-    "emissao": 1,
-    "tipoPagamento": {
-      "key": 3,
-      "value": "Correção Monetária",
-      "raw": "CorrecaoMonetaria"
-    },
-    "taxaPosFixada": {
-      "key": 0,
-      "value": null,
-      "raw": "0"
-    },
-    "percentualFlutuante": null,
-    "taxaJuros": 6.34,
-    "agenciaRating": null
-  },
-  {
-    "id": 41,
-    "idOperacao": 41,
-    "codigoOpea": "CRI.1.CIA.98",
-    "nomeDevedor": "BR Malls | Shopping Estação",
-    "indexador": "IPCA + 6.7100% a.a.",
-    "precoUnitario": null,
-    "dataVencimento": "2026-03-06T00:00:00",
-    "status": null,
-    "statusPassivoOperacao": {
-      "key": 1,
-      "value": "Ativa",
-      "raw": "Ativa"
-    },
-    "garantiaReal": null,
-    "fundos": null,
-    "rating": null,
-    "servicer": [],
-    "masterService": "Opea Capital S.A.",
-    "concentracao": "Concentrado",
-    "oferta": "ICVM400",
-    "descricaoSegmento": null,
-    "codigoIf": "14C0067901",
-    "tipoIndexador": "IPCA",
-    "naturezaOperacao": "Corporativo",
-    "isin": "BRRBRACRI2G6",
-    "serie": 98,
-    "emissao": 1,
-    "tipoPagamento": {
-      "key": 3,
-      "value": "Correção Monetária",
-      "raw": "CorrecaoMonetaria"
-    },
-    "taxaPosFixada": {
-      "key": 0,
-      "value": null,
-      "raw": "0"
-    },
-    "percentualFlutuante": null,
-    "taxaJuros": 6.71,
-    "agenciaRating": null
-  },
-  {
-    "id": 42,
-    "idOperacao": 42,
-    "codigoOpea": "CRI.1.CIA.99",
-    "nomeDevedor": "BR Malls | Shopping Estação",
-    "indexador": "IPCA + 7.0400% a.a.",
-    "precoUnitario": null,
-    "dataVencimento": "2029-03-07T00:00:00",
-    "status": null,
-    "statusPassivoOperacao": {
-      "key": 1,
-      "value": "Ativa",
-      "raw": "Ativa"
-    },
-    "garantiaReal": null,
-    "fundos": null,
-    "rating": null,
-    "servicer": [],
-    "masterService": "Opea Capital S.A.",
-    "concentracao": "Concentrado",
-    "oferta": "ICVM400",
-    "descricaoSegmento": null,
-    "codigoIf": "14C0072810",
-    "tipoIndexador": "IPCA",
-    "naturezaOperacao": "Corporativo",
-    "isin": "BRRBRACRI2H4",
-    "serie": 99,
-    "emissao": 1,
-    "tipoPagamento": {
-      "key": 3,
-      "value": "Correção Monetária",
-      "raw": "CorrecaoMonetaria"
-    },
-    "taxaPosFixada": {
-      "key": 0,
-      "value": null,
-      "raw": "0"
-    },
-    "percentualFlutuante": null,
-    "taxaJuros": 7.04,
-    "agenciaRating": null
-  },
-  {
     "id": 666,
     "idOperacao": 682,
     "codigoOpea": "CRI.7.PLS.1",
@@ -19156,6 +19030,86 @@
     "agenciaRating": null
   },
   {
+    "id": 777,
+    "idOperacao": 790,
+    "codigoOpea": "CRI.52.CIA.1",
+    "nomeDevedor": "Dufrio",
+    "indexador": "CDI + 2.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2028-10-16T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22J1295265",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIET2",
+    "serie": 1,
+    "emissao": 52,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 2,
+    "agenciaRating": null
+  },
+  {
+    "id": 772,
+    "idOperacao": 785,
+    "codigoOpea": "CRI.52.CIA.2",
+    "nomeDevedor": "Dufrio",
+    "indexador": "IPCA + 8.1723% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2028-10-16T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22J1295549",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRIEU0",
+    "serie": 2,
+    "emissao": 52,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 8.1723,
+    "agenciaRating": null
+  },
+  {
     "id": 774,
     "idOperacao": 787,
     "codigoOpea": "CRI.1.CIA.514",
@@ -19359,6 +19313,44 @@
     },
     "percentualFlutuante": 100,
     "taxaJuros": 2.5,
+    "agenciaRating": null
+  },
+  {
+    "id": 796,
+    "idOperacao": 809,
+    "codigoOpea": "CRI.66.CIA.1",
+    "nomeDevedor": "Paineiras",
+    "indexador": "IPCA + 11.0000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2026-11-25T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "22K1048115",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRICF9",
+    "serie": 1,
+    "emissao": 66,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": null,
+    "percentualFlutuante": null,
+    "taxaJuros": 11,
     "agenciaRating": null
   },
   {
@@ -23242,6 +23234,48 @@
     "agenciaRating": null
   },
   {
+    "id": 797,
+    "idOperacao": 810,
+    "codigoOpea": "CRA.55.CIA.1",
+    "nomeDevedor": "Copagri",
+    "indexador": "CDI + 5.5000% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2026-11-18T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 1,
+      "value": "Ativa",
+      "raw": "Ativa"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM476",
+    "descricaoSegmento": null,
+    "codigoIf": "CRA022007KK",
+    "tipoIndexador": "CDI",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRA2J8 ",
+    "serie": 1,
+    "emissao": 55,
+    "tipoPagamento": {
+      "key": 2,
+      "value": "Flutuante",
+      "raw": "Flutuante"
+    },
+    "taxaPosFixada": {
+      "key": 1,
+      "value": "CDI",
+      "raw": "CDI"
+    },
+    "percentualFlutuante": 100,
+    "taxaJuros": 5.5,
+    "agenciaRating": null
+  },
+  {
     "id": 551,
     "idOperacao": 567,
     "codigoOpea": "CRA.47.CIA.1",
@@ -26683,6 +26717,132 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 7.727,
+    "agenciaRating": null
+  },
+  {
+    "id": 40,
+    "idOperacao": 40,
+    "codigoOpea": "CRI.1.CIA.97",
+    "nomeDevedor": "BR Malls | Shopping Estação",
+    "indexador": "IPCA + 6.3400% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2024-03-07T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 3,
+      "value": "Resgatada",
+      "raw": "Resgatada"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM400",
+    "descricaoSegmento": null,
+    "codigoIf": "14C0067892",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRI2F8",
+    "serie": 97,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": {
+      "key": 0,
+      "value": null,
+      "raw": "0"
+    },
+    "percentualFlutuante": null,
+    "taxaJuros": 6.34,
+    "agenciaRating": null
+  },
+  {
+    "id": 41,
+    "idOperacao": 41,
+    "codigoOpea": "CRI.1.CIA.98",
+    "nomeDevedor": "BR Malls | Shopping Estação",
+    "indexador": "IPCA + 6.7100% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2026-03-06T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 3,
+      "value": "Resgatada",
+      "raw": "Resgatada"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM400",
+    "descricaoSegmento": null,
+    "codigoIf": "14C0067901",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRI2G6",
+    "serie": 98,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": {
+      "key": 0,
+      "value": null,
+      "raw": "0"
+    },
+    "percentualFlutuante": null,
+    "taxaJuros": 6.71,
+    "agenciaRating": null
+  },
+  {
+    "id": 42,
+    "idOperacao": 42,
+    "codigoOpea": "CRI.1.CIA.99",
+    "nomeDevedor": "BR Malls | Shopping Estação",
+    "indexador": "IPCA + 7.0400% a.a.",
+    "precoUnitario": null,
+    "dataVencimento": "2029-03-07T00:00:00",
+    "status": null,
+    "statusPassivoOperacao": {
+      "key": 3,
+      "value": "Resgatada",
+      "raw": "Resgatada"
+    },
+    "garantiaReal": null,
+    "fundos": null,
+    "rating": null,
+    "servicer": [],
+    "masterService": "Opea Capital S.A.",
+    "concentracao": "Concentrado",
+    "oferta": "ICVM400",
+    "descricaoSegmento": null,
+    "codigoIf": "14C0072810",
+    "tipoIndexador": "IPCA",
+    "naturezaOperacao": "Corporativo",
+    "isin": "BRRBRACRI2H4",
+    "serie": 99,
+    "emissao": 1,
+    "tipoPagamento": {
+      "key": 3,
+      "value": "Correção Monetária",
+      "raw": "CorrecaoMonetaria"
+    },
+    "taxaPosFixada": {
+      "key": 0,
+      "value": null,
+      "raw": "0"
+    },
+    "percentualFlutuante": null,
+    "taxaJuros": 7.04,
     "agenciaRating": null
   },
   {
