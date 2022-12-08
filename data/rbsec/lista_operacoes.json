@@ -441,7 +441,7 @@
     },
     "garantiaReal": null,
     "fundos": null,
-    "rating": "AAA",
+    "rating": null,
     "servicer": [],
     "masterService": "PLANETASEC ASSESSORIA FINANCEIRA LTDA.",
     "concentracao": "Pulverizada",
@@ -461,7 +461,7 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 6.38,
-    "agenciaRating": "Fitch Ratings"
+    "agenciaRating": null
   },
   {
     "id": 134,
@@ -975,7 +975,7 @@
     },
     "garantiaReal": null,
     "fundos": null,
-    "rating": "Aaa",
+    "rating": null,
     "servicer": [],
     "masterService": "PLANETASEC ASSESSORIA FINANCEIRA LTDA.",
     "concentracao": "Pulverizada",
@@ -995,7 +995,7 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 6.38,
-    "agenciaRating": "Moodys"
+    "agenciaRating": null
   },
   {
     "id": 703,
@@ -1497,7 +1497,7 @@
     },
     "garantiaReal": null,
     "fundos": null,
-    "rating": "Aaa",
+    "rating": null,
     "servicer": [],
     "masterService": "PLANETASEC ASSESSORIA FINANCEIRA LTDA.",
     "concentracao": "Pulverizada",
@@ -1517,7 +1517,7 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 6.38,
-    "agenciaRating": "Moodys"
+    "agenciaRating": null
   },
   {
     "id": 626,
@@ -1779,7 +1779,7 @@
     },
     "garantiaReal": null,
     "fundos": null,
-    "rating": "Aaa",
+    "rating": null,
     "servicer": [],
     "masterService": "PLANETASEC ASSESSORIA FINANCEIRA LTDA.",
     "concentracao": "Concentrado",
@@ -1799,7 +1799,7 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 6.38,
-    "agenciaRating": "Moodys"
+    "agenciaRating": null
   },
   {
     "id": 658,
@@ -2133,7 +2133,7 @@
     },
     "garantiaReal": null,
     "fundos": null,
-    "rating": "Aaa",
+    "rating": null,
     "servicer": [],
     "masterService": "PLANETASEC ASSESSORIA FINANCEIRA LTDA.",
     "concentracao": "Pulverizada",
@@ -2153,7 +2153,7 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 6.38,
-    "agenciaRating": "Moodys"
+    "agenciaRating": null
   },
   {
     "id": 634,
@@ -2651,7 +2651,7 @@
     },
     "garantiaReal": null,
     "fundos": null,
-    "rating": "Aaa",
+    "rating": null,
     "servicer": [],
     "masterService": "PLANETASEC ASSESSORIA FINANCEIRA LTDA.",
     "concentracao": "Pulverizada",
@@ -2671,7 +2671,7 @@
     "taxaPosFixada": null,
     "percentualFlutuante": null,
     "taxaJuros": 7.7151,
-    "agenciaRating": "Moodys"
+    "agenciaRating": null
   },
   {
     "id": 717,
